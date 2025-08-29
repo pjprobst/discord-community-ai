@@ -1,0 +1,506 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1328837999366115489",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Jude Gilligan Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:39:42.884563-04:00",
+  "messages": [
+    {
+      "id": "1328837999366115489",
+      "type": "Default",
+      "timestamp": "2025-01-14T16:27:47.665-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey Everyone! I am a freshman student looking for some advice to enhance my resume for applying to internships next year. I am starting a research opportunity this semester and I have an internship this summer, so my resume will surely be more full. I am just looking for some improvements to the experience/projects I already have listed. Please be critical. Thank you in advance!",
+      "author": {
+        "id": "308401420892241920",
+        "name": "._.chihuahua",
+        "discriminator": "0000",
+        "nickname": "jude gilligan",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/308401420892241920/996966843f91d67460973bc81192462e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1328837999491813538",
+          "url": "https://cdn.discordapp.com/attachments/1328837999366115489/1328837999491813538/judegilliganresume.pdf?ex=6885f113&is=68849f93&hm=b6ef422022b4885f542a1eec3b73dd24dfaea242b192338a15cf75f0c00d6cc2&",
+          "fileName": "judegilliganresume.pdf",
+          "fileSizeBytes": 103268
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328865006133182606",
+      "type": "Default",
+      "timestamp": "2025-01-14T18:15:06.58-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi Jude! First off congrats on research position and internship - all as a freshman, super impressive! \n\n- great orgnazation and great formatting\n- If you can add specific metrics to your Python pipeline achievement (like \"reduced error rates by X%\")\n- In the visualization dashboard point, specify what kinds of insights or decisions it enabled\n\nNot much else I can say",
+      "author": {
+        "id": "446759651120513024",
+        "name": "shreyash.ranjan",
+        "discriminator": "0000",
+        "nickname": "Shreyash Ranjan",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "‼️",
+            "code": "bangbang",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/203c.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "683116152670519343",
+              "name": "nijp",
+              "discriminator": "0000",
+              "nickname": "Nij",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328917945472127048",
+      "type": "Reply",
+      "timestamp": "2025-01-14T21:45:28.302-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you for your guidance\uD83D\uDE4F",
+      "author": {
+        "id": "308401420892241920",
+        "name": "._.chihuahua",
+        "discriminator": "0000",
+        "nickname": "jude gilligan",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/308401420892241920/996966843f91d67460973bc81192462e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "446759651120513024",
+          "name": "shreyash.ranjan",
+          "discriminator": "0000",
+          "nickname": "Shreyash Ranjan",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "729025347122888714",
+              "name": "Officers",
+              "color": "#FFCC00",
+              "position": 42
+            },
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1327078817772339271",
+              "name": "Mock Interviewer",
+              "color": "#C232FF",
+              "position": 34
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "878053832570056725",
+              "name": "Cyber Security",
+              "color": "#979C9F",
+              "position": 27
+            },
+            {
+              "id": "932105908807409664",
+              "name": "Robotics",
+              "color": "#955824",
+              "position": 26
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1055633555109203968",
+              "name": "Competitive Programming",
+              "color": "#C27C0E",
+              "position": 18
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1328865006133182606",
+        "channelId": "1328837999366115489",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4F",
+          "code": "pray",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+        }
+      ]
+    },
+    {
+      "id": "1329102620979232850",
+      "type": "Default",
+      "timestamp": "2025-01-15T09:59:18.374-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fire resume @jude gilligan",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "308401420892241920",
+          "name": "._.chihuahua",
+          "discriminator": "0000",
+          "nickname": "jude gilligan",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/308401420892241920/996966843f91d67460973bc81192462e.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329117254998298654",
+      "type": "Reply",
+      "timestamp": "2025-01-15T10:57:27.396-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you Nij\uD83E\uDD29",
+      "author": {
+        "id": "308401420892241920",
+        "name": "._.chihuahua",
+        "discriminator": "0000",
+        "nickname": "jude gilligan",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/308401420892241920/996966843f91d67460973bc81192462e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "683116152670519343",
+              "name": "nijp",
+              "discriminator": "0000",
+              "nickname": "Nij Patel",
+              "color": "#BB870F",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "683116152670519343",
+          "name": "nijp",
+          "discriminator": "0000",
+          "nickname": "Nij Patel",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1329102620979232850",
+        "channelId": "1328837999366115489",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD29",
+          "code": "star_struck",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f929.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 5
+}

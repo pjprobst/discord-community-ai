@@ -1,0 +1,2994 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1278027944916287508",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "CS 1510 Algorithm Design",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:11:03.934106-04:00",
+  "messages": [
+    {
+      "id": "1278027944916287508",
+      "type": "Default",
+      "timestamp": "2024-08-27T12:26:46.679-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone have any thoughts on this class? I just switched into it from CS 1651 (Advanced Systems Software) because it doesn't interest me as much as I was hoping",
+      "author": {
+        "id": "227947694797094922",
+        "name": "hedgy.",
+        "discriminator": "0000",
+        "nickname": "Graham Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/227947694797094922/57f5c7b262c763034b0f52e3ae775abb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1278034656159076394",
+      "type": "Default",
+      "timestamp": "2024-08-27T12:53:26.764-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's very hard and very work intensive",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1278034757946445835",
+      "type": "Default",
+      "timestamp": "2024-08-27T12:53:51.032-04:00",
+      "timestampEdited": "2024-08-27T12:53:54.894-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Expect three problem sets a week that take a few hours each in a group",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1278034794386690060",
+      "type": "Default",
+      "timestamp": "2024-08-27T12:53:59.72-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There is no programming",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1278074615742074910",
+      "type": "Default",
+      "timestamp": "2024-08-27T15:32:13.871-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "first lecture was pretty fun",
+      "author": {
+        "id": "424403435358519314",
+        "name": "quentinrl",
+        "discriminator": "0000",
+        "nickname": "Quentin Romero Lauro",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/424403435358519314/fd1fb23e3f8f6d5565fe546f11c07a91.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279592129886289972",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:02:17.437-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i took the class as an undergrad and thought it was really interesting but extremely difficult",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279592198282805380",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:02:33.744-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like maddie said, there's no programming, you're designing and proving algorithms",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279592250677923892",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:02:46.236-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and yes, \"proving\"",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279592302234439690",
+      "type": "Reply",
+      "timestamp": "2024-08-31T20:02:58.528-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"a few hours\"",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1278034757946445835",
+        "channelId": "1278027944916287508",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279592341564424243",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:03:07.905-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "assuming you even figure it out",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279592508900507781",
+      "type": "Reply",
+      "timestamp": "2024-08-31T20:03:47.801-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also, when i took 1510 as a undergrad, i believe it was one problem set per week, with multiple problems per problem set",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1278034757946445835",
+        "channelId": "1278027944916287508",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279592788975161437",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:04:54.576-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the problems are rated by diff difficulties and are worth diff amounts of points",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279592990129520712",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:05:42.535-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for the problems, you usually given some problem for which you need to come up with an algorithm, and then you'll need to prove that your algorithm is correct and/or that your algorithm is optimal",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279593130311684238",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:06:15.957-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the grade that you get in the class is mostly based on \"vibes\" and pruh's judgment of your work",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279593299782668389",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:06:56.362-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "his policy is that if you do the bare minimum (show up to class, participate in lecture, and at least do all the ez hw problems), you'll get the default grade of a B",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279593410101252230",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:07:22.664-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you have to go above and beyond in the class (participate a lot in lecture, regularly do the hard problems, do well on the exams) to get any form of A",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279593562563940353",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:07:59.014-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the first quarter of the sem is dedicated to greedy algorithms, the middle half is dedicated to dynamic programming, and the final quarter is dedicated to parallel algorithms",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279594218293035093",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:10:35.352-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i feel that 1510 is not just one of the hardest (if not the hardest) class in the cs dept, but also that it's hard in a fundamentally diff way from a lot of cs classes",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279594501928783994",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:11:42.976-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a lot of cs classes like 1501 or 1550 are hard mostly cuz there's a lot of work, whereas 1510 is hard cuz the material itself is genuinely hard",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279594828753272924",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:13:00.897-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it really, really forces you to think deeply about the material and sometimes think outside of the box, cuz you're coming up with the solutions yourself",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279594957711343668",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:13:31.643-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i still highly recommend the class tho, you learn an absolute ton if you can dedicate the time to learning the material and getting good at it",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279595058836017222",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:13:55.753-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that being said, pruhs is... an interesting character and people (sometimes rightfully) do have complaints about the guy",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279595335551025232",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:15:01.727-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he's a good lecturer, but he's not *great* imo",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279595440156708875",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:15:26.667-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "his lectures are sometimes hard to understand cuz he sometimes doesn't phrase explanations (or questions) very well",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279595665340498003",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:16:20.355-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "on multiple occasions he'd get annoyed that nobody could answer what was supposed to be a really simple question with an obvious answer, but he just phrased it so badly that nobody understood what he was tryna ask",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279596095797723137",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:18:02.984-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "see https://discord.com/channels/729022532874797146/1255663167099506698 for a bit more about pruhs",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279596453656006727",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:19:28.304-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also, if you don't have an anglo-american name, pruhs will butcher it like it's an olympic sport",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279596522648113253",
+      "type": "Reply",
+      "timestamp": "2024-08-31T20:19:44.753-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol yes",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "394256877447413761",
+          "name": "lonk_from_pennsylvania",
+          "discriminator": "0000",
+          "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "1243341257992962118",
+              "name": "PittAPI Dev",
+              "color": "#A84300",
+              "position": 32
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "878053832570056725",
+              "name": "Cyber Security",
+              "color": "#979C9F",
+              "position": 27
+            },
+            {
+              "id": "932105908807409664",
+              "name": "Robotics",
+              "color": "#955824",
+              "position": 26
+            },
+            {
+              "id": "799460107200888874",
+              "name": "Swift Dev",
+              "color": "#E91E63",
+              "position": 24
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1279596453656006727",
+        "channelId": "1278027944916287508",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279596557947113585",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:19:53.169-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i noticed this",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279596564775440481",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:19:54.797-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it was like",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279596567984345212",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:19:55.562-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "D:",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279596681876471818",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:20:22.716-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he calls on *everyone* during lecture for participation, and it's funny/maddening when he calls on someone who's there but didn't realize their name was being called",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279596731281178705",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:20:34.495-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which ends up being like a third to half of the class",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279601075204259891",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:37:50.167-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279601130187395092",
+      "type": "Default",
+      "timestamp": "2024-08-31T20:38:03.276-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "though sometimes that's because they're legitimately not paying attention",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 35
+}

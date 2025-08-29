@@ -1,0 +1,83 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1304684923504037899",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "CS 1671 - HUMAN LANGUAGE TECHNOLOGIES",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:03:07.385195-04:00",
+  "messages": [
+    {
+      "id": "1304684923504037899",
+      "type": "Default",
+      "timestamp": "2024-11-09T00:52:05.637-05:00",
+      "timestampEdited": "2024-11-09T01:01:02.55-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What are your thoughts on this course? It sounds interesting and I'm looking to take it in spring 25-26",
+      "author": {
+        "id": "401009647047147520",
+        "name": "nasi_murni",
+        "discriminator": "0000",
+        "nickname": "John Doe",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401009647047147520/8febda6cd2c3e483945e60e181a60ff4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD2F",
+            "code": "exploding_head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f92f.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1119851767547576472",
+              "name": "ilaydvir",
+              "discriminator": "0000",
+              "nickname": "Ilay",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1119851767547576472/65cbd671c95cf8db049a83fe55bbe5b4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

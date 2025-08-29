@@ -1,0 +1,1664 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1344784480623399012",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Remy Sedlak Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:37:44.015726-04:00",
+  "messages": [
+    {
+      "id": "1344784480623399012",
+      "type": "Default",
+      "timestamp": "2025-02-27T16:33:25.068-05:00",
+      "timestampEdited": "2025-02-27T16:39:33.304-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tailored towards Software development and engineering summer internship. NetGear manager at resume review day mentioned I should put my past internship on top of my current job, I would love to hear anyone elses thoughts on that or my resume in general.",
+      "author": {
+        "id": "1196604827027914872",
+        "name": "remymang",
+        "discriminator": "0000",
+        "nickname": "Remy Sedlak",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1344784480782778378",
+          "url": "https://cdn.discordapp.com/attachments/1344784480623399012/1344784480782778378/RemySedlak_February_24_2025_resume.docx_4.pdf?ex=6885f265&is=6884a0e5&hm=ec821b94c02cac277ac3af8907dbe5f61d430d6e06c1fc96b367623ae8591391&",
+          "fileName": "RemySedlak_February_24_2025_resume.docx_4.pdf",
+          "fileSizeBytes": 106133
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346746791890124852",
+      "type": "Default",
+      "timestamp": "2025-03-05T02:30:56.532-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i personally dk if you should include gpa if it isnt a 4.0",
+      "author": {
+        "id": "426078399602098195",
+        "name": "illusionbolt",
+        "discriminator": "0000",
+        "nickname": "Aarash Zakeri",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346747639944843285",
+      "type": "Default",
+      "timestamp": "2025-03-05T02:34:18.724-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe add an ectra bullet point for tutoring",
+      "author": {
+        "id": "426078399602098195",
+        "name": "illusionbolt",
+        "discriminator": "0000",
+        "nickname": "Aarash Zakeri",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1196604827027914872",
+              "name": "remymang",
+              "discriminator": "0000",
+              "nickname": "Remy Sedlak",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346747862939336790",
+      "type": "Default",
+      "timestamp": "2025-03-05T02:35:11.89-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "see this is super fire",
+      "author": {
+        "id": "426078399602098195",
+        "name": "illusionbolt",
+        "discriminator": "0000",
+        "nickname": "Aarash Zakeri",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1346747862670639136",
+          "url": "https://cdn.discordapp.com/attachments/1344784480623399012/1346747862670639136/Screenshot_2025-03-05_at_2.35.07_AM.png?ex=6885d6af&is=6884852f&hm=c613ad54a35cb0b9b1aacf560d8a31e490dc4505083c29b5e7b6a81574a5537b&",
+          "fileName": "Screenshot_2025-03-05_at_2.35.07_AM.png",
+          "fileSizeBytes": 28840
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346747894912389140",
+      "type": "Default",
+      "timestamp": "2025-03-05T02:35:19.513-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "add this to your internship too, hard stats are amazing",
+      "author": {
+        "id": "426078399602098195",
+        "name": "illusionbolt",
+        "discriminator": "0000",
+        "nickname": "Aarash Zakeri",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1196604827027914872",
+              "name": "remymang",
+              "discriminator": "0000",
+              "nickname": "Remy Sedlak",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346747993876987936",
+      "type": "Default",
+      "timestamp": "2025-03-05T02:35:43.108-05:00",
+      "timestampEdited": "2025-03-05T02:35:48.057-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so you did x by doing z, but youre missing the measure by y",
+      "author": {
+        "id": "426078399602098195",
+        "name": "illusionbolt",
+        "discriminator": "0000",
+        "nickname": "Aarash Zakeri",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1346747993688113212",
+          "url": "https://cdn.discordapp.com/attachments/1344784480623399012/1346747993688113212/Screenshot_2025-03-05_at_2.35.29_AM.png?ex=6885d6cf&is=6884854f&hm=2693859de4e36f3ddcb565428ae17a40c8ba53ee90b0ef68b50c393bed8d5018&",
+          "fileName": "Screenshot_2025-03-05_at_2.35.29_AM.png",
+          "fileSizeBytes": 20392
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346748050541908060",
+      "type": "Default",
+      "timestamp": "2025-03-05T02:35:56.618-05:00",
+      "timestampEdited": "2025-03-05T02:38:52.398-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "x measured by y done by z. this can take your resume a longgg way",
+      "author": {
+        "id": "426078399602098195",
+        "name": "illusionbolt",
+        "discriminator": "0000",
+        "nickname": "Aarash Zakeri",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1196604827027914872",
+              "name": "remymang",
+              "discriminator": "0000",
+              "nickname": "Remy Sedlak",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1196604827027914872",
+              "name": "remymang",
+              "discriminator": "0000",
+              "nickname": "Remy Sedlak",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346748512989220926",
+      "type": "Default",
+      "timestamp": "2025-03-05T02:37:46.874-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one bullet point is bolded",
+      "author": {
+        "id": "426078399602098195",
+        "name": "illusionbolt",
+        "discriminator": "0000",
+        "nickname": "Aarash Zakeri",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1346748512800604190",
+          "url": "https://cdn.discordapp.com/attachments/1344784480623399012/1346748512800604190/Screenshot_2025-03-05_at_2.37.40_AM.png?ex=6885d74a&is=688485ca&hm=317c2a72b48c2765dfcb8f6248ed2568b0d327083b7a76f53ed9a5aefaacc28e&",
+          "fileName": "Screenshot_2025-03-05_at_2.37.40_AM.png",
+          "fileSizeBytes": 35140
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346857527253536830",
+      "type": "Reply",
+      "timestamp": "2025-03-05T09:50:57.9-05:00",
+      "timestampEdited": "2025-03-05T10:20:14.34-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "really?? I feel like i mostly see gpas elsewhere and i've always been told to leave it.",
+      "author": {
+        "id": "1196604827027914872",
+        "name": "remymang",
+        "discriminator": "0000",
+        "nickname": "Remy Sedlak",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "426078399602098195",
+          "name": "illusionbolt",
+          "discriminator": "0000",
+          "nickname": "Aarash Zakeri",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1243341257992962118",
+              "name": "PittAPI Dev",
+              "color": "#A84300",
+              "position": 32
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1156003013966708776",
+              "name": "Comp Bio",
+              "color": "#2ECC71",
+              "position": 17
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1346746791890124852",
+        "channelId": "1344784480623399012",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346857694174249031",
+      "type": "Reply",
+      "timestamp": "2025-03-05T09:51:37.697-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thank you",
+      "author": {
+        "id": "1196604827027914872",
+        "name": "remymang",
+        "discriminator": "0000",
+        "nickname": "Remy Sedlak",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "426078399602098195",
+          "name": "illusionbolt",
+          "discriminator": "0000",
+          "nickname": "Aarash Zakeri",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1243341257992962118",
+              "name": "PittAPI Dev",
+              "color": "#A84300",
+              "position": 32
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1156003013966708776",
+              "name": "Comp Bio",
+              "color": "#2ECC71",
+              "position": 17
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1346747993876987936",
+        "channelId": "1344784480623399012",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346875258396872794",
+      "type": "Reply",
+      "timestamp": "2025-03-05T11:01:25.334-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "K mean you can ask around",
+      "author": {
+        "id": "426078399602098195",
+        "name": "illusionbolt",
+        "discriminator": "0000",
+        "nickname": "Aarash Zakeri",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1196604827027914872",
+          "name": "remymang",
+          "discriminator": "0000",
+          "nickname": "Remy Sedlak",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "784871450087522345",
+              "name": "Game Dev",
+              "color": "#F2B6B0",
+              "position": 28
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705875669151805",
+              "name": "Digital Humanities",
+              "color": "#9B59B6",
+              "position": 16
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1346857527253536830",
+        "channelId": "1344784480623399012",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346883763509923951",
+      "type": "Reply",
+      "timestamp": "2025-03-05T11:35:13.111-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "usually heard people say keep it if >3.5, also have seen a lot of job postings typically ask for >3.5 when asking for transcript",
+      "author": {
+        "id": "195391017585868802",
+        "name": "yoowho.",
+        "discriminator": "0000",
+        "nickname": "Channdavel Kong",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195391017585868802/9091ec16499e3b99359f72d8c2d8f864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "743509541144100904",
+              "name": "ncbarta",
+              "discriminator": "0000",
+              "nickname": "Barta",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+            },
+            {
+              "id": "1196604827027914872",
+              "name": "remymang",
+              "discriminator": "0000",
+              "nickname": "Remy Sedlak",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "426078399602098195",
+          "name": "illusionbolt",
+          "discriminator": "0000",
+          "nickname": "Aarash Zakeri",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1243341257992962118",
+              "name": "PittAPI Dev",
+              "color": "#A84300",
+              "position": 32
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1156003013966708776",
+              "name": "Comp Bio",
+              "color": "#2ECC71",
+              "position": 17
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/426078399602098195/7a3a6b756769186944259f79e80cda6d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1346746791890124852",
+        "channelId": "1344784480623399012",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346888330674962503",
+      "type": "Default",
+      "timestamp": "2025-03-05T11:53:22.008-05:00",
+      "timestampEdited": "2025-03-05T11:53:46.097-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yea most applications ask to fill in a gpa so i dont see the harm of leaving it there in the resume.  and my gpa should be recovered in the fall  :L , Thank you for the insights",
+      "author": {
+        "id": "1196604827027914872",
+        "name": "remymang",
+        "discriminator": "0000",
+        "nickname": "Remy Sedlak",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347949175282602045",
+      "type": "Reply",
+      "timestamp": "2025-03-08T10:08:47.072-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You’re fine leaving a 3.4 for anything besides extremely selective companies",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1196604827027914872",
+          "name": "remymang",
+          "discriminator": "0000",
+          "nickname": "Remy Sedlak",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "784871450087522345",
+              "name": "Game Dev",
+              "color": "#F2B6B0",
+              "position": 28
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705875669151805",
+              "name": "Digital Humanities",
+              "color": "#9B59B6",
+              "position": 16
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1346857527253536830",
+        "channelId": "1344784480623399012",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347949263631417354",
+      "type": "Default",
+      "timestamp": "2025-03-08T10:09:08.136-05:00",
+      "timestampEdited": "2025-03-08T10:09:18.536-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Source i have a 3.4 and have it on my resume but i don’t think it has affected me negatively but i couldn’t say for sure",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 15
+}

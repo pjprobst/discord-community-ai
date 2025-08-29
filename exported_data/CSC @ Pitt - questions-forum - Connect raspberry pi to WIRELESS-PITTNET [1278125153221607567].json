@@ -1,0 +1,175 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1278125153221607567",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Connect raspberry pi to WIRELESS-PITTNET",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:11:09.260092-04:00",
+  "messages": [
+    {
+      "id": "1278125153221607567",
+      "type": "Default",
+      "timestamp": "2024-08-27T18:53:02.945-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does anyone know how to connect a raspberry pi to `WIRELESS-PITTNET`?  Not specifically a pi either but any linux machine running wpa_supplicant.",
+      "author": {
+        "id": "510552023750672384",
+        "name": "newchairdubbz",
+        "discriminator": "0000",
+        "nickname": "Numair Dubas",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/510552023750672384/5ddd5f3827339c7b583cf521d77c2472.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1278172591374336112",
+      "type": "Default",
+      "timestamp": "2024-08-27T22:01:33.082-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I stopped using wpa_supplicant cause it was really buggy on my laptop so I use iwd instead. Here is the reddit post I used to connect to wifi at pitt\nhttps://www.reddit.com/r/archlinux/comments/nlpr7l/wifi_connection_with_iwctl_university_network/",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "From the archlinux community on Reddit",
+          "url": "https://www.reddit.com/r/archlinux/comments/nlpr7l/wifi_connection_with_iwctl_university_network/",
+          "timestamp": null,
+          "description": "Explore this post and more from the archlinux community",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LKjCB_DFxhecZVCoX3I10pYf83dBzwZyTGPUMKoSueg/https/share.redd.it/preview/post/nlpr7l",
+            "width": 1120,
+            "height": 584
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1278191957994377280",
+      "type": "Default",
+      "timestamp": "2024-08-27T23:18:30.444-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "huh it works perfectly on iwd but not wpa with the exact same config \uD83E\uDD37‍♂️",
+      "author": {
+        "id": "510552023750672384",
+        "name": "newchairdubbz",
+        "discriminator": "0000",
+        "nickname": "Numair Dubas",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/510552023750672384/5ddd5f3827339c7b583cf521d77c2472.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD37",
+          "code": "person_shrugging",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f937.svg"
+        }
+      ]
+    },
+    {
+      "id": "1278192021437419656",
+      "type": "Default",
+      "timestamp": "2024-08-27T23:18:45.57-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thx \uD83D\uDC4D",
+      "author": {
+        "id": "510552023750672384",
+        "name": "newchairdubbz",
+        "discriminator": "0000",
+        "nickname": "Numair Dubas",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/510552023750672384/5ddd5f3827339c7b583cf521d77c2472.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC4D",
+          "code": "thumbsup",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 4
+}

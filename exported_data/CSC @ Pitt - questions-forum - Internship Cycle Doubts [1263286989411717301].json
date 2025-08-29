@@ -1,0 +1,1875 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1263286989411717301",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Internship Cycle Doubts",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:13:00.43354-04:00",
+  "messages": [
+    {
+      "id": "1263286989411717301",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:11:29.013-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello! My situation is very similar to https://discord.com/channels/729022532874797146/1262615749441097728, except that I haven't looked at internship offerings yet. However, I have just looked at the Leetcode stuff starting with Week 1. Those questions are marked as \"Easy,\" and while I have the \"Brute Force\" methods down pretty quickly, I realized I was unable to find more efficient methods. I looked at posted solutions and saw that I have no idea what Hash Maps or Hash Sets are, and they seem pretty important to know for this kind of stuff. I did take 445 last fall, but I won't be taking 1501 until this spring, so at the moment I feel pretty underqualified to be applying to anything, especially if these are similar questions to ones I would be asked to solve. Is it worth looking into that Hashing information on my own, teaching myself, and trying to proceed with Leetcode and internship applications, all before next week? Or is this a sign that I should wait for after I take 1501?\n\nSome (potentially) helpful info:\n* I'm pursuing:\n  * CS Major (hoping for 5 year track)\n  * Physics & Quantum Computing Major\n  * Honors Degree\n* Currently working on a personal project on GitHub: https://github.com/TitanAJ13/Vanilla_Minecraft_Origins_Datapack\n* Finished a Desmos personal project last year: https://www.desmos.com/calculator/e2wcsaewp9\n* Due to my double major, I need 2 capstones, and thus 2 different internship/research opportunities for credit before I graduate\n\n* Can't think of anything else at the moment, but I'd be happy to provide more info if necessary\n\nThanks in advance for any and all responses, I really appreciate any advice you have to offer!",
+      "author": {
+        "id": "551859223798087685",
+        "name": "titanaj13",
+        "discriminator": "0000",
+        "nickname": "Anthony Arshoun",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - TitanAJ13/Vanilla_Minecraft_Origins_Datapack: A datapack f...",
+          "url": "https://github.com/TitanAJ13/Vanilla_Minecraft_Origins_Datapack",
+          "timestamp": null,
+          "description": "A datapack for Vanilla Minecraft based on the Origins Mod - TitanAJ13/Vanilla_Minecraft_Origins_Datapack",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zg1yttQIu6BQxYLjXgUmm10a9i6L49Dsjy4Dzu7k_ag/https/opengraph.githubassets.com/bcd83321fd02c6f171e826e207f919681ccfe7631672151e722b100ca4bb58cd/TitanAJ13/Vanilla_Minecraft_Origins_Datapack",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "3D Graphing Calculator",
+          "url": "https://www.desmos.com/calculator/e2wcsaewp9",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0aSX66vmnHPTCBdnz93pl65QP7nut9we12F2-ullfvA/https/www.desmos.com/calc_thumbs/production/e2wcsaewp9.png",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263287494859034695",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:13:29.521-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey don’t worry about it! Not all companies do Leetcode interviews",
+      "author": {
+        "id": "619614304853032980",
+        "name": "daley__",
+        "discriminator": "0000",
+        "nickname": "Daley Fraser",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619614304853032980/6884f38faf700f6cb7166673d93ee739.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263287707585478656",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:14:20.239-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know that hashmaps are in 445, so unsure what happened there. But definitely learn them! They are super important, I use them all the time",
+      "author": {
+        "id": "619614304853032980",
+        "name": "daley__",
+        "discriminator": "0000",
+        "nickname": "Daley Fraser",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619614304853032980/6884f38faf700f6cb7166673d93ee739.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263287866763640833",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:14:58.19-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Always apply early!",
+      "author": {
+        "id": "619614304853032980",
+        "name": "daley__",
+        "discriminator": "0000",
+        "nickname": "Daley Fraser",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619614304853032980/6884f38faf700f6cb7166673d93ee739.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263288613324460174",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:17:56.184-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Who did you have for 0445? To actually catching up on the materials and learning about hash maps and sets (which are really important for internship interviews, thats like the answer half the time lol) - I would recommend watching Neetcode videos and using his website https://neetcode.io\n\nif you are more of a book guy - I would get \"cracking the coding interview\". super famous book but I really enjoy reading my copy as well!",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NeetCode",
+          "url": "https://neetcode.io/",
+          "timestamp": null,
+          "description": "A better way to prepare for coding interviews.",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263289409319600178",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:21:05.964-04:00",
+      "timestampEdited": "2024-07-17T20:24:09.964-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you don't know what hashmaps are, it might be better to watch a few youtube videos, learn what they are, and then jump into leetcode problems. At the end of the day, leetcode is there to help you practice your DSA knowledge, so you'd need a good knowledge base to get started. Hashmaps/sets are super important, and any time you see an array/string related question, theres a good chance that hashmaps/sets are gonna be part of ur solution. I'd reccommend watching a few youtube videos about what they are, how hash algos work, tradeoffs of using them, etc. After that, jump into neetcode",
+      "author": {
+        "id": "478840166014779395",
+        "name": "anirudhiyer",
+        "discriminator": "0000",
+        "nickname": "anirudh iyer",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263292732307410977",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:34:18.226-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've just reviewed my 445 notes and I feel quite dumb now realizing that Hash *Maps* are also called Dictionaries, which I do know about. So uh, there goes that problem haha. I guess I've just never used the built-in hash maps for Java or C# so I wouldn't know the proper syntax for it, but that's pretty easy to research. We definitely didn't do Sets though, I just know what those are from a more mathematical standpoint. So I'll look into hash sets on youtube or neetcode and I guess I'll keep chugging through Leetcode then!",
+      "author": {
+        "id": "551859223798087685",
+        "name": "titanaj13",
+        "discriminator": "0000",
+        "nickname": "Anthony Arshoun",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263293184402915469",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:36:06.014-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I suppose my question can then be rewritten to something like: \"Is the point of Leetcode to do the actual programming and be syntactically correct, or just to have the proper knowledge and thought process to solve the problem at hand?\"",
+      "author": {
+        "id": "551859223798087685",
+        "name": "titanaj13",
+        "discriminator": "0000",
+        "nickname": "Anthony Arshoun",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263293717100363867",
+      "type": "Reply",
+      "timestamp": "2024-07-17T20:38:13.019-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's definitely a little bit of both - fun story is one of my techincal interviews for this past recruting cycle, I requested to do it in Python but my interviewer was like \"haha actually I saw Java on your resume so we will be doing that!\" and then syntax and also problem solving side was checked",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "551859223798087685",
+          "name": "titanaj13",
+          "discriminator": "0000",
+          "nickname": "Anthony Arshoun",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            },
+            {
+              "id": "1240755362722746510",
+              "name": "LeetCode Bootcamp",
+              "color": null,
+              "position": 10
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263293184402915469",
+        "channelId": "1263286989411717301",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263293812470452316",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:38:35.757-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hashsets are just hashmaps without a value, so instead of a O(1) retrieval for a key/value, its just a value.",
+      "author": {
+        "id": "478840166014779395",
+        "name": "anirudhiyer",
+        "discriminator": "0000",
+        "nickname": "anirudh iyer",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263294416639102996",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:40:59.802-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as for proper syntax, its def a bit of both. for online assessments, since it's autograded with some testcases, your syntax has to be correct. for interviews, i've had some interviews where they say i'm not going to run your code, so it's okay if you get a method name wrong here and there. on the other end, sometimes they come prepared with test cases to run your code against but also were a bit friendly when i had to google a specific method name",
+      "author": {
+        "id": "478840166014779395",
+        "name": "anirudhiyer",
+        "discriminator": "0000",
+        "nickname": "anirudh iyer",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263294574135218256",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:41:37.352-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for leetcode when ur starting out, prioritize throught process, and as you get more experienced, you'll end up not needing to google as much",
+      "author": {
+        "id": "478840166014779395",
+        "name": "anirudhiyer",
+        "discriminator": "0000",
+        "nickname": "anirudh iyer",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263295243399336050",
+      "type": "Reply",
+      "timestamp": "2024-07-17T20:44:16.917-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LC can you help you prepare for the technical aspects of interviews and for the most part *it’s really good at that* it can help you become proficient at answering questions in timed manner (like the sats or standardized exams)",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "551859223798087685",
+          "name": "titanaj13",
+          "discriminator": "0000",
+          "nickname": "Anthony Arshoun",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            },
+            {
+              "id": "1240755362722746510",
+              "name": "LeetCode Bootcamp",
+              "color": null,
+              "position": 10
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263293184402915469",
+        "channelId": "1263286989411717301",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263295458051100814",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:45:08.094-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you prepare enough in a specific language you’ll become proficient enough where all those language specifications are just second nature",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263295565970673704",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:45:33.824-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I see. So in theory mostly thought process, but make sure to know what the syntax is anyways, especially in the language specified on my resume. Is that about right?",
+      "author": {
+        "id": "551859223798087685",
+        "name": "titanaj13",
+        "discriminator": "0000",
+        "nickname": "Anthony Arshoun",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "478840166014779395",
+              "name": "anirudhiyer",
+              "discriminator": "0000",
+              "nickname": "anirudh iyer",
+              "color": "#206694",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263295597075759125",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:45:41.24-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Because fundamentally the data structures and concepts are all the same it’s just recognizing the patterns fast enough",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263295795931906229",
+      "type": "Reply",
+      "timestamp": "2024-07-17T20:46:28.651-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "About how much time should be given to each problem? 5 minutes? 10? 1? I'm hoping not 1 lol but you can never be sure",
+      "author": {
+        "id": "551859223798087685",
+        "name": "titanaj13",
+        "discriminator": "0000",
+        "nickname": "Anthony Arshoun",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "376261113429360640",
+          "name": "gobydastan",
+          "discriminator": "0000",
+          "nickname": "Dastan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263295243399336050",
+        "channelId": "1263286989411717301",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263295965616406598",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:47:09.107-04:00",
+      "timestampEdited": "2024-07-17T20:47:31.532-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "best practice is to give a question like max 30 minutes locked in then just give up",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "551859223798087685",
+              "name": "titanaj13",
+              "discriminator": "0000",
+              "nickname": "Anthony Arshoun",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263296031349542983",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:47:24.779-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and watch a solution video and understand it (i like to take notes as well)",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263296156465889360",
+      "type": "Reply",
+      "timestamp": "2024-07-17T20:47:54.609-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most OA are like 3-4 questions and you’re given 1-1.5 hours so I’d say 20-30 mins",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "551859223798087685",
+              "name": "titanaj13",
+              "discriminator": "0000",
+              "nickname": "Anthony Arshoun",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "551859223798087685",
+          "name": "titanaj13",
+          "discriminator": "0000",
+          "nickname": "Anthony Arshoun",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            },
+            {
+              "id": "1240755362722746510",
+              "name": "LeetCode Bootcamp",
+              "color": null,
+              "position": 10
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263295795931906229",
+        "channelId": "1263286989411717301",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263296378952486994",
+      "type": "Reply",
+      "timestamp": "2024-07-17T20:48:47.654-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yup do a problem for 30 mins, if you’re stuck for a long time not making progress, look at the solutions understand the solution not just the code, then revisit it  a few days later to make sure you understand. then do more problems of that same pattern.",
+      "author": {
+        "id": "478840166014779395",
+        "name": "anirudhiyer",
+        "discriminator": "0000",
+        "nickname": "anirudh iyer",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "551859223798087685",
+              "name": "titanaj13",
+              "discriminator": "0000",
+              "nickname": "Anthony Arshoun",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "683116152670519343",
+          "name": "nijp",
+          "discriminator": "0000",
+          "nickname": "Nij Patel",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263295965616406598",
+        "channelId": "1263286989411717301",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263297068374691900",
+      "type": "Reply",
+      "timestamp": "2024-07-17T20:51:32.025-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also this is really good advice. From my experience there are patterns that some of these problems use that are not explicitly taught in 445 and 1501, (fast and slow pointers for example)",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "683116152670519343",
+          "name": "nijp",
+          "discriminator": "0000",
+          "nickname": "Nij Patel",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263288613324460174",
+        "channelId": "1263286989411717301",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263298572510560267",
+      "type": "Reply",
+      "timestamp": "2024-07-17T20:57:30.639-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh right, forgot to answer this, sorry. I had Stephen Ellis for 445. That was the 2.5 hour lecture in the evening, once a week. But we did actually go over maps, I just forgot they were called that",
+      "author": {
+        "id": "551859223798087685",
+        "name": "titanaj13",
+        "discriminator": "0000",
+        "nickname": "Anthony Arshoun",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "683116152670519343",
+          "name": "nijp",
+          "discriminator": "0000",
+          "nickname": "Nij Patel",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263288613324460174",
+        "channelId": "1263286989411717301",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263298595365589043",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:57:36.088-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/poteto/hiring-without-whiteboards",
+      "author": {
+        "id": "336219670640066562",
+        "name": "brayzn",
+        "discriminator": "0000",
+        "nickname": "Brayden Nguyen",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1343796698375524352",
+            "name": "Leetcode Streak \uD83D\uDD25",
+            "color": "#FF00DD",
+            "position": 41
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336219670640066562/129fe3dee65c30e39cbbd0ba5f3f9097.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263298695840010362",
+      "type": "Default",
+      "timestamp": "2024-07-17T20:58:00.043-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a little outdated but this is a list fo companies that don't do technical interviews",
+      "author": {
+        "id": "336219670640066562",
+        "name": "brayzn",
+        "discriminator": "0000",
+        "nickname": "Brayden Nguyen",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1343796698375524352",
+            "name": "Leetcode Streak \uD83D\uDD25",
+            "color": "#FF00DD",
+            "position": 41
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336219670640066562/129fe3dee65c30e39cbbd0ba5f3f9097.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263300823031615510",
+      "type": "Reply",
+      "timestamp": "2024-07-17T21:06:27.205-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Much appreciated!",
+      "author": {
+        "id": "551859223798087685",
+        "name": "titanaj13",
+        "discriminator": "0000",
+        "nickname": "Anthony Arshoun",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551859223798087685/7819fbf013011e1e2eedc3ea275b3efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "336219670640066562",
+          "name": "brayzn",
+          "discriminator": "0000",
+          "nickname": "Brayden Nguyen",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "729025347122888714",
+              "name": "Officers",
+              "color": "#FFCC00",
+              "position": 42
+            },
+            {
+              "id": "1343796698375524352",
+              "name": "Leetcode Streak \uD83D\uDD25",
+              "color": "#FF00DD",
+              "position": 41
+            },
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "1327078817772339271",
+              "name": "Mock Interviewer",
+              "color": "#C232FF",
+              "position": 34
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "1055633555109203968",
+              "name": "Competitive Programming",
+              "color": "#C27C0E",
+              "position": 18
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/336219670640066562/129fe3dee65c30e39cbbd0ba5f3f9097.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263298695840010362",
+        "channelId": "1263286989411717301",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 26
+}

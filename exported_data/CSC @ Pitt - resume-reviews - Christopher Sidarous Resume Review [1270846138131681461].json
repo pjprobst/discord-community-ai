@@ -1,0 +1,1098 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1270846138131681461",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Christopher Sidarous Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:49:06.853877-04:00",
+  "messages": [
+    {
+      "id": "1270846138131681461",
+      "type": "Default",
+      "timestamp": "2024-08-07T16:48:50.51-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey everyone! Im currently apply for full time roles for next year after I graduate. Any feedback would be helpful. Also was wondering what I should omit as I am currently doing other stuff that I want to put but havnt completed such as Headstarter AI Software Engineering Fellowship, Google Data Analytics Certifiate(In progress). Also was wondering if I should elaborate my leadership/involvment experiences. Also I have been contribitueing to Pitt API so not sure how this can be added like if I can put myself as developer next to Pitt CS CLub. Thanks in advance!",
+      "author": {
+        "id": "736004506814382132",
+        "name": "chrissidarous",
+        "discriminator": "0000",
+        "nickname": "Chris Sidarous",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1270846138265767966",
+          "url": "https://cdn.discordapp.com/attachments/1270846138131681461/1270846138265767966/Sidarous_Updated_Resume.pdf?ex=6885e7f2&is=68849672&hm=0b1a6bcc5c1323fe841b364a81b645ecceaf65af4cbe99b31220df420d2b8e5e&",
+          "fileName": "Sidarous_Updated_Resume.pdf",
+          "fileSizeBytes": 88184
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "743509541144100904",
+              "name": "ncbarta",
+              "discriminator": "0000",
+              "nickname": "Barta",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270851970550464532",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:12:01.067-04:00",
+      "timestampEdited": "2024-08-07T17:17:38.614-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Design/format:\n1. I’d recommend left aligning your title sections, because it’s easier to read, when it’s centered like that the reader has to actively go out of their way to read it\n2. Add a start and end date for your projects, I think it will look for impressive especially since one of them is a capstone which means it’s at least multiple months I assume\n3. Instead of “leadership & Involvement” just say “Extracurriculars”\n4. Also add a date for your extracurriculars most consistent with the other sections and it could show that’re your still active in them\n5. I’d reverse the title for the extracurriculars and the organization (more consistent with the experiences)\n6. Instead of “ACCOMPLISHMENTS & AWARDS” (also this is all caps but the previous one isn’t, if you’re going to do that make sure to do it for all your sections, attention to detail and consistency) make it “Achievements”\n7. I’d maybe remove the date for that awards section I don’t think it’s necessary and it’s kind vague when you say spring 2023 was that 4months the entire term? If so that’s misleading or just occurred in the spring of 2023 term and was a couple day hackathon? I’d just remove the date, be more specific about it, or specify it was just a hackathon\nContent:\n1. If you did a bs in cs and bs in ds, be specific about that as the way you currently have it leads them to think it was a joint program of sorts \n2. Add a gpa if possible (cumulative, major, recent term are all options) you’re still in college\n3. Add a relevant courses section again still in college\n4. Try to be specific when it matters and leave details out when it doesn’t for example id say the ages of your students can be omitted in the IT intern role (it’s better to let them assume they were adults as it can show you taught more complex ideas)\n5. “Assisted with debugging code, project backup, and computer clean-up” that seems like 3 bullet points in one, either make it 3 bullet points and go into detail, or talk about 1",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270852523250679949",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:14:12.841-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also a general good rule of thumb to follow for your bullet points is to mention frameworks/languages and stuff you listed for your skills in the bullet points to kind support why you listed them",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270852644428316793",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:14:41.732-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Obviously not all of the skill items can be supported as you might’ve used them in courses and what not but try your best to do that",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270852894324818060",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:15:41.312-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But yeah overall I’d say the formatting and content are solid just those minor adjustments would push it over the top imo",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270854479096447048",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:21:59.151-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you do add a gpa id remove the deans list, nobody cares about that really the gpa will speak for itself",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270857473124732928",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:33:52.983-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @Dastan! My gpas are not above 3.4 which is why I didnt put them unless I put most recent term but do I have to specify that. Also would putting B.S in Computer Science  and B.S in Data Science be better. Also if Im doing a Sofwtare Engineering fellow currently would it be benificail to put as well(not sure if I would have to replace soething), any suggestions.",
+      "author": {
+        "id": "736004506814382132",
+        "name": "chrissidarous",
+        "discriminator": "0000",
+        "nickname": "Chris Sidarous",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "376261113429360640",
+          "name": "gobydastan",
+          "discriminator": "0000",
+          "nickname": "Dastan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270858653305536543",
+      "type": "Reply",
+      "timestamp": "2024-08-07T17:38:34.36-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For the gpa yes you can say something like “(recent term GPA:…)” or “(Spring 2024 GPA:…)” I’d honestly just put it right after your degree if you want to save space and talk about your relevant courses \nFor the fellow role, if it’s been longer than a month then I’d def mention it especially if it’s a paid experience and add some bullet points, if not you can list it but just don’t add any bullet points as it’s recent",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "736004506814382132",
+          "name": "chrissidarous",
+          "discriminator": "0000",
+          "nickname": "Chris Sidarous",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1243341257992962118",
+              "name": "PittAPI Dev",
+              "color": "#A84300",
+              "position": 32
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "878053832570056725",
+              "name": "Cyber Security",
+              "color": "#979C9F",
+              "position": 27
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1270857473124732928",
+        "channelId": "1270846138131681461",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270858948131688477",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:39:44.652-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A yeah a “B.S in Computer Science and B.S in Data Science” works something along those lines",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270860050872664136",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:44:07.566-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dastan would this work",
+      "author": {
+        "id": "736004506814382132",
+        "name": "chrissidarous",
+        "discriminator": "0000",
+        "nickname": "Chris Sidarous",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1270860050667405426",
+          "url": "https://cdn.discordapp.com/attachments/1270846138131681461/1270860050667405426/Screenshot_2024-08-07_at_5.43.51_PM.png?ex=6885f4e7&is=6884a367&hm=0a9404b7a8e4fa3cffc0ff17130a830ed4cc90ffcdc73ba6630e10c825dce053&",
+          "fileName": "Screenshot_2024-08-07_at_5.43.51_PM.png",
+          "fileSizeBytes": 48392
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "376261113429360640",
+          "name": "gobydastan",
+          "discriminator": "0000",
+          "nickname": "Dastan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270860204191252585",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:44:44.12-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or should I put Spring 2024 GPA:",
+      "author": {
+        "id": "736004506814382132",
+        "name": "chrissidarous",
+        "discriminator": "0000",
+        "nickname": "Chris Sidarous",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270860426112008223",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:45:37.03-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’d personally recommend not doing that, because it’s inconsistent, you have a date for education but a term for the gpa I’d keep them next to each other",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270860496702144532",
+      "type": "Reply",
+      "timestamp": "2024-08-07T17:45:53.86-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is better imo",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "736004506814382132",
+          "name": "chrissidarous",
+          "discriminator": "0000",
+          "nickname": "Chris Sidarous",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1243341257992962118",
+              "name": "PittAPI Dev",
+              "color": "#A84300",
+              "position": 32
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "878053832570056725",
+              "name": "Cyber Security",
+              "color": "#979C9F",
+              "position": 27
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1270860204191252585",
+        "channelId": "1270846138131681461",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270860705280688240",
+      "type": "Reply",
+      "timestamp": "2024-08-07T17:46:43.589-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1270860705104658432",
+          "url": "https://cdn.discordapp.com/attachments/1270846138131681461/1270860705104658432/1270860050872664136remix-1723067202718.png?ex=6885f583&is=6884a403&hm=b0e705a8b53b2be49878e4dad2af8c79c0c07fce9a1984107100105204efa6a4&",
+          "fileName": "1270860050872664136remix-1723067202718.png",
+          "fileSizeBytes": 18352
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "736004506814382132",
+          "name": "chrissidarous",
+          "discriminator": "0000",
+          "nickname": "Chris Sidarous",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1243341257992962118",
+              "name": "PittAPI Dev",
+              "color": "#A84300",
+              "position": 32
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "878053832570056725",
+              "name": "Cyber Security",
+              "color": "#979C9F",
+              "position": 27
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1270860050872664136",
+        "channelId": "1270846138131681461",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270860766312009800",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:46:58.14-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can put it there I think that’ll look good",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270861077579829259",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:48:12.352-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dastan Defintily thanks. Also do you have any suggestions for adding my contributions to PITT API. or should I put developer nect to club in organizations and when I did it",
+      "author": {
+        "id": "736004506814382132",
+        "name": "chrissidarous",
+        "discriminator": "0000",
+        "nickname": "Chris Sidarous",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "376261113429360640",
+          "name": "gobydastan",
+          "discriminator": "0000",
+          "nickname": "Dastan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270861299848314932",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:49:05.345-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For the Pitt api I’d put that under extracurriculars as it’s not a personal project",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270861387429711965",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:49:26.226-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "736004506814382132",
+        "name": "chrissidarous",
+        "discriminator": "0000",
+        "nickname": "Chris Sidarous",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1270861387245293705",
+          "url": "https://cdn.discordapp.com/attachments/1270846138131681461/1270861387245293705/Screenshot_2024-08-07_at_5.49.20_PM.png?ex=6885f626&is=6884a4a6&hm=1c6efaff5cc4ba950a605495637bff35e855bab827c91b595df67f0da77d62dc&",
+          "fileName": "Screenshot_2024-08-07_at_5.49.20_PM.png",
+          "fileSizeBytes": 65054
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270861502542381106",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:49:53.671-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That looks good you can also do like in parenthesis (Pitt API) but yeah",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270861766674350202",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:50:56.645-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you had heavy contributions then you can move it to projects and talk about it in detail w bullet points but you may need to shorten some of the other projects to make space for it",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270862424228237413",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:53:33.418-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also when you add your date ranges be careful with the type of dash that you use (there are different lengths)",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1270862424001609828",
+          "url": "https://cdn.discordapp.com/attachments/1270846138131681461/1270862424001609828/IMG_4114.png?ex=6885f71d&is=6884a59d&hm=c22fb659d2bcf0867b57832b67c0f703ea3ba9cfe33dc2e4d5c22dbbdac6542c&",
+          "fileName": "IMG_4114.png",
+          "fileSizeBytes": 140734
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1270863325265395744",
+      "type": "Default",
+      "timestamp": "2024-08-07T17:57:08.242-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know these might seem like miniscule details but they matter, remember your resume is your first impression, your presentation, so if you’re not consistent then they’ll assume you don’t care about details",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 22
+}

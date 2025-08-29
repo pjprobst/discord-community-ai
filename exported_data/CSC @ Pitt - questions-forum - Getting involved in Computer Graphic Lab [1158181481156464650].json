@@ -1,0 +1,483 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1158181481156464650",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Getting involved in Computer Graphic Lab",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:12:08.771408-04:00",
+  "messages": [
+    {
+      "id": "1158181481156464650",
+      "type": "Default",
+      "timestamp": "2023-10-01T19:19:43.079-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey all, recently I have been looking for a computer graphic labs that hire undergrad students. I have checked most of our CS department professors, but it seems like most of interests are either security related or AI related. I can find couple CV lab, but they all tied to Machine Learning. \nSo, I went and checked cmu websites, and found couple graphic labs. Does anyone ever get involved in researching in CMU's labs and how difficult it is to apply",
+      "author": {
+        "id": "551156488245346365",
+        "name": "claude7539",
+        "discriminator": "0000",
+        "nickname": "Yu Liu",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551156488245346365/55c0865fae81ba2e21ec7d473c9f034b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1158489506777935952",
+      "type": "Default",
+      "timestamp": "2023-10-02T15:43:42.11-04:00",
+      "timestampEdited": "2023-10-02T15:49:56.674-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Yu Liu \n\n**Does anyone ever get involved in researching in CMU's labs?**\nLots of people from Pitt! I currently work at a CMU lab (big lab).\n\n**How difficult is it to apply?**\nApplying is usually not hard, you just fill out a few boxes and write a few words in response to some questions. On getting into the lab, it depends on the lab, your connections, the professor, the research, your experience, (your passion!). \n\n**How to?**\nI would recommend (in this order):\n(1) look for a contact form on that lab page (or sometimes application form), and fill that out.\n(2) reaching out to PhD students that work in the lab that you want to work in, talk to them (set up a quick coffee chat bc cmu is soooo close), see if you *really* want to work in that lab, see if they are looking for undergrads, and then go from there (PhDs will likely know, or know who knows, the channels that undergrads take to get into that lab) \n(3) reaching out to the professors in that lab\n\nbut im no expert this is just my experience",
+      "author": {
+        "id": "424403435358519314",
+        "name": "quentinrl",
+        "discriminator": "0000",
+        "nickname": "Quentin Romero Lauro",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/424403435358519314/fd1fb23e3f8f6d5565fe546f11c07a91.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "551156488245346365",
+          "name": "claude7539",
+          "discriminator": "0000",
+          "nickname": "Yu Liu",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "784871450087522345",
+              "name": "Game Dev",
+              "color": "#F2B6B0",
+              "position": 28
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/551156488245346365/55c0865fae81ba2e21ec7d473c9f034b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1158571564044931082",
+      "type": "Reply",
+      "timestamp": "2023-10-02T21:09:46.087-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I really appreciate for your reply!!!! I have no experience at all in researching and applying for any labs. Ur experience will def help me a lot!! Thank u!! PepeCrying",
+      "author": {
+        "id": "551156488245346365",
+        "name": "claude7539",
+        "discriminator": "0000",
+        "nickname": "Yu Liu",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551156488245346365/55c0865fae81ba2e21ec7d473c9f034b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE04",
+            "code": "smile",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f604.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "424403435358519314",
+              "name": "quentinrl",
+              "discriminator": "0000",
+              "nickname": "Quentin Romero Lauro",
+              "color": "#FFCC00",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/424403435358519314/fd1fb23e3f8f6d5565fe546f11c07a91.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "424403435358519314",
+          "name": "quentinrl",
+          "discriminator": "0000",
+          "nickname": "Quentin Romero Lauro",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "729025347122888714",
+              "name": "Officers",
+              "color": "#FFCC00",
+              "position": 42
+            },
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1327078817772339271",
+              "name": "Mock Interviewer",
+              "color": "#C232FF",
+              "position": 34
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/424403435358519314/fd1fb23e3f8f6d5565fe546f11c07a91.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1158489506777935952",
+        "channelId": "1158181481156464650",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1271536480195575879",
+      "type": "Reply",
+      "timestamp": "2024-08-09T14:32:00.884-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "While this is a very late response, it is nice to hear of other students interested in computer graphics research in particular! Hope everything goes well and to hear of your experiences later on!",
+      "author": {
+        "id": "750910174851498125",
+        "name": "apple3331",
+        "discriminator": "0000",
+        "nickname": "Morgan Anim",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/750910174851498125/58e7af2aec5d90399e1eefcd87637c14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "551156488245346365",
+          "name": "claude7539",
+          "discriminator": "0000",
+          "nickname": "Yu Liu",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "784871450087522345",
+              "name": "Game Dev",
+              "color": "#F2B6B0",
+              "position": 28
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/551156488245346365/55c0865fae81ba2e21ec7d473c9f034b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1158571564044931082",
+        "channelId": "1158181481156464650",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

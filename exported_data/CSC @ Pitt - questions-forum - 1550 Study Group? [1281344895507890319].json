@@ -1,0 +1,726 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1281344895507890319",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "1550 Study Group?",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:10:52.169346-04:00",
+  "messages": [
+    {
+      "id": "1281344895507890319",
+      "type": "Default",
+      "timestamp": "2024-09-05T16:07:09.326-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all, \n\nI am in 1550 with Misurda this semester and do not really know anyone in my section. I expect this class to be hard due to its reputation and my admittedly average performance in 449. Since there is no resource for us to collaborate provided from Dr. Misurda himself, I was wondering if there were people who would be interested in forming a discord server so we could bounce questions off of each other, clarify course housekeeping information, and things of that sort. \n\nLet me know if youre interested by replying or DMing me!",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1013573443016462522",
+              "name": "darkreaprr",
+              "discriminator": "0000",
+              "nickname": "Andrew Chen",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1013573443016462522/d157b80c2f1c51b5f53ed40159d917b0.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281345064442007723",
+      "type": "Default",
+      "timestamp": "2024-09-05T16:07:49.603-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "436495512447877120",
+        "name": "kristel7k",
+        "discriminator": "0000",
+        "nickname": "kristel kouatchou",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/436495512447877120/e5d0b8d755676f9baa6c05883a32c5f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281346146211729469",
+      "type": "Default",
+      "timestamp": "2024-09-05T16:12:07.517-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think someone else already made a discord: https://discord.gg/aJQqn43G",
+      "author": {
+        "id": "373591100696297482",
+        "name": "detk",
+        "discriminator": "0000",
+        "nickname": "Declan Kutscher",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/373591100696297482/4989a6f33a0de937b99d4e4fa6bd676e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "247917711542190081",
+              "name": "wonky1k",
+              "discriminator": "0000",
+              "nickname": "James Hathaway",
+              "color": "#206694",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281346289065398334",
+      "type": "Reply",
+      "timestamp": "2024-09-05T16:12:41.576-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks!",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "373591100696297482",
+          "name": "detk",
+          "discriminator": "0000",
+          "nickname": "Declan Kutscher",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/373591100696297482/4989a6f33a0de937b99d4e4fa6bd676e.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1281346146211729469",
+        "channelId": "1281344895507890319",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281346298523553843",
+      "type": "Default",
+      "timestamp": "2024-09-05T16:12:43.831-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kristel kouatchou ^^",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "436495512447877120",
+          "name": "kristel7k",
+          "discriminator": "0000",
+          "nickname": "kristel kouatchou",
+          "color": "#206694",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754565190123541",
+              "name": "she/her",
+              "color": null,
+              "position": 12
+            },
+            {
+              "id": "1240755362722746510",
+              "name": "LeetCode Bootcamp",
+              "color": null,
+              "position": 10
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/436495512447877120/e5d0b8d755676f9baa6c05883a32c5f1.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281381789881073695",
+      "type": "Default",
+      "timestamp": "2024-09-05T18:33:45.63-04:00",
+      "timestampEdited": "2024-09-05T19:02:34.659-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, I made the sever",
+      "author": {
+        "id": "1013573443016462522",
+        "name": "darkreaprr",
+        "discriminator": "0000",
+        "nickname": "Andrew Chen",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1013573443016462522/d157b80c2f1c51b5f53ed40159d917b0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281414058066579527",
+      "type": "Default",
+      "timestamp": "2024-09-05T20:41:58.965-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Resisting the urge to join",
+      "author": {
+        "id": "876901660721578074",
+        "name": "derrickhicks",
+        "discriminator": "0000",
+        "nickname": "Derrick Hicks",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/876901660721578074/9993532ebe06ad12d89f6fc7fdc75bb8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281415315967967302",
+      "type": "Default",
+      "timestamp": "2024-09-05T20:46:58.872-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean, I think that would be a little suspicious \uD83D\uDE14, unfortunately",
+      "author": {
+        "id": "1013573443016462522",
+        "name": "darkreaprr",
+        "discriminator": "0000",
+        "nickname": "Andrew Chen",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1013573443016462522/d157b80c2f1c51b5f53ed40159d917b0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE14",
+          "code": "pensive",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f614.svg"
+        }
+      ]
+    },
+    {
+      "id": "1281417471483449395",
+      "type": "Default",
+      "timestamp": "2024-09-05T20:55:32.787-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol nah I know, I’d rather not force anyone into a weird position",
+      "author": {
+        "id": "876901660721578074",
+        "name": "derrickhicks",
+        "discriminator": "0000",
+        "nickname": "Derrick Hicks",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/876901660721578074/9993532ebe06ad12d89f6fc7fdc75bb8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1013573443016462522",
+              "name": "darkreaprr",
+              "discriminator": "0000",
+              "nickname": "Andrew Chen",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1013573443016462522/d157b80c2f1c51b5f53ed40159d917b0.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 9
+}

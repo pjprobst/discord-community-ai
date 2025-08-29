@@ -1,0 +1,476 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1330607170466615359",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "IntelliSense VSCode Settings",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:58:41.263547-04:00",
+  "messages": [
+    {
+      "id": "1330607170466615359",
+      "type": "Default",
+      "timestamp": "2025-01-19T13:37:50.925-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all, this is somewhat of an elementary question but I hasve been messing with this for like a half hour and cant seem to figure out why my program is unable to have the proper includePath. \n\nFor context, I am working on a personal project and have SFML in my local directory. Right now, I am getting errors for multiple objects that are included via the SFML headers, and when I go to compile the program it says that it cannot find the file in the include line. I have fixed this before for a personal project but it is slipping me so if anyone has some insight it would be appreciated.",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1330607171116990525",
+          "url": "https://cdn.discordapp.com/attachments/1330607170466615359/1330607171116990525/Screenshot_2025-01-19_at_1.33.45_PM.png?ex=688671ff&is=6885207f&hm=49c2fafce475f9d069cefd17d35267bd5ddaab836e61381fdd2dd7640ba82672&",
+          "fileName": "Screenshot_2025-01-19_at_1.33.45_PM.png",
+          "fileSizeBytes": 345491
+        },
+        {
+          "id": "1330607171460927488",
+          "url": "https://cdn.discordapp.com/attachments/1330607170466615359/1330607171460927488/Screenshot_2025-01-19_at_1.33.59_PM.png?ex=688671ff&is=6885207f&hm=a9130bb4f40ffa950ecb05509923a05f30766fb13544fd0bf752f141790b14cd&",
+          "fileName": "Screenshot_2025-01-19_at_1.33.59_PM.png",
+          "fileSizeBytes": 167550
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1330607280542187600",
+      "type": "Default",
+      "timestamp": "2025-01-19T13:38:17.169-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1330607280286076979",
+          "url": "https://cdn.discordapp.com/attachments/1330607170466615359/1330607280286076979/Screenshot_2025-01-19_at_1.38.07_PM.png?ex=68867219&is=68852099&hm=1547bd411b7a956427d256c1fb7e4a7821ca7e23fb79b69b9a334b89062ea4d0&",
+          "fileName": "Screenshot_2025-01-19_at_1.38.07_PM.png",
+          "fileSizeBytes": 104669
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1330607469130678384",
+      "type": "Default",
+      "timestamp": "2025-01-19T13:39:02.132-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have also tried setting my include path as just ```${workspaceFolder}/**``` but that did not fix it either",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1330609794737766480",
+      "type": "Default",
+      "timestamp": "2025-01-19T13:48:16.6-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Why not do a local include with quotes?",
+      "author": {
+        "id": "624672535044423681",
+        "name": "ritwikgupta",
+        "discriminator": "0000",
+        "nickname": "Ritwik",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1330611752647524473",
+      "type": "Reply",
+      "timestamp": "2025-01-19T13:56:03.402-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The behavior when i go to compile is identical with either <> or “” wrapping the include",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "624672535044423681",
+          "name": "ritwikgupta",
+          "discriminator": "0000",
+          "nickname": "Ritwik",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1330609794737766480",
+        "channelId": "1330607170466615359",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1330613633402540065",
+      "type": "Default",
+      "timestamp": "2025-01-19T14:03:31.809-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What do your project settings look like for VSCode?",
+      "author": {
+        "id": "624672535044423681",
+        "name": "ritwikgupta",
+        "discriminator": "0000",
+        "nickname": "Ritwik",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1331294254613532723",
+      "type": "Default",
+      "timestamp": "2025-01-21T11:08:04.551-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ritwik Hi, sorry for the late response but I was wondering if you could expand on what you mean by project settings",
+      "author": {
+        "id": "247917711542190081",
+        "name": "wonky1k",
+        "discriminator": "0000",
+        "nickname": "James Hathaway",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247917711542190081/1768d77e6f6b372ba3cb175109d724d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "624672535044423681",
+          "name": "ritwikgupta",
+          "discriminator": "0000",
+          "nickname": "Ritwik",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 7
+}

@@ -1,0 +1,96 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1341097358946992190",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Thomas Tran Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:38:34.178847-04:00",
+  "messages": [
+    {
+      "id": "1341097358946992190",
+      "type": "Default",
+      "timestamp": "2025-02-17T12:22:06.757-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello, I am a CS Freshman looking for feedback on my resume. Let me know what you guys think!",
+      "author": {
+        "id": "272185695693701121",
+        "name": "trydal.",
+        "discriminator": "0000",
+        "nickname": "Thomas Tran",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272185695693701121/a24fbe600208bf4505be03380aac28ed.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1341097359068631102",
+          "url": "https://cdn.discordapp.com/attachments/1341097358946992190/1341097359068631102/ThomasTranResume.pdf?ex=6886603e&is=68850ebe&hm=349dcd58a07d7ffe8e6369063f6e8ead4bc4fe35f1d85de60eb081f465c144d3&",
+          "fileName": "ThomasTranResume.pdf",
+          "fileSizeBytes": 105807
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "743509541144100904",
+              "name": "ncbarta",
+              "discriminator": "0000",
+              "nickname": "Barta",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,766 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1290113536638586955",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "BNY Mellon internship",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:02:53.748915-04:00",
+  "messages": [
+    {
+      "id": "1290113536638586955",
+      "type": "Default",
+      "timestamp": "2024-09-29T20:50:36.285-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am going to interview with BNY mellon on wednesday. Has anybody had any experience with them? tips on how to prepare? It’s going to be for engineering developer internship",
+      "author": {
+        "id": "1119851767547576472",
+        "name": "ilaydvir",
+        "discriminator": "0000",
+        "nickname": "Ilay",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1119851767547576472/65cbd671c95cf8db049a83fe55bbe5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290115108428578847",
+      "type": "Default",
+      "timestamp": "2024-09-29T20:56:51.029-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Sodi Kroehler",
+      "author": {
+        "id": "330495912973697035",
+        "name": "sund1ata",
+        "discriminator": "0000",
+        "nickname": "vivek rajkumar",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/330495912973697035/7538abd298c9806316fcfc351e51a55e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "689507500097011824",
+          "name": "sodisimus",
+          "discriminator": "0000",
+          "nickname": "Sodi Kroehler",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "945705875669151805",
+              "name": "Digital Humanities",
+              "color": "#9B59B6",
+              "position": 16
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290119303336693782",
+      "type": "Default",
+      "timestamp": "2024-09-29T21:13:31.173-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you may - and I stress \"may\" here - need to know what a doubly linked list is",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290119408378712085",
+      "type": "Default",
+      "timestamp": "2024-09-29T21:13:56.217-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there is a non-zero chance you will be asked to write a for loop",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290119414460448838",
+      "type": "Default",
+      "timestamp": "2024-09-29T21:13:57.667-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "in python",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290119529216868383",
+      "type": "Default",
+      "timestamp": "2024-09-29T21:14:25.027-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no im exaggerating a little - and they changed a lot since I applied",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290119582522019861",
+      "type": "Default",
+      "timestamp": "2024-09-29T21:14:37.736-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it might be harder but mine was ridiculously easy",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290120024748724299",
+      "type": "Default",
+      "timestamp": "2024-09-29T21:16:23.171-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "afaik they consolidated all the engineering internships to the same application this past year, so that might have changed the interview questions - sorry I can't give you current info",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFF",
+            "code": "thumbsup_tone5",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d-1f3ff.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1119851767547576472",
+              "name": "ilaydvir",
+              "discriminator": "0000",
+              "nickname": "Ilay",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1119851767547576472/65cbd671c95cf8db049a83fe55bbe5b4.png?size=512"
+            },
+            {
+              "id": "1145468451893293259",
+              "name": "im.terry",
+              "discriminator": "0000",
+              "nickname": "Terry",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290376093345251451",
+      "type": "Default",
+      "timestamp": "2024-09-30T14:13:54.682-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's pretty simple and painless. There is some technical talk but it's at a super high level (I got asked why we should write clean code lol). Otherwise, it's mostly standard behavioral and they ask you a lot about your resume. Good luck!",
+      "author": {
+        "id": "624366867762380805",
+        "name": "thejeffzheng",
+        "discriminator": "0000",
+        "nickname": "Jeff Zheng",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624366867762380805/a3f9139fc8ad01fca6c19d4c0b3e202e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "467818085194399774",
+              "name": "jakejakejakejakejakejakejake",
+              "discriminator": "0000",
+              "nickname": "jake",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/467818085194399774/e5ebeb9d693a847be0fafaada3bf82d6.png?size=512"
+            },
+            {
+              "id": "1119851767547576472",
+              "name": "ilaydvir",
+              "discriminator": "0000",
+              "nickname": "Ilay",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1119851767547576472/65cbd671c95cf8db049a83fe55bbe5b4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290435174445879347",
+      "type": "Default",
+      "timestamp": "2024-09-30T18:08:40.714-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah when I did it the hackerrank was pretty simple and then I had to verbally describe how I’d solve a simpler problem during the last interview",
+      "author": {
+        "id": "569669676364201984",
+        "name": "josband",
+        "discriminator": "0000",
+        "nickname": "Jonah Osband",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/569669676364201984/e6c43c5b4eb584e1a71baf39242b30d3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "467818085194399774",
+              "name": "jakejakejakejakejakejakejake",
+              "discriminator": "0000",
+              "nickname": "jake",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/467818085194399774/e5ebeb9d693a847be0fafaada3bf82d6.png?size=512"
+            },
+            {
+              "id": "1119851767547576472",
+              "name": "ilaydvir",
+              "discriminator": "0000",
+              "nickname": "Ilay",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1119851767547576472/65cbd671c95cf8db049a83fe55bbe5b4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 10
+}

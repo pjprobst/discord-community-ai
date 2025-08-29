@@ -1,0 +1,2775 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1364713286188400681",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Jerry Chen Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:36:42.651793-04:00",
+  "messages": [
+    {
+      "id": "1364713286188400681",
+      "type": "Default",
+      "timestamp": "2025-04-23T17:23:22.574-04:00",
+      "timestampEdited": "2025-04-23T17:52:33.314-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, I'm a grad student who is finally learning how to actually get a tech job.\n\nAny feedback on my resume would be appreciated! This is my first time getting a review in any capacity so don't hold back.\n\nThanks!",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1364713691538391060",
+          "url": "https://cdn.discordapp.com/attachments/1364713286188400681/1364713691538391060/Jerry_Chen_Resume.pdf?ex=6885f06b&is=68849eeb&hm=7409eba7919eeedb93701274a8351020cbe1d43795044bd34febf14487c09e69&",
+          "fileName": "Jerry_Chen_Resume.pdf",
+          "fileSizeBytes": 104769
+        },
+        {
+          "id": "1364713692272267274",
+          "url": "https://cdn.discordapp.com/attachments/1364713286188400681/1364713692272267274/Screenshot_2025-04-23_172448.png?ex=6885f06b&is=68849eeb&hm=f0ef4fbc77be683c920e6992d87212dfc1ecbe6448fbc849c5f74237b3bdd3a0&",
+          "fileName": "Screenshot_2025-04-23_172448.png",
+          "fileSizeBytes": 273101
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364714200689147974",
+      "type": "Default",
+      "timestamp": "2025-04-23T17:27:00.608-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I def need to implement the X-Y-Z some more but i feel like it makes the bullet points go too long... is it okay for them to be multiple lines?\n\n I already was struggling to fit everything in and had to cut a few big projects off",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364725310242951268",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:11:09.332-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i definitely think that swim coach should not be where it is and as detailed as it is",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364725506137915486",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:11:56.037-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "did you do a thesis for your masters or a project?",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364728053363769354",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:22:03.343-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm starting the project this summer, still ironing out details with Nils",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364728466301255790",
+      "type": "Reply",
+      "timestamp": "2025-04-23T18:23:41.795-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so if you don't have your masters yet you should put 'expected' or something imo",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "185812481283719168",
+              "name": "jrryswim",
+              "discriminator": "0000",
+              "nickname": "Jerry Chen",
+              "color": "#E67E22",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "185812481283719168",
+          "name": "jrryswim",
+          "discriminator": "0000",
+          "nickname": "Jerry Chen",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364728053363769354",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364728618655158425",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:24:18.119-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i mean",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364728730341347459",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:24:44.747-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what other 'big' projects do you have that you can put there instead of like 6 lines of swim coaching?",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364728846930153484",
+      "type": "Reply",
+      "timestamp": "2025-04-23T18:25:12.544-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ya i was debating to put it in there  but it is a huge role and time commitment as it is a job rn and I did do some data analytics stuff in it",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "190688952791990273",
+          "name": "bestillasbright",
+          "discriminator": "0000",
+          "nickname": "Maddie Pratt",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754565190123541",
+              "name": "she/her",
+              "color": null,
+              "position": 12
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364725310242951268",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364729197095944232",
+      "type": "Reply",
+      "timestamp": "2025-04-23T18:26:36.03-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah that's fair, i'm just not sure that the job title is... necessarily a great way to get past a resume filter at least imo",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "185812481283719168",
+          "name": "jrryswim",
+          "discriminator": "0000",
+          "nickname": "Jerry Chen",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364728846930153484",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364729583961899150",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:28:08.266-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was gonna put some of my class projects like for NLP I was part of a group doing Omnibus Bill tracking (Seeing how a bill changes and evolves as it goes through iterations until it finally ends up in a big bill with multiple differnt bills) and how bills are repeated between states",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364729788689813506",
+      "type": "Reply",
+      "timestamp": "2025-04-23T18:28:57.077-04:00",
+      "timestampEdited": "2025-04-23T18:29:11.148-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that legitimately sounds impressive to me and would be good to add",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "185812481283719168",
+              "name": "jrryswim",
+              "discriminator": "0000",
+              "nickname": "Jerry Chen",
+              "color": "#E67E22",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "185812481283719168",
+          "name": "jrryswim",
+          "discriminator": "0000",
+          "nickname": "Jerry Chen",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364729583961899150",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364729828040904837",
+      "type": "Reply",
+      "timestamp": "2025-04-23T18:29:06.459-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "could you explain the resume filter part? Like how would it help get past it",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "190688952791990273",
+          "name": "bestillasbright",
+          "discriminator": "0000",
+          "nickname": "Maddie Pratt",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754565190123541",
+              "name": "she/her",
+              "color": null,
+              "position": 12
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364729197095944232",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364730122011148381",
+      "type": "Reply",
+      "timestamp": "2025-04-23T18:30:16.547-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay so like, idk how the llm based ones work, but like... genuinely if i was a recruiter and i saw \"graduate assistant swim coach\" as a big header under experience on a resume it's just like...",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "185812481283719168",
+          "name": "jrryswim",
+          "discriminator": "0000",
+          "nickname": "Jerry Chen",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364729828040904837",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364730195130712064",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:30:33.98-04:00",
+      "timestampEdited": "2025-04-23T18:30:42.258-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it looks super irrelevant i guess? even if the bullet points are? like if you're giving it a quick scan",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364730425553190922",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:31:28.917-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like, the actual bullet points are okay, but like, i would try to find a way to make the job title sound a bit 'tech-y'?",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364730534298915011",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:31:54.844-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like add something about analytics or something i guess if you can?",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364730785608761457",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:32:54.761-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I see your point, its sorta just glaring difference lol",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364730918983438459",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:33:26.56-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Graduate Assistant Swim Data Analyst\" idk maybe",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364731183576912002",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:34:29.644-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I dont have much tech experience cuz i spent the last 6 years of school swimming 20+ hours a week lmao",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364731260538454147",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:34:47.993-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "more Athlete-Student than anything else and finally got a wake up call like bro ur cooked for a job",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364731396697882675",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:35:20.456-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i appreciate the feedback so far!",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364732000644108289",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:37:44.448-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "of course! if it helps, here's my resume that got me an interview that turned into a mid-level software engineer position at cloudflare and also the discussion thread i made about it here lol https://discord.com/channels/729022532874797146/1273849375805800549/1273849375805800549",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1364732000384192562",
+          "url": "https://cdn.discordapp.com/attachments/1364713286188400681/1364732000384192562/Madeline_Pratt_Resume.pdf?ex=68860178&is=6884aff8&hm=5b4451dddec5a45d359db3c63732350ac29836438bd9d1a4ea64d0259d6e81da&",
+          "fileName": "Madeline_Pratt_Resume.pdf",
+          "fileSizeBytes": 73946
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364732507291123813",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:39:45.242-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thank you!",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364733233425678396",
+      "type": "Reply",
+      "timestamp": "2025-04-23T18:42:38.366-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "of course! i'm gonna keep looking at yours real quick since i just shut my work laptop a little bit ago and have to kind of kill time until my pickup hockey game tonight lol\n\n(also the 15 second slowmode in here is genuinely infuriating and disruptive to actual discussion lmao)",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "185812481283719168",
+          "name": "jrryswim",
+          "discriminator": "0000",
+          "nickname": "Jerry Chen",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364732507291123813",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364733755469856870",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:44:42.831-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one thing that will probably help both the actual resume and let me evaluate what changes to make better is like... letting me know what you focused on in your masters? like, i guess i'm not 100% sure if that's a thing that happens in a masters outside of like... the project or thesis but",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364734912351047760",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:49:18.653-04:00",
+      "timestampEdited": "2025-04-23T18:52:32.193-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah theres not really any formal focus but I've been interested in AI/ML/Computer Vision (Like everyone in the world now). I still have another year left, graduating expected April 2026\n\nI'm doing my project with Computer Vision and i'm tying it with my thesis for Sports Science. For Sports Science, i'm doing a a study lookng into the  correlation between shoulder mobility and 15m start times for swimming. I'm gonna have to be labeling my own datasets for that so i figured I'd try to build a model or modify an existing to help me do that. And maybe compare human measured to computer measured goniometry\n\nI'm still not entirely sure what field I end up want to go into still now tho but i'm leaning towards Computer Science/SWE and in my dreams maybe Quant Dev",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364735796787150888",
+      "type": "Reply",
+      "timestamp": "2025-04-23T18:52:49.519-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh, that's really cool! can you let me know what other projects you have other than this one? https://discord.com/channels/729022532874797146/1364713286188400681/1364729583961899150",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "185812481283719168",
+          "name": "jrryswim",
+          "discriminator": "0000",
+          "nickname": "Jerry Chen",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364734912351047760",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364735942077714432",
+      "type": "Default",
+      "timestamp": "2025-04-23T18:53:24.159-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like that you've done independently or class projects (individual or group)",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364738716010156043",
+      "type": "Default",
+      "timestamp": "2025-04-23T19:04:25.516-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not much more self-guided projects in that realm since ML and AI classes had very structured assignments/projects, maybe in the Grad level ML class this fall we will\n\nI just started doing side projects in my free time after decided to step back from Semi-Pro Swimming this past year\n\nI did one on testing the impact of implementation language on performance of the Raft Protocol (Since I saw you were into Distributed Systems). I think I found that Java implementaton was faster than the Rust one \n\nI also did 3 projects on privacy since that class was 3 projects purely on your own\n\n1: How attackers might use timing of Bubble Sorting a dataset to gather infromation on the dataset and how to Mitigate these attacks\n2: This is overdone but using ML to detect outlier accesses of systems for security\n3: Preserving Anonymity in social media graph datasets using k-anonymity, l-diversity, and differential privacy \n\nresults were really bad on all three tho",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364738865063133264",
+      "type": "Default",
+      "timestamp": "2025-04-23T19:05:01.053-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THey sound interesting but nothing meaningful came out of them unfortuntely",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364747332813324319",
+      "type": "Default",
+      "timestamp": "2025-04-23T19:38:39.922-04:00",
+      "timestampEdited": "2025-04-23T19:38:47.6-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I did one on testing the impact of implementation language on performance of the Raft Protocol (Since I saw you were into Distributed Systems). I think I found that Java implementaton was faster than the Rust one \n\nout of curiosity, was this for grad os or grad wan or something else? i'm also genuinely surprised by that result and how you arrived at it, and if you have the time to i would actually love it if you could talk about it a bit. \n\nalso, i'm not *just* asking because i'm interested in distributed systems and fault tolerance (though that's a part of it \uD83D\uDE05 ), but also because it is legitimately a good skill to have to be able to describe your projects to people. like, at least here at cloudflare, from what i understand the interview processes that my team and the teams sort of 'around' it do for candidates start with a 'hiring manager' interview, which is with an engineering manager (even if it's not necessarily on the team you initially are targeting) to like... vibe check basically lol. at cloudflare, they're generally like... introducing yourself and giving some of your education and employment background, the em asking some semi-technical questions (verbally) to see if you have like... basic internet/network protocol knowledge, and to see how you communicate it, and then usually they'll ask you about a project you did and like... have you talk summarize it and then they'll ask questions about it to get more information on like... how you communicate in general, how you think about problems and stuff like that",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE05",
+          "code": "sweat_smile",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f605.svg"
+        }
+      ]
+    },
+    {
+      "id": "1364943961558482964",
+      "type": "Default",
+      "timestamp": "2025-04-24T08:39:59.868-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It was for a grad OS Class so it was purely focused on Distributed systems and this was a group project, my bad i didn't clarify this \n\nYeah i found it surprising that Java was faster and our hypothesis was that Rust was going to be faster due to the Memory Management and Concurrency differences between the languages. And that Java was just slower in general.\n\nThis was a limited scope project so I just used two exisiting implementations: xraft for Java and OpenRaft for Rust\n\nWe tested the two implementations by sending client requests at a dozen to a few hundred requests per second and timed them.\nStart up a cluster of 3 serves, then we used a script to contact the leader with a number of write requests and the same number of read requests and timed how long the script took\n\nI think the reason Java was faster in this instance was just due to the differences of implementations of the protocol but we left it at that and didn't dig deeper to find out why.",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364961921320878222",
+      "type": "Reply",
+      "timestamp": "2025-04-24T09:51:21.809-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cool! Followup question: did you simulate latency?",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "185812481283719168",
+          "name": "jrryswim",
+          "discriminator": "0000",
+          "nickname": "Jerry Chen",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364943961558482964",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1364964742870990951",
+      "type": "Default",
+      "timestamp": "2025-04-24T10:02:34.519-04:00",
+      "timestampEdited": "2025-04-24T10:03:11.271-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you intern somewhere more than once, is it typical to make it just one entry? or if the work differed could you make two seperate entries on the same company? I see you did just one, I have been unsure myself.",
+      "author": {
+        "id": "1196604827027914872",
+        "name": "remymang",
+        "discriminator": "0000",
+        "nickname": "Remy Sedlak",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1365034300721856624",
+      "type": "Reply",
+      "timestamp": "2025-04-24T14:38:58.403-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We did not at all",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "190688952791990273",
+          "name": "bestillasbright",
+          "discriminator": "0000",
+          "nickname": "Maddie Pratt",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754565190123541",
+              "name": "she/her",
+              "color": null,
+              "position": 12
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364961921320878222",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1365034442946773163",
+      "type": "Reply",
+      "timestamp": "2025-04-24T14:39:32.312-04:00",
+      "timestampEdited": "2025-04-24T14:39:56.937-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not sure,\n\nI made it one entry since the work I did in the first summer continued into the next summer.\n\nIf it was differing work, i'd make two entries",
+      "author": {
+        "id": "185812481283719168",
+        "name": "jrryswim",
+        "discriminator": "0000",
+        "nickname": "Jerry Chen",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185812481283719168/f8ee4978a9cb884502c7c65ea8da1aa8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1196604827027914872",
+              "name": "remymang",
+              "discriminator": "0000",
+              "nickname": "Remy Sedlak",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1196604827027914872",
+              "name": "remymang",
+              "discriminator": "0000",
+              "nickname": "Remy Sedlak",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1196604827027914872",
+          "name": "remymang",
+          "discriminator": "0000",
+          "nickname": "Remy Sedlak",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "784871450087522345",
+              "name": "Game Dev",
+              "color": "#F2B6B0",
+              "position": 28
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705875669151805",
+              "name": "Digital Humanities",
+              "color": "#9B59B6",
+              "position": 16
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1196604827027914872/5227340df454c254a64d14e143226259.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1364964742870990951",
+        "channelId": "1364713286188400681",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 37
+}

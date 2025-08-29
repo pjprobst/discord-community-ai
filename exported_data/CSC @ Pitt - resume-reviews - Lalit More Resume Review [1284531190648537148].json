@@ -1,0 +1,662 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1284531190648537148",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Lalit More Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:42:44.682281-04:00",
+  "messages": [
+    {
+      "id": "1284531190648537148",
+      "type": "Default",
+      "timestamp": "2024-09-14T11:08:21.286-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey CSC! I'm a freshman majoring in computer science looking to get an internship for 2025 summer. Here is my resume. Feel free to roast it and absolutely demolish every ounce of my self-esteem. Thanks. \uD83D\uDE42",
+      "author": {
+        "id": "909611662951198761",
+        "name": "scarlettspeedster.",
+        "discriminator": "0000",
+        "nickname": "Lalit More",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [
+        {
+          "id": "1284531190837022911",
+          "url": "https://cdn.discordapp.com/attachments/1284531190648537148/1284531190837022911/College_Lalit_More_Resume_Official_Format.docx.pdf?ex=688640e5&is=6884ef65&hm=79fd2c38af1e61a752cb18a97f63f0d9da648d493f32633922d6571dc62c06dd&",
+          "fileName": "College_Lalit_More_Resume_Official_Format.docx.pdf",
+          "fileSizeBytes": 92054
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "743509541144100904",
+              "name": "ncbarta",
+              "discriminator": "0000",
+              "nickname": "Barta",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE42",
+          "code": "slight_smile",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f642.svg"
+        }
+      ]
+    },
+    {
+      "id": "1285371695422640190",
+      "type": "Default",
+      "timestamp": "2024-09-16T18:48:13.24-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1) Missing space after phone #\n2) Please use something more professional for a linkedin photo, or just remove it entirely\n3) Remove  \"(Undeclared)\"\n4) Remove GPA until you have it. Some people are of the opinion that you can put \"4.0/4.0\" until you have your freshman GPA. I don't have an opinion on that really.\n5) \"Relevant Coursework\" -> \"Coursework\"\n6) \"4.24/5.0\" for consistency\n7) Rename Experience section to Projects section. Separate Game design into two projects. Remove \"Required players to think critically and use strategy to beat the game\". Talk more about the features maybe. Fix the gap between Project section and Activities section.\n8) Ballroom is one word. Sign up for instructor lessons if you haven't already :). You can list orgs in education section below coursework if you feel like it. You don't need to put dates.\n9) Honors/Awards might fit in the education section better as well (under highschool)\n\nUpdate your discord username to the naming rules: https://discord.com/channels/729022532874797146/729022532874797150/1237881702756515922",
+      "author": {
+        "id": "743509541144100904",
+        "name": "ncbarta",
+        "discriminator": "0000",
+        "nickname": "Nathan Barta",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1285373088590074029",
+      "type": "Default",
+      "timestamp": "2024-09-16T18:53:45.397-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "+1 on the naming rule thanks for the callout",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1285384744103710730",
+      "type": "Default",
+      "timestamp": "2024-09-16T19:40:04.288-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @Nathan Barta . Appreciate the edits",
+      "author": {
+        "id": "909611662951198761",
+        "name": "scarlettspeedster.",
+        "discriminator": "0000",
+        "nickname": "Lalit More",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "743509541144100904",
+              "name": "ncbarta",
+              "discriminator": "0000",
+              "nickname": "Nathan Barta",
+              "color": "#BB870F",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "743509541144100904",
+          "name": "ncbarta",
+          "discriminator": "0000",
+          "nickname": "Nathan Barta",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1243341372686204999",
+              "name": "CSC Website Dev",
+              "color": "#206694",
+              "position": 31
+            },
+            {
+              "id": "784871450087522345",
+              "name": "Game Dev",
+              "color": "#F2B6B0",
+              "position": 28
+            },
+            {
+              "id": "878053832570056725",
+              "name": "Cyber Security",
+              "color": "#979C9F",
+              "position": 27
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "799460107200888874",
+              "name": "Swift Dev",
+              "color": "#E91E63",
+              "position": 24
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1055633555109203968",
+              "name": "Competitive Programming",
+              "color": "#C27C0E",
+              "position": 18
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1240755362722746510",
+              "name": "LeetCode Bootcamp",
+              "color": null,
+              "position": 10
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1285385002347003915",
+      "type": "Default",
+      "timestamp": "2024-09-16T19:41:05.858-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lmk if you’d like me to take another look after you’ve changed things up. LinkedIn photo looks good \uD83D\uDE0E",
+      "author": {
+        "id": "743509541144100904",
+        "name": "ncbarta",
+        "discriminator": "0000",
+        "nickname": "Nathan Barta",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE0E",
+          "code": "sunglasses",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60e.svg"
+        }
+      ]
+    },
+    {
+      "id": "1285386915197227040",
+      "type": "Default",
+      "timestamp": "2024-09-16T19:48:41.917-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aww what was the photo before lmao",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1285386949607166074",
+      "type": "Default",
+      "timestamp": "2024-09-16T19:48:50.121-04:00",
+      "timestampEdited": "2024-09-16T19:48:52.773-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i wish i'd seen it",
+      "author": {
+        "id": "190688952791990273",
+        "name": "bestillasbright",
+        "discriminator": "0000",
+        "nickname": "Maddie Pratt",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754565190123541",
+            "name": "she/her",
+            "color": null,
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/190688952791990273/72b3575eafde450ff240fb755e3dee04.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 7
+}

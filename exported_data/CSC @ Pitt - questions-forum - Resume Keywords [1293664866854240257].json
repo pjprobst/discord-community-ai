@@ -1,0 +1,473 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1293664866854240257",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Resume Keywords",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:07:51.076318-04:00",
+  "messages": [
+    {
+      "id": "1293664866854240257",
+      "type": "Default",
+      "timestamp": "2024-10-09T16:02:19.389-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How much does matching keywords in the job description on your resume matter? I'm using the Simplify extension to apply to jobs and don't know whether I should take the time to tailor my resume to match the keywords Simplify finds.",
+      "author": {
+        "id": "486619435441061919",
+        "name": "mbruh",
+        "discriminator": "0000",
+        "nickname": "Kai Haavik",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1369012686704082974",
+            "name": "Consulting",
+            "color": "#0F7000",
+            "position": 33
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486619435441061919/b122b088815bd0af0965eabcb7e6eb53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1293672616200110182",
+      "type": "Default",
+      "timestamp": "2024-10-09T16:33:06.977-04:00",
+      "timestampEdited": "2024-10-09T16:38:13.865-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Usually not needed",
+      "author": {
+        "id": "446759651120513024",
+        "name": "shreyash.ranjan",
+        "discriminator": "0000",
+        "nickname": "Shreyash Ranjan",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1293673700369109066",
+      "type": "Default",
+      "timestamp": "2024-10-09T16:37:25.463-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good question to ask Mike Yan tomorrow at the event",
+      "author": {
+        "id": "424403435358519314",
+        "name": "quentinrl",
+        "discriminator": "0000",
+        "nickname": "Quentin Romero Lauro",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/424403435358519314/fd1fb23e3f8f6d5565fe546f11c07a91.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "‼️",
+            "code": "bangbang",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/203c.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "683116152670519343",
+              "name": "nijp",
+              "discriminator": "0000",
+              "nickname": "Nij",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1293695577925619763",
+      "type": "Default",
+      "timestamp": "2024-10-09T18:04:21.479-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Def does matter. i change my keywords and projects out based on the job listing",
+      "author": {
+        "id": "133004006124552192",
+        "name": "leowonderful",
+        "discriminator": "0000",
+        "nickname": "Leo Zhang",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/133004006124552192/27bf8df311b31e4f05bba85404e522fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1293695602630070332",
+      "type": "Default",
+      "timestamp": "2024-10-09T18:04:27.369-04:00",
+      "timestampEdited": "2024-10-09T18:04:42.129-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Has improved my response rate but ymmv",
+      "author": {
+        "id": "133004006124552192",
+        "name": "leowonderful",
+        "discriminator": "0000",
+        "nickname": "Leo Zhang",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/133004006124552192/27bf8df311b31e4f05bba85404e522fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1293695778123939921",
+      "type": "Default",
+      "timestamp": "2024-10-09T18:05:09.21-04:00",
+      "timestampEdited": "2024-10-09T18:05:18.369-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shotgunning apps is still the meta but you mgiht as well take more time to tailor your resume to the listing so you have a better shot",
+      "author": {
+        "id": "133004006124552192",
+        "name": "leowonderful",
+        "discriminator": "0000",
+        "nickname": "Leo Zhang",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/133004006124552192/27bf8df311b31e4f05bba85404e522fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1293723396571398194",
+      "type": "Default",
+      "timestamp": "2024-10-09T19:54:53.961-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bet thanks",
+      "author": {
+        "id": "486619435441061919",
+        "name": "mbruh",
+        "discriminator": "0000",
+        "nickname": "Kai Haavik",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1369012686704082974",
+            "name": "Consulting",
+            "color": "#0F7000",
+            "position": 33
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486619435441061919/b122b088815bd0af0965eabcb7e6eb53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 7
+}

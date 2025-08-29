@@ -1,0 +1,314 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1314664951910240346",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Aerotech Interview Preparation",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:01:02.973978-04:00",
+  "messages": [
+    {
+      "id": "1314664951910240346",
+      "type": "Default",
+      "timestamp": "2024-12-06T13:49:09.829-05:00",
+      "timestampEdited": "2024-12-06T13:49:48.026-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all! I have an interview for a SWE internship role at aerotech coming up next week. The recruiter told me that the interview will be 3 hours long but I'll have a break in the middle. There's a behavioral, technical, and 2nd behavioral with the manager at the end. Has anyone interviewed/worked at Aerotech have any tips? I've looked at the glassdoor to get an idea of the questions asked but wanted to guage if anyone has more information. Thank you!",
+      "author": {
+        "id": "264439403248746497",
+        "name": "_assad",
+        "discriminator": "0000",
+        "nickname": "Assad Bari",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264439403248746497/3770a8a282df7ea9a4dd3af1776a8555.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1314673005229510696",
+      "type": "Default",
+      "timestamp": "2024-12-06T14:21:09.89-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I did an interview with them for a computer/electrical engineering internship, atleast for that they just asked a simple question like fizzbuzz, and then a simple follow up to that",
+      "author": {
+        "id": "1238206051547873372",
+        "name": "ianhaverstock",
+        "discriminator": "0000",
+        "nickname": "Ian Haverstock",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1238206051547873372/a82c39a2fdf45fd54953920d59ed7a61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "264439403248746497",
+              "name": "_assad",
+              "discriminator": "0000",
+              "nickname": "Assad Bari",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/264439403248746497/3770a8a282df7ea9a4dd3af1776a8555.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1316058120048611359",
+      "type": "Default",
+      "timestamp": "2024-12-10T10:05:06.997-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had same interview as Ian, but I was asked about fibonnaci sequence. Overall, not a bad interview but def takes a long time to get through it. I also don't think I had a break but I might just be forgetting lol",
+      "author": {
+        "id": "321752522505322496",
+        "name": "ag1642",
+        "discriminator": "0000",
+        "nickname": "Aragya Goyal",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/321752522505322496/8854f9605175e1d08753d3fe7174f358.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "264439403248746497",
+              "name": "_assad",
+              "discriminator": "0000",
+              "nickname": "Assad Bari",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/264439403248746497/3770a8a282df7ea9a4dd3af1776a8555.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1316088271121547305",
+      "type": "Reply",
+      "timestamp": "2024-12-10T12:04:55.573-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gotcha thank you for the info!",
+      "author": {
+        "id": "264439403248746497",
+        "name": "_assad",
+        "discriminator": "0000",
+        "nickname": "Assad Bari",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264439403248746497/3770a8a282df7ea9a4dd3af1776a8555.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "321752522505322496",
+          "name": "ag1642",
+          "discriminator": "0000",
+          "nickname": "Aragya Goyal",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "932105908807409664",
+              "name": "Robotics",
+              "color": "#955824",
+              "position": 26
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/321752522505322496/8854f9605175e1d08753d3fe7174f358.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1316058120048611359",
+        "channelId": "1314664951910240346",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

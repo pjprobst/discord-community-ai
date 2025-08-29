@@ -1,0 +1,1122 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1223092310422720572",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "How to take CMU course?",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:13:10.821306-04:00",
+  "messages": [
+    {
+      "id": "1223092310422720572",
+      "type": "Default",
+      "timestamp": "2024-03-28T22:12:10.761-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I want to take Intro to Deep Learning at CMU next semester. (https://deeplearning.cs.cmu.edu/S24/index.html)\nHas anyone has experience with the process of taking CMU courses? What steps did you take?",
+      "author": {
+        "id": "424403435358519314",
+        "name": "quentinrl",
+        "discriminator": "0000",
+        "nickname": "Quentin Romero Lauro",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/424403435358519314/fd1fb23e3f8f6d5565fe546f11c07a91.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223110354889080852",
+      "type": "Default",
+      "timestamp": "2024-03-28T23:23:52.897-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I personally havent, but this should be helpful:\nhttps://www.registrar.pitt.edu/sites/default/files/pdf/PCHE_Cross_Registration_Form.pdf\nask your advisor",
+      "author": {
+        "id": "310209827282354177",
+        "name": "hamperdude",
+        "discriminator": "0000",
+        "nickname": "Ryder Pham",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310209827282354177/44d880385cc54b2f7329534fa0ae583e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223110770393485468",
+      "type": "Default",
+      "timestamp": "2024-03-28T23:25:31.961-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My former research advisor who is teaching an applied ML class recently complained how CMU students would blatantly lie to get off of the wait-list for her class",
+      "author": {
+        "id": "690559019538055190",
+        "name": "kalidasque",
+        "discriminator": "0000",
+        "nickname": "Zhen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223110972508606588",
+      "type": "Default",
+      "timestamp": "2024-03-28T23:26:20.149-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "E.g. registering for the wait-list, then emailing the prof 3 minutes later about how they were on the wait-list for a week",
+      "author": {
+        "id": "690559019538055190",
+        "name": "kalidasque",
+        "discriminator": "0000",
+        "nickname": "Zhen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223111728720642088",
+      "type": "Default",
+      "timestamp": "2024-03-28T23:29:20.444-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "YMMV, but I would be pleasantly surprised if you actually managed to snag a seat as a cross registration student",
+      "author": {
+        "id": "690559019538055190",
+        "name": "kalidasque",
+        "discriminator": "0000",
+        "nickname": "Zhen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223112216484773979",
+      "type": "Default",
+      "timestamp": "2024-03-28T23:31:16.736-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I did successfully cross register for a CMU class back in 2019, but the class was a niche class and had plenty of capacity to accommodate more students",
+      "author": {
+        "id": "690559019538055190",
+        "name": "kalidasque",
+        "discriminator": "0000",
+        "nickname": "Zhen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223137570498543657",
+      "type": "Default",
+      "timestamp": "2024-03-29T01:12:01.604-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryder Pham you are awesome. thank you so much",
+      "author": {
+        "id": "424403435358519314",
+        "name": "quentinrl",
+        "discriminator": "0000",
+        "nickname": "Quentin Romero Lauro",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/424403435358519314/fd1fb23e3f8f6d5565fe546f11c07a91.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "310209827282354177",
+          "name": "hamperdude",
+          "discriminator": "0000",
+          "nickname": "Ryder Pham",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1055633555109203968",
+              "name": "Competitive Programming",
+              "color": "#C27C0E",
+              "position": 18
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            },
+            {
+              "id": "1240755362722746510",
+              "name": "LeetCode Bootcamp",
+              "color": null,
+              "position": 10
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/310209827282354177/44d880385cc54b2f7329534fa0ae583e.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223263923285917756",
+      "type": "Default",
+      "timestamp": "2024-03-29T09:34:06.456-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Quentin Romero Lauro if you want to count the course towards your degree requirements, you also need ramirez's approval (or keena's if you're a grad student). you also need to submit this pitt-specific form to your advisor in addition to the general pche form",
+      "author": {
+        "id": "330495912973697035",
+        "name": "sund1ata",
+        "discriminator": "0000",
+        "nickname": "vivek rajkumar",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/330495912973697035/7538abd298c9806316fcfc351e51a55e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1223263922795057213",
+          "url": "https://cdn.discordapp.com/attachments/1223092310422720572/1223263922795057213/PCHE_acknowledgment_form_6-2022.pdf?ex=68862ace&is=6884d94e&hm=057594460385de60bbff589d70cad4016f12f943328ce3d05295ef12b125e96c&",
+          "fileName": "PCHE_acknowledgment_form_6-2022.pdf",
+          "fileSizeBytes": 127350
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "424403435358519314",
+          "name": "quentinrl",
+          "discriminator": "0000",
+          "nickname": "Quentin Romero Lauro",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "729025347122888714",
+              "name": "Officers",
+              "color": "#FFCC00",
+              "position": 42
+            },
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1327078817772339271",
+              "name": "Mock Interviewer",
+              "color": "#C232FF",
+              "position": 34
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/424403435358519314/fd1fb23e3f8f6d5565fe546f11c07a91.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223264755276583002",
+      "type": "Default",
+      "timestamp": "2024-03-29T09:37:24.818-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also 1678 may yet be offered in the fall if you'd rather take the course at pitt, mosse said they're in the process of hiring a bunch of AI faculty rn (which is why virtually no AI courses are listed for the fall atm)",
+      "author": {
+        "id": "330495912973697035",
+        "name": "sund1ata",
+        "discriminator": "0000",
+        "nickname": "vivek rajkumar",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/330495912973697035/7538abd298c9806316fcfc351e51a55e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223380512547143690",
+      "type": "Default",
+      "timestamp": "2024-03-29T17:17:23.502-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For something like intro to DL, you likely have no chance of getting in. The minute there’s a waitlist for that course at CMU, you’re put on a waitlist waitlist",
+      "author": {
+        "id": "624672535044423681",
+        "name": "ritwikgupta",
+        "discriminator": "0000",
+        "nickname": "Ritwik",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223380620114399394",
+      "type": "Default",
+      "timestamp": "2024-03-29T17:17:49.148-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like @Zhen said, cross registration for niche classes works best",
+      "author": {
+        "id": "624672535044423681",
+        "name": "ritwikgupta",
+        "discriminator": "0000",
+        "nickname": "Ritwik",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "690559019538055190",
+          "name": "kalidasque",
+          "discriminator": "0000",
+          "nickname": "Zhen",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1223728308882243644",
+      "type": "Default",
+      "timestamp": "2024-03-30T16:19:24.61-04:00",
+      "timestampEdited": "2024-03-30T16:19:38.173-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would add that large classes are also a good bet- I took intro to ML (10-301) there last semester and it’s a huge class with 2 sections so I easily got in. Basically try and go for classes that are large so you’re guaranteed to get in, or niche so that it’s unlikely to fill up",
+      "author": {
+        "id": "541347452729688075",
+        "name": "spoonblob",
+        "discriminator": "0000",
+        "nickname": "Ani Nangunoori",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541347452729688075/9ce6e5c9fbaedf1f92ab9f0806a0630f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "624672535044423681",
+              "name": "ritwikgupta",
+              "discriminator": "0000",
+              "nickname": "Ritwik",
+              "color": "#BB870F",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1259032747410722826",
+      "type": "Default",
+      "timestamp": "2024-07-06T02:26:38.68-04:00",
+      "timestampEdited": "2024-07-06T02:32:31.074-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ik this is very late but im pretty sure you could register for section b for that class next semester as soon as you get your advisor and a dean to sign your form",
+      "author": {
+        "id": "390677748290682882",
+        "name": "coeed",
+        "discriminator": "0000",
+        "nickname": "Sebastian Castro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1259032747054469170",
+          "url": "https://cdn.discordapp.com/attachments/1223092310422720572/1259032747054469170/image.png?ex=68866f5e&is=68851dde&hm=be88fa5f445f8cf309d7f93a75c43d367f6f6c0a7cc910af808bd607f1bac9bb&",
+          "fileName": "image.png",
+          "fileSizeBytes": 1791494
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1259179678866866286",
+      "type": "Reply",
+      "timestamp": "2024-07-06T12:10:29.869-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait how are you able to see the enrollment status of cmu courses?",
+      "author": {
+        "id": "330495912973697035",
+        "name": "sund1ata",
+        "discriminator": "0000",
+        "nickname": "vivek rajkumar",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/330495912973697035/7538abd298c9806316fcfc351e51a55e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "390677748290682882",
+          "name": "coeed",
+          "discriminator": "0000",
+          "nickname": "Sebastian Castro",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1327078817772339271",
+              "name": "Mock Interviewer",
+              "color": "#C232FF",
+              "position": 34
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1259032747410722826",
+        "channelId": "1223092310422720572",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1259197959803768873",
+      "type": "Reply",
+      "timestamp": "2024-07-06T13:23:08.384-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I logged in with my Andrew id",
+      "author": {
+        "id": "390677748290682882",
+        "name": "coeed",
+        "discriminator": "0000",
+        "nickname": "Sebastian Castro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "330495912973697035",
+          "name": "sund1ata",
+          "discriminator": "0000",
+          "nickname": "vivek rajkumar",
+          "color": "#206694",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "794416243339034624",
+              "name": "Algo Trading",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/330495912973697035/7538abd298c9806316fcfc351e51a55e.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1259179678866866286",
+        "channelId": "1223092310422720572",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1259198197004374046",
+      "type": "Default",
+      "timestamp": "2024-07-06T13:24:04.937-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Its my cmu account)",
+      "author": {
+        "id": "390677748290682882",
+        "name": "coeed",
+        "discriminator": "0000",
+        "nickname": "Sebastian Castro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 16
+}

@@ -1,0 +1,626 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1201335117340221581",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Has anyone gotten the remote ssh VS Code extension to work on thoth?",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:19:16.041839-04:00",
+  "messages": [
+    {
+      "id": "1201335117340221581",
+      "type": "Default",
+      "timestamp": "2024-01-28T20:16:51.701-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am on Windows 11 and trying to use the remote ssh extension to connect to thoth with vs code and keep receiving an error. I have tried toggling the useFlock setting and switching to the pre release version, neither worked. The ssh command works normally on my computer. Any help would be appreciated.",
+      "author": {
+        "id": "419237927432880138",
+        "name": "eanfire",
+        "discriminator": "0000",
+        "nickname": "Ean Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/419237927432880138/ceae784ff2c0043cf4e2097cc10af788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201335485734330528",
+      "type": "Default",
+      "timestamp": "2024-01-28T20:18:19.533-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What does your `sftp.json` look like?",
+      "author": {
+        "id": "227947694797094922",
+        "name": "hedgy.",
+        "discriminator": "0000",
+        "nickname": "Graham Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/227947694797094922/57f5c7b262c763034b0f52e3ae775abb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201335797178183741",
+      "type": "Default",
+      "timestamp": "2024-01-28T20:19:33.787-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "where would it be located",
+      "author": {
+        "id": "419237927432880138",
+        "name": "eanfire",
+        "discriminator": "0000",
+        "nickname": "Ean Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/419237927432880138/ceae784ff2c0043cf4e2097cc10af788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201336275014275122",
+      "type": "Default",
+      "timestamp": "2024-01-28T20:21:27.712-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also for clarification this is the extension I'm trying to get working",
+      "author": {
+        "id": "419237927432880138",
+        "name": "eanfire",
+        "discriminator": "0000",
+        "nickname": "Ean Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/419237927432880138/ceae784ff2c0043cf4e2097cc10af788.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1201336274821333012",
+          "url": "https://cdn.discordapp.com/attachments/1201335117340221581/1201336274821333012/image.png?ex=688627d7&is=6884d657&hm=18f7098b8c5d986a6b8ca3c162aae8a1339a33da4ea40f9894a2d161cd96bfa7&",
+          "fileName": "image.png",
+          "fileSizeBytes": 68184
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201337611655069787",
+      "type": "Default",
+      "timestamp": "2024-01-28T20:26:46.392-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah my bad, wrong thing. i just used ssh in the command shell to compile/run and this https://marketplace.visualstudio.com/items?itemName=Natizyskunk.sftp to edit/upload the code",
+      "author": {
+        "id": "227947694797094922",
+        "name": "hedgy.",
+        "discriminator": "0000",
+        "nickname": "Graham Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/227947694797094922/57f5c7b262c763034b0f52e3ae775abb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SFTP - Visual Studio Marketplace",
+          "url": "https://marketplace.visualstudio.com/items?itemName=Natizyskunk.sftp",
+          "timestamp": null,
+          "description": "Extension for Visual Studio Code - SFTP/FTP sync",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2SaEJNtc_f_qRBPBneBI4aHMTzaq1O9JdyyL-SBgJow/https/natizyskunk.gallerycdn.vsassets.io/extensions/natizyskunk/sftp/1.16.3/1686882267333/Microsoft.VisualStudio.Services.Icons.Default",
+            "width": 256,
+            "height": 256
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201337676356386916",
+      "type": "Default",
+      "timestamp": "2024-01-28T20:27:01.818-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah ok",
+      "author": {
+        "id": "419237927432880138",
+        "name": "eanfire",
+        "discriminator": "0000",
+        "nickname": "Ean Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/419237927432880138/ceae784ff2c0043cf4e2097cc10af788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201368884968685600",
+      "type": "Default",
+      "timestamp": "2024-01-28T22:31:02.531-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sometimes I had to ssh from command line, delete the vscode server thing on my thoth profile and reestablish the connection through vscode",
+      "author": {
+        "id": "290660472401821696",
+        "name": "_xney",
+        "discriminator": "0000",
+        "nickname": "Nicholas Thompson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290660472401821696/1dc92280a5a5aec8d4afedaff1e22669.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201418227763388446",
+      "type": "Default",
+      "timestamp": "2024-01-29T01:47:06.77-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i was able to fix it by deleting the failed server install mentioned above and following these instructions to increase afs space https://jarrettbillingsley.github.io/teaching/classes/cs0449/labs/lab1.html#1-getting-more-space-on-afs",
+      "author": {
+        "id": "419237927432880138",
+        "name": "eanfire",
+        "discriminator": "0000",
+        "nickname": "Ean Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/419237927432880138/ceae784ff2c0043cf4e2097cc10af788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Lab 1: Thoth, SSH, and C",
+          "url": "https://jarrettbillingsley.github.io/teaching/classes/cs0449/labs/lab1.html",
+          "timestamp": null,
+          "description": "Jarrett's Teaching Site",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "code": "raised_hands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64c.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "290660472401821696",
+              "name": "_xney",
+              "discriminator": "0000",
+              "nickname": "Nicholas Thompson",
+              "color": "#E67E22",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/290660472401821696/1dc92280a5a5aec8d4afedaff1e22669.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201418265164001380",
+      "type": "Default",
+      "timestamp": "2024-01-29T01:47:15.687-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks everyone for the help",
+      "author": {
+        "id": "419237927432880138",
+        "name": "eanfire",
+        "discriminator": "0000",
+        "nickname": "Ean Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/419237927432880138/ceae784ff2c0043cf4e2097cc10af788.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1201421347650293790",
+      "type": "Default",
+      "timestamp": "2024-01-29T01:59:30.609-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also i had to enable this setting for it to work",
+      "author": {
+        "id": "419237927432880138",
+        "name": "eanfire",
+        "discriminator": "0000",
+        "nickname": "Ean Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/419237927432880138/ceae784ff2c0043cf4e2097cc10af788.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1201421347440574496",
+          "url": "https://cdn.discordapp.com/attachments/1201335117340221581/1201421347440574496/image.png?ex=68867712&is=68852592&hm=08c734b38d73c4ec4cd64259cdafee362bcae8a0c72cfdbf9a817958897bf93e&",
+          "fileName": "image.png",
+          "fileSizeBytes": 12391
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 10
+}

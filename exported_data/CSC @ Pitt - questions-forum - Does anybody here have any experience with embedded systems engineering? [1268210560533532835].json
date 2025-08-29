@@ -1,0 +1,144 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1268210560533532835",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Does anybody here have any experience with embedded systems engineering?",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:12:12.396922-04:00",
+  "messages": [
+    {
+      "id": "1268210560533532835",
+      "type": "Default",
+      "timestamp": "2024-07-31T10:15:59.844-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m interested in the field, just not sure where to start or get familiar/relevant experience with it besides learning C++. Anyone with insights or stories about their experience with it would be very appreciated!",
+      "author": {
+        "id": "440217326529282058",
+        "name": "moosetopi",
+        "discriminator": "0000",
+        "nickname": "Mike Puthumana",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/440217326529282058/51754a8878d7537f488049413f8fbe0b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1271166141921759233",
+      "type": "Default",
+      "timestamp": "2024-08-08T14:00:25.359-04:00",
+      "timestampEdited": "2024-08-08T14:08:16.183-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "came here to ask the same question. Anyone have any experience with [ECE 1175](https://catalog.upp.pitt.edu/preview_course_nopop.php?catoid=223&coid=1193713)? Seems like [it's not great](https://www.ratemyprofessors.com/professor/2442436) :/",
+      "author": {
+        "id": "299267894708011011",
+        "name": "josh_fratis",
+        "discriminator": "0000",
+        "nickname": "Quidiforis",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/299267894708011011/9a3d478517ac5c5593bc3c60ac2e3446.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wei Gao at University of Pittsburgh | Rate My Professors",
+          "url": "https://www.ratemyprofessors.com/professor/2442436",
+          "timestamp": null,
+          "description": "Wei Gao  is a professor in the Engineering department at University of Pittsburgh - see what their students are saying about them or leave a rating yourself.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/iQO2VK0w2XnuyONzs0Bb3gWjw6zAsNAdYluJkScE-jc/https/www.ratemyprofessors.com/static/media/meta-no-thumbs.16c7cf81.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

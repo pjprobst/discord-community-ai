@@ -1,0 +1,253 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1379310476441288834",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Tanishq Bansod Summer 2026 Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:36:29.307585-04:00",
+  "messages": [
+    {
+      "id": "1379310476441288834",
+      "type": "Default",
+      "timestamp": "2025-06-03T00:07:23.933-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey there, some internships for summer 2026 are already coming out, and I wanted to make sure my resume was good for it. If you have any recommendations of what else I could also do this summer to add onto the resume, i am open to anything. Currently planning on building a computer vision project soon, as well as a niche website/app. Also planning for AWS cloud certification.",
+      "author": {
+        "id": "600778279221460992",
+        "name": "tq0927",
+        "discriminator": "0000",
+        "nickname": "Tanishq Bansod",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/600778279221460992/3b28b74dfd28e1d5eb0aa69a19251b2d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1379310476621647882",
+          "url": "https://cdn.discordapp.com/attachments/1379310476441288834/1379310476621647882/Summer_Resume.pdf?ex=68864ebb&is=6884fd3b&hm=e06d12d60be70ad1085e85f28b245a7a7f5331bdf6d2cd9a009cf4cd4b7ee87c&",
+          "fileName": "Summer_Resume.pdf",
+          "fileSizeBytes": 90899
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1379473534723555441",
+      "type": "Default",
+      "timestamp": "2025-06-03T10:55:20.057-04:00",
+      "timestampEdited": "2025-06-03T10:55:30.791-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "under the Skills header, you can probably remove the repeated Skills: text",
+      "author": {
+        "id": "1238206051547873372",
+        "name": "ianhaverstock",
+        "discriminator": "0000",
+        "nickname": "Ian Haverstock",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1238206051547873372/a82c39a2fdf45fd54953920d59ed7a61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383896232308637727",
+      "type": "Reply",
+      "timestamp": "2025-06-15T15:49:33.331-04:00",
+      "timestampEdited": "2025-06-15T15:58:47.776-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sup B) looks like you got some great experience. thought i'd give my two cents on some things you could improve since you want to make room for those other projects you mentioned:\n1. the font and margins are really small. idk if this is lower than 10.5 but i've heard that that's the lowest you should go. as for margins, it wouldn't be that much of an issue, but the things is that i'd argue you don't need the extra space which i'll address below\n2. you can save a ton of lines for things such as GPA, the massive gaps between each header and the first bullet, congregating the bottom 3 lines of ur TA description, eliminating new lines in paragraphs such as ur first bullet under Baans and 3rd under freudify (bc u have a whole line for one word)\n3. skills has a header and a subheader titled skills\n4. tartanhacks is 1 word not 2. i would add that it's at cnargie mellon university since that can help with ai resume readers bc cmu is good\n5. i dont personally think adding \"USA\" at the end of each location is necessary so id remove it to save more space if needed. seeing as you have so much space in the middle of the page you could theoretically even put the dates next to the location\n6. the header \"projects & outside experience\" ... i haven't seen \"outside experience\" ever used so i would say you could just say projects and go for a cleaner look\n7. hyperlink the links in ur descriptions and underline them.\n8. missing a space after \"MERN\"\n9. don't put an end date for experiences that only last a month (ex. Feb2025-Feb2025 should be just Feb2025 imo)\n10. remove extra tab before \"relevant courses\". optionally remove \"relevant\" and just say courses because it's supposed to be relevant anyway\n11. you can either put the job title or the employer first in bold in each job description. however, if you choose to do this, it makes more sense to put ur TA and RA positions together under pitt, not 2 pitt job descriptions",
+      "author": {
+        "id": "277930485307539460",
+        "name": "dvdzs",
+        "discriminator": "0000",
+        "nickname": "David Shi",
+        "color": "#A84300",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "1243341588869152848",
+            "name": "Wiki Dev",
+            "color": "#AD1457",
+            "position": 30
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277930485307539460/4eadc6579f636d654b8fab6bd5c0cdf6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "600778279221460992",
+          "name": "tq0927",
+          "discriminator": "0000",
+          "nickname": "Tanishq Bansod",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/600778279221460992/3b28b74dfd28e1d5eb0aa69a19251b2d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1379310476441288834",
+        "channelId": "1379310476441288834",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383898998150140014",
+      "type": "Default",
+      "timestamp": "2025-06-15T16:00:32.759-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "overall u have a lot of good descriptions but idrc abt that bc im better at the designing of resume stuff lol but hope this helped it seems u r doing rly well overall",
+      "author": {
+        "id": "277930485307539460",
+        "name": "dvdzs",
+        "discriminator": "0000",
+        "nickname": "David Shi",
+        "color": "#A84300",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "1243341588869152848",
+            "name": "Wiki Dev",
+            "color": "#AD1457",
+            "position": 30
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277930485307539460/4eadc6579f636d654b8fab6bd5c0cdf6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

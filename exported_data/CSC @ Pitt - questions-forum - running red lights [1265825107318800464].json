@@ -1,0 +1,411 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1265825107318800464",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "running red lights",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:12:18.795938-04:00",
+  "messages": [
+    {
+      "id": "1265825107318800464",
+      "type": "Default",
+      "timestamp": "2024-07-24T20:17:03.478-04:00",
+      "timestampEdited": "2024-07-24T20:22:25.51-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok so. the principle problem of an intersection is a left turn is that there is a singular resource (the center of the intersection) and two people can't share it at the same time. \nBut if they could.\nTheoretically, you could invent some sort of shape that could pass seamlessly past another, at an agreed upon angle. I'll leave the specifics out of this, as just assuming it was possible is sufficient. But now, you've essentially reduced the problem of a 4-way stop to that of scheduling, which makes it, ofc, a misurda-wet-dream-os-scheduling-problem.\nWhich leads to the central question here - could you arrange an os in such a way that it could run two instructions exactly concurrently. I mean, by the time you set it up, it would essentially be a double-core processor, but a single program, with one CPU reading the instructions exactly as planned, and the second CPU reading them in reverse. I can't yet see why it wouldn't work.\nI also can't really see how it would be useful, except that with a lot of work, you might be able to build an os or at least a program that appeared to do one thing on the \"normal\" os, and did some other exploit on the \"mirror os\". a lot of work for a tiny little prank.\nBut it is a little bit worrying, since any double-taped turing machine is reducable to a single tape. So. Could you mix instructions? if you gave the scheduler a bit more memory, could you build a program that selectively stored the \"state\" of a register at a certain time in another program, or stored the bits lost in a bit shift, or the like? Is your os still your os if it runs its own programs?\nHowever you go on that, it does bring an interesting problem up in the realm of entropy. The way I understand it - Shannon entropy at least - is that it is the information gained, i.e. p(observed) - p(expected). *i know thats not the math j work with me here*. So, if you expect a program to do something, and it does nothing, has it entropy?",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1265826390138163342",
+      "type": "Default",
+      "timestamp": "2024-07-24T20:22:09.326-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*org post continued* in a debugging sense it doesn't matter, but in this psuedo-instruction sense it does. Like a CPU reading an instruction and doing it means everything that is off is off. So, a message could be encoded by recording - say for example the carry bit of the ALU - when a program was run, provided you had access. I'm not actually thinking to do this - since that would just again be making a single tape TM a dual tape TM, but still the fact that there is an information gain by a TM doing a thing is worriesome to me. Doesn't that pose some issue for the halting problem?",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1265827139417018379",
+      "type": "Default",
+      "timestamp": "2024-07-24T20:25:07.968-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://en.wikipedia.org/wiki/Very_long_instruction_word (?)",
+      "author": {
+        "id": "743509541144100904",
+        "name": "ncbarta",
+        "discriminator": "0000",
+        "nickname": "Nathan Barta",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Very long instruction word",
+          "url": "https://en.wikipedia.org/wiki/Very_long_instruction_word",
+          "timestamp": null,
+          "description": "Very long instruction word (VLIW) refers to instruction set architectures that are designed to exploit instruction-level parallelism (ILP). A VLIW processor allows programs to explicitly specify instructions to execute in parallel, whereas conventional central processing units (CPUs) mostly allow programs to specify instructions to execute in se...",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1265828341366394932",
+      "type": "Default",
+      "timestamp": "2024-07-24T20:29:54.535-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The idea of running two (or more) programs as one within a VLIW is pretty funny.",
+      "author": {
+        "id": "743509541144100904",
+        "name": "ncbarta",
+        "discriminator": "0000",
+        "nickname": "Nathan Barta",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "code": "clap",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44f.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "689507500097011824",
+              "name": "sodisimus",
+              "discriminator": "0000",
+              "nickname": "Sodi Kroehler",
+              "color": "#E67E22",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

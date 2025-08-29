@@ -1,0 +1,314 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1355941954835185977",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Category Theory???",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:55:37.993652-04:00",
+  "messages": [
+    {
+      "id": "1355941954835185977",
+      "type": "Default",
+      "timestamp": "2025-03-30T12:29:14.216-04:00",
+      "timestampEdited": "2025-03-30T12:29:28.67-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does Pitt or CMU offer category theory next fall semester?\nI know CS kids don't really need to know; I wanna take it for fun",
+      "author": {
+        "id": "551179880536997908",
+        "name": "toomuchofeverything",
+        "discriminator": "0000",
+        "nickname": "Suhyun Kim",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551179880536997908/518eaa3652644da83437a9c84a644275.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355946507274158096",
+      "type": "Default",
+      "timestamp": "2025-03-30T12:47:19.602-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There's tan's 1699: functional programming that touches on it from a cs perspective. CMU has 15-150 as it's FP course but idk syllabus.\n\nTo like get into Category theory seriously, you'll need a good grasp of topology. (The classic text for category theory is \"Categories for the Working Mathematican\" and it assumes knowledge group theory and topology from page 1)\n\nHere's a resource that helped me understand it better lol\nhttps://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Category Theory for Programmers: The Preface",
+          "url": "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/",
+          "timestamp": null,
+          "description": "Table of Contents Part One Category: The Essence of Composition Types and Functions Categories Great and Small Kleisli Categories Products and Coproducts Simple Algebraic Data Types Functors Functo…",
+          "author": {
+            "name": "Bartosz Milewski",
+            "url": "https://bartoszmilewski.com/author/bartoszmilewski/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Gc1giCg69H5Xf-g68vNUZsNfjFLBA6uka1lO9F9Vtsw/%3Fw%3D640/https/bartoszmilewski.com/wp-content/uploads/2014/10/img_1299.jpg",
+            "width": 640,
+            "height": 455
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "394256877447413761",
+              "name": "lonk_from_pennsylvania",
+              "discriminator": "0000",
+              "nickname": "l o n k",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355947856867098928",
+      "type": "Default",
+      "timestamp": "2025-03-30T12:52:41.37-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also would recommend Math 1410: Intro to Foundations of Math. It talks about model theory and first order logic. You talk about syntax and semantics of a language in general, and first order logic as a specific case.\n\nyou get to prove Godel's incompleteness theorem as well.\n\nFrom a category theory perspective, it's useful as the type theory part of category theory becomes easier if you're comfortable with undergrad level logic",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355948897587040367",
+      "type": "Default",
+      "timestamp": "2025-03-30T12:56:49.497-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "afaik most programs only offer category theory as a graduate class",
+      "author": {
+        "id": "1042631156400656514",
+        "name": "vu67",
+        "discriminator": "0000",
+        "nickname": "owen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1042631156400656514/3c55063191c2ffe78d88884dd00d7bae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355949177921867797",
+      "type": "Default",
+      "timestamp": "2025-03-30T12:57:56.334-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or at least an upper-level with a lot of prereqs; as ojas said you'll need to know topology but you'll also need a strong foundation in abstract algebra",
+      "author": {
+        "id": "1042631156400656514",
+        "name": "vu67",
+        "discriminator": "0000",
+        "nickname": "owen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1042631156400656514/3c55063191c2ffe78d88884dd00d7bae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355950262409367664",
+      "type": "Default",
+      "timestamp": "2025-03-30T13:02:14.896-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bartosz milewski is likely your best resource unless you're willing to put the time in to approach it from a mathematician's perspective instead of a computer scientist's",
+      "author": {
+        "id": "1042631156400656514",
+        "name": "vu67",
+        "discriminator": "0000",
+        "nickname": "owen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1042631156400656514/3c55063191c2ffe78d88884dd00d7bae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355951269935845436",
+      "type": "Default",
+      "timestamp": "2025-03-30T13:06:15.109-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for the math angle, try this:\n\nhttps://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html\n\nyou can ignore the university of oregon label, these are basically all (renowned) CMU professors. gets you into category theory and all of its adjacencies like type theory",
+      "author": {
+        "id": "1042631156400656514",
+        "name": "vu67",
+        "discriminator": "0000",
+        "nickname": "owen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1042631156400656514/3c55063191c2ffe78d88884dd00d7bae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355964955676901517",
+      "type": "Default",
+      "timestamp": "2025-03-30T14:00:38.044-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "To my knowledge, MATH 2500 introduces category theory, but only to explain things in group theory and stuff. I think some of the later algebra courses might teach it more?",
+      "author": {
+        "id": "408443674205224960",
+        "name": "eggei",
+        "discriminator": "0000",
+        "nickname": "Jason Wein",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/408443674205224960/2f3075b53bf115e13e5601b08954e448.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 8
+}

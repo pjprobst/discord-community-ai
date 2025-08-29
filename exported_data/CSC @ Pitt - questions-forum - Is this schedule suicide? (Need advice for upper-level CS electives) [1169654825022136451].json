@@ -1,0 +1,1034 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1169654825022136451",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Is this schedule suicide? (Need advice for upper-level CS electives)",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:22:26.896627-04:00",
+  "messages": [
+    {
+      "id": "1169654825022136451",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:10:41.421-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've been in a tough situation this semester. I have all my requirements for both my minor and major satisfied, I just need two more semesters worth of credits to graduate. I want to make sure I get the opportunity to take a lot of CS classes before I leave here, though I don't want to overwhelm myself of course.\n\nKnowing that, I want to take 1555 and 1520 (w/ farnan) mainly, as I'm most interested in those and heard they're not easy. I also found one non-cs gen ed that I want to take that won't be too hard. That leaves me with two more \"gen ed spots\". \n\nHere's what I'm thinking:\n- 1555 (Heard it's a challenge, not too crazy though, considering one of my \"core\" classes for the sem)\n- 1520 (w/ farnan, heard its a challenge and involved, considering my second \"core\" class for the sem)\n- 1660 (I've heard this class is dirt easy but can still be somewhat useful, considering this like 1/3 gen eds for the semester, just happens to be cs related)\n- 1699 (w/ tan, functional programming, heard its an intro class to haskell, similar if not easier to 401 difficulty, considering my 2/3 gen ed for the sem)\n- My last non-cs  3/3 gen ed (should be fairly easy)\n\nEssentially I'm breaking this up into my \"core\" classes that I think will be difficult, followed by two less stressful \"gen eds\" that are still CS related so I won't be bored in them. If I take another gen ed I'm just going to look for something super easy that I won't care about, so I figure it's better to at least pick something CS related.\n\nIs this a good idea or is this going to be semester suicide?",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656222409031700",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:16:14.584-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What's 1660?",
+      "author": {
+        "id": "171031846057017344",
+        "name": "nefnefnefnefnef",
+        "discriminator": "0000",
+        "nickname": "Jordan Brundel",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/171031846057017344/acf734770f9ed275306d6b2c6dd74c3c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656268781256724",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:16:25.64-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Intro to Cloud Computing",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656404064342117",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:16:57.894-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've got a friend in the class who said they're 9 weeks in and the most intensive work they've had was uncommenting a project they were given the solution to",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656501678374922",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:17:21.167-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "From what I've heard it's extremely easy (though this is all only word of mouth of course), but it still has some useful information",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656681668563034",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:18:04.08-04:00",
+      "timestampEdited": "2023-11-02T11:18:12.956-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Take SQA with wunsun ahn\nHeard it's ez and informative",
+      "author": {
+        "id": "759798374278627342",
+        "name": "mr.lizard10",
+        "discriminator": "0000",
+        "nickname": "Jamie Affour",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/759798374278627342/bde78faf081c35e86bdf30596646b854.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656758977970227",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:18:22.512-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've heard SQA will most likely be more work than 1699 or 1660",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656787503427674",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:18:29.313-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I plan to take it though, probably next semester",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656950460526732",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:19:08.165-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m in SQA rn, isn’t much work tbh. Maybe an hour and a half tops per week in terms of workload",
+      "author": {
+        "id": "315598930115035136",
+        "name": "halcyon_727",
+        "discriminator": "0000",
+        "nickname": "Halcyon",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/315598930115035136/e789142e20b5421f4f6e020823b9acbd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169656972212191332",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:19:13.351-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For this semester I'm just trying to pick two work heavy classes (1555 and 1520) then two relatively less stress classes",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169657084569210983",
+      "type": "Reply",
+      "timestamp": "2023-11-02T11:19:40.139-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But it’s two people groups so it kind of depends on your partner",
+      "author": {
+        "id": "315598930115035136",
+        "name": "halcyon_727",
+        "discriminator": "0000",
+        "nickname": "Halcyon",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/315598930115035136/e789142e20b5421f4f6e020823b9acbd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1169656950460526732",
+        "channelId": "1169654825022136451",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169657288475299980",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:20:28.754-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah again I'll probably do SQA next sem since I've heard 1660 (for sure) and 1699 (most likely) will be less work or as little work as it",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169657336542011483",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:20:40.214-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unless you think it would be a better pick than something like 1699",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169657360483090493",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:20:45.922-04:00",
+      "timestampEdited": "2023-11-02T11:21:19.418-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(but I also love tan so i may be biased lol)",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169658079823024181",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:23:37.426-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "From what I heard functional programming is typically only offered in spring",
+      "author": {
+        "id": "315598930115035136",
+        "name": "halcyon_727",
+        "discriminator": "0000",
+        "nickname": "Halcyon",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/315598930115035136/e789142e20b5421f4f6e020823b9acbd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169658180473733211",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:24:01.423-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If ur planning to graduate in two semesters I’d say take it this semester",
+      "author": {
+        "id": "315598930115035136",
+        "name": "halcyon_727",
+        "discriminator": "0000",
+        "nickname": "Halcyon",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/315598930115035136/e789142e20b5421f4f6e020823b9acbd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169658189277565010",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:24:03.522-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guess I may be sticking with it then",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169658251823026306",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:24:18.434-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm planning to take computer vision and SQA next sem",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169658260970811424",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:24:20.615-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not sure what else yet",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169658796428238979",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:26:28.278-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Though to point out my original question, do you think this semester will be unreasonably hard? Or with the classes I'm picking should this be more tame than I anticipate? It's just the label of 4 CS electives making me a bit apprehensive.",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169659237463494781",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:28:13.429-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I put in a laughable amount of work for sqa, it was a very easy class. if functional and cloud are considered easier than that then you'll be fine",
+      "author": {
+        "id": "171031846057017344",
+        "name": "nefnefnefnefnef",
+        "discriminator": "0000",
+        "nickname": "Jordan Brundel",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/171031846057017344/acf734770f9ed275306d6b2c6dd74c3c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "846257990348046367",
+            "name": "this",
+            "code": "this",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/846257990348046367.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "315598930115035136",
+              "name": "halcyon_727",
+              "discriminator": "0000",
+              "nickname": "Halcyon",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/315598930115035136/e789142e20b5421f4f6e020823b9acbd.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169659636060799107",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:29:48.462-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cloud computing definitely will be, I'm a bit less confident on 1699",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169659705589780490",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:30:05.039-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Has anyone taken 1699 w/ tan and SQA and has insight as to which is less work / less difficult?",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169659771729756214",
+      "type": "Default",
+      "timestamp": "2023-11-02T11:30:20.808-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@zach",
+      "author": {
+        "id": "171031846057017344",
+        "name": "nefnefnefnefnef",
+        "discriminator": "0000",
+        "nickname": "Jordan Brundel",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/171031846057017344/acf734770f9ed275306d6b2c6dd74c3c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "132904636947496960",
+          "name": "zhoffman1",
+          "discriminator": "0000",
+          "nickname": "zach",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/132904636947496960/25577a1e90ead04ffcc823719d5ade5a.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169671944531087542",
+      "type": "Reply",
+      "timestamp": "2023-11-02T12:18:43.03-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1699 with tan is really fun and a decent bit of work. Nothing crazy. Doing that alongside SQA is fine. SQA is more volume than 1699. You also have a partner in SQA, so it should be not bad if you have a good partner.",
+      "author": {
+        "id": "132904636947496960",
+        "name": "zhoffman1",
+        "discriminator": "0000",
+        "nickname": "zach",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/132904636947496960/25577a1e90ead04ffcc823719d5ade5a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "111676166556917760",
+          "name": "cyanox",
+          "discriminator": "0000",
+          "nickname": "todd",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1169659705589780490",
+        "channelId": "1169654825022136451",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169672145694109798",
+      "type": "Default",
+      "timestamp": "2023-11-02T12:19:30.991-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Really depends on how comfortable you get with Haskell. SQA probably has easier content but more content, so SQA is overall more work imo.",
+      "author": {
+        "id": "132904636947496960",
+        "name": "zhoffman1",
+        "discriminator": "0000",
+        "nickname": "zach",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/132904636947496960/25577a1e90ead04ffcc823719d5ade5a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169673117229142038",
+      "type": "Default",
+      "timestamp": "2023-11-02T12:23:22.623-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd only be doing one of the two alongside the rest of my semester",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169673203518541916",
+      "type": "Default",
+      "timestamp": "2023-11-02T12:23:43.196-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but if 1699 is overall less work i'll go with that one I think",
+      "author": {
+        "id": "111676166556917760",
+        "name": "cyanox",
+        "discriminator": "0000",
+        "nickname": "todd",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169702566184112214",
+      "type": "Default",
+      "timestamp": "2023-11-02T14:20:23.801-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1699 is what I would choose. Way more fun",
+      "author": {
+        "id": "132904636947496960",
+        "name": "zhoffman1",
+        "discriminator": "0000",
+        "nickname": "zach",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/132904636947496960/25577a1e90ead04ffcc823719d5ade5a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1172613757151744020",
+      "type": "Reply",
+      "timestamp": "2023-11-10T14:08:25.815-05:00",
+      "timestampEdited": "2023-11-10T14:14:51.926-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah it is p easy atm, it's dan's first semester teaching so he's still getting his bearings",
+      "author": {
+        "id": "330495912973697035",
+        "name": "sund1ata",
+        "discriminator": "0000",
+        "nickname": "vivek rajkumar",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/330495912973697035/7538abd298c9806316fcfc351e51a55e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "111676166556917760",
+          "name": "cyanox",
+          "discriminator": "0000",
+          "nickname": "todd",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/111676166556917760/5ceb6809c095f8714a4963cbc1757666.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1169656501678374922",
+        "channelId": "1169654825022136451",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 30
+}

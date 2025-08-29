@@ -1,0 +1,187 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1170889438935662622",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "MATH 1101",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:23:15.337335-04:00",
+  "messages": [
+    {
+      "id": "1170889438935662622",
+      "type": "Default",
+      "timestamp": "2023-11-05T19:56:36.316-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone have experience with this class? it sounds pretty cool but the description is kinda vague. what's the split between software and math like?",
+      "author": {
+        "id": "1042631156400656514",
+        "name": "vu67",
+        "discriminator": "0000",
+        "nickname": "owen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1042631156400656514/3c55063191c2ffe78d88884dd00d7bae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1171479675483197520",
+      "type": "Default",
+      "timestamp": "2023-11-07T11:01:59.675-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its a lot of theory and a good amount of R programming",
+      "author": {
+        "id": "572796216589418528",
+        "name": ".tobeee",
+        "discriminator": "0000",
+        "nickname": "Toby Beidler-Shenk",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/572796216589418528/ab9221469b0852491aeb6fd35a1299bb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1171479702872002680",
+      "type": "Default",
+      "timestamp": "2023-11-07T11:02:06.205-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is this with Constantine?",
+      "author": {
+        "id": "572796216589418528",
+        "name": ".tobeee",
+        "discriminator": "0000",
+        "nickname": "Toby Beidler-Shenk",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/572796216589418528/ab9221469b0852491aeb6fd35a1299bb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1171528801038127175",
+      "type": "Default",
+      "timestamp": "2023-11-07T14:17:12.12-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no idea yet, won't be taking it until next fall",
+      "author": {
+        "id": "1042631156400656514",
+        "name": "vu67",
+        "discriminator": "0000",
+        "nickname": "owen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1042631156400656514/3c55063191c2ffe78d88884dd00d7bae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1171528868172148767",
+      "type": "Default",
+      "timestamp": "2023-11-07T14:17:28.126-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the R thing is interesting i thought it was excel",
+      "author": {
+        "id": "1042631156400656514",
+        "name": "vu67",
+        "discriminator": "0000",
+        "nickname": "owen",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1042631156400656514/3c55063191c2ffe78d88884dd00d7bae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1171862412341825607",
+      "type": "Default",
+      "timestamp": "2023-11-08T12:22:51.253-05:00",
+      "timestampEdited": "2023-11-08T12:49:45.512-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you take it with Wheeler its going to be a napplied math class, calc 3, linear and a couple of proofs, you will also use excel. you learn  a lot of different ways to optimize an objective function",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

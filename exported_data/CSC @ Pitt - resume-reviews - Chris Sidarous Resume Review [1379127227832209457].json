@@ -1,0 +1,204 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1379127227832209457",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Chris Sidarous Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:36:27.811659-04:00",
+  "messages": [
+    {
+      "id": "1379127227832209457",
+      "type": "Default",
+      "timestamp": "2025-06-02T11:59:14.06-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just graduated and am still looking for full time roles mainly in Data Engineering, Data Analysis, AI and machine learning. Just updated my resume and would appreciate any feedback especially on proejct and experience description bullets. Thanks!",
+      "author": {
+        "id": "736004506814382132",
+        "name": "chrissidarous",
+        "discriminator": "0000",
+        "nickname": "Chris Sidarous",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1379127228247572662",
+          "url": "https://cdn.discordapp.com/attachments/1379127227832209457/1379127228247572662/Christopher_Sidarous_Resume.pdf?ex=68864cd2&is=6884fb52&hm=49e45176cdd246a4fc4df275a370b1d61795dd7aafa0f6e7047191e06638adc3&",
+          "fileName": "Christopher_Sidarous_Resume.pdf",
+          "fileSizeBytes": 191979
+        },
+        {
+          "id": "1379127228930986015",
+          "url": "https://cdn.discordapp.com/attachments/1379127227832209457/1379127228930986015/Screenshot_2025-06-02_at_11.58.03_AM.png?ex=68864cd2&is=6884fb52&hm=ee1b440646919bfcafa93d18a129b09ff03da5f0a07a937510831a7ea122e378&",
+          "fileName": "Screenshot_2025-06-02_at_11.58.03_AM.png",
+          "fileSizeBytes": 444171
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383901317939986564",
+      "type": "Default",
+      "timestamp": "2025-06-15T16:09:45.84-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "overall looks rly clean and nice. however, i'm noticing a lot of differences in line spacing such as between \"pittsburgh pirates\" and \"capstone\" vs \"university of pittsburgh\" and \"undergtraduate teaching...\". fixin these can give u more space to write and provide a cleaner look. another example is between each DBotify bullet point. also, i think you can save space by remove \"coursework\" as a subheader since it should be under pitt. you could make that one bullet point. each skills subheader is taking a lot of space in between as well. that s up to u but if u need more space thats an option. i would put a space in between the hyphen of each date ex. \"Jan 2020 - Feb 2030\". also a space missing btwn \"January2024\".  i would remove \"class project\" and \"personal\". neither of these benefit the perspective of ur project and i mgiht argue calling it a class project is actually making it less impressive. as such, i would also replace \"spring\" and \"fall\" with the months worked",
+      "author": {
+        "id": "277930485307539460",
+        "name": "dvdzs",
+        "discriminator": "0000",
+        "nickname": "David Shi",
+        "color": "#A84300",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "1243341588869152848",
+            "name": "Wiki Dev",
+            "color": "#AD1457",
+            "position": 30
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277930485307539460/4eadc6579f636d654b8fab6bd5c0cdf6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383901390232879255",
+      "type": "Default",
+      "timestamp": "2025-06-15T16:10:03.076-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sounds like a lot of good stuff though :)",
+      "author": {
+        "id": "277930485307539460",
+        "name": "dvdzs",
+        "discriminator": "0000",
+        "nickname": "David Shi",
+        "color": "#A84300",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "1243341588869152848",
+            "name": "Wiki Dev",
+            "color": "#AD1457",
+            "position": 30
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277930485307539460/4eadc6579f636d654b8fab6bd5c0cdf6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

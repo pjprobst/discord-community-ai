@@ -1,0 +1,1381 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1181782659349893151",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "do you think we could realistically live with a single programming language",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:21:09.861055-04:00",
+  "messages": [
+    {
+      "id": "1181782659349893151",
+      "type": "Default",
+      "timestamp": "2023-12-05T21:22:22.449-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like disregarding what is currently developed, do you think it'd be feasible. This would definitely allow for like three (or more) \"layers\" - like an assembly, low-level (aka rust, c++), and interpreted (python - ik not totally the case but just role with it), but still all built on top of each other.",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181782770905776138",
+      "type": "ChannelNameChange",
+      "timestamp": "2023-12-05T21:22:49.046-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changed the channel name: do you think we could realistically live with a single programming language",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181789639208616006",
+      "type": "Default",
+      "timestamp": "2023-12-05T21:50:06.577-05:00",
+      "timestampEdited": "2023-12-05T21:51:22.022-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm confused on what this question is asking, is it flat out asking one language, or just one version of assembly that everything can be traced to",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181789760805679214",
+      "type": "Default",
+      "timestamp": "2023-12-05T21:50:35.568-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "either way obvious answer is yes, we would live, would we have same quality of life who knows",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181790113764737137",
+      "type": "Default",
+      "timestamp": "2023-12-05T21:51:59.72-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if its the second isn't it more asking how we would live with one type of cpu architecture?",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181790159436521472",
+      "type": "Default",
+      "timestamp": "2023-12-05T21:52:10.609-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Idk question seems unclear like my homework questions",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181832772902465606",
+      "type": "Default",
+      "timestamp": "2023-12-06T00:41:30.451-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If the language is sufficiently complex, the language can become self hosted. Like how Java is written in Java. Otherwise there are a lot of languages that have a C backend(eg. nim, odin), where C becomes the new bottom layer. If you want to go below C, there's LLVM IR.",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181833348591661056",
+      "type": "Default",
+      "timestamp": "2023-12-06T00:43:47.706-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If the world were to run on a single language, it would either be JS(hell) or C(earth) or LISP(heaven)",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181839070897377320",
+      "type": "Default",
+      "timestamp": "2023-12-06T01:06:32.01-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In this hypothetical are we just assuming machine code and assembly aren't counted as a language",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181854489871929454",
+      "type": "Default",
+      "timestamp": "2023-12-06T02:07:48.18-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We do only have one language. Machine code. Everything else is an abstraction. Even if you chose one “language”, people would build abstractions on top of that as well",
+      "author": {
+        "id": "624672535044423681",
+        "name": "ritwikgupta",
+        "discriminator": "0000",
+        "nickname": "Ritwik",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181861049251672064",
+      "type": "Reply",
+      "timestamp": "2023-12-06T02:33:52.058-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is a bit reductive but i think it strikes at the real heart of the question. yes, deep enough down, all hlls become machine code, but machine code is specific to an architecture. and i think thats the real limiting factor here. we will never have one grand unified architecture which all machines implement. partly bc different tasks require different strength and weaknesses that some ISAs excel or flounder at, but also bc once you're dealing with silicon, the buisness pressures become far higher than (generally) open source languages. AMD and intel will never agree to start only building socs under one architecture, and arm isnt gonna just give up its monopoly on IP licensing",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "624672535044423681",
+          "name": "ritwikgupta",
+          "discriminator": "0000",
+          "nickname": "Ritwik",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1181854489871929454",
+        "channelId": "1181782659349893151",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181994345142960279",
+      "type": "Reply",
+      "timestamp": "2023-12-06T11:23:32.275-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is machine code referring to the raw binary as a language?",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "624672535044423681",
+          "name": "ritwikgupta",
+          "discriminator": "0000",
+          "nickname": "Ritwik",
+          "color": "#BB870F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "980504304802750484",
+              "name": "Former Officers",
+              "color": "#BB870F",
+              "position": 38
+            },
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1181854489871929454",
+        "channelId": "1181782659349893151",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181994394379898990",
+      "type": "Default",
+      "timestamp": "2023-12-06T11:23:44.014-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cause I guess it is",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181994616870944788",
+      "type": "Default",
+      "timestamp": "2023-12-06T11:24:37.06-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If it's assembly there r many types",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181994635896303736",
+      "type": "Default",
+      "timestamp": "2023-12-06T11:24:41.596-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, as specified by an ISA. So it’s architecture specific",
+      "author": {
+        "id": "624672535044423681",
+        "name": "ritwikgupta",
+        "discriminator": "0000",
+        "nickname": "Ritwik",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624672535044423681/d4872b95826218e84bd86faccdf21991.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181994714740838430",
+      "type": "Reply",
+      "timestamp": "2023-12-06T11:25:00.394-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I literally just said this \uD83D\uDC80",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "259508261521326091",
+          "name": "ilikedogz",
+          "discriminator": "0000",
+          "nickname": "ILikeDogz",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1181994616870944788",
+        "channelId": "1181782659349893151",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC80",
+          "code": "skull",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f480.svg"
+        }
+      ]
+    },
+    {
+      "id": "1181994846551023666",
+      "type": "Default",
+      "timestamp": "2023-12-06T11:25:31.82-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Big paragraph I can't read",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "541347452729688075",
+              "name": "spoonblob",
+              "discriminator": "0000",
+              "nickname": "Spoonblob",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/541347452729688075/9ce6e5c9fbaedf1f92ab9f0806a0630f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181995213858799697",
+      "type": "Reply",
+      "timestamp": "2023-12-06T11:26:59.393-05:00",
+      "timestampEdited": "2023-12-06T11:28:09.943-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also I claim u stole this so take that @chris hinson /j",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "158303134077288448",
+          "name": ".cea",
+          "discriminator": "0000",
+          "nickname": "chris hinson",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142452214202438",
+              "name": "Graduate Student",
+              "color": "#E67E22",
+              "position": 36
+            },
+            {
+              "id": "891706189874876437",
+              "name": "Rust Dev",
+              "color": "#2ECC71",
+              "position": 21
+            },
+            {
+              "id": "1055633555109203968",
+              "name": "Competitive Programming",
+              "color": "#C27C0E",
+              "position": 18
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754616868278413",
+              "name": "they/them",
+              "color": null,
+              "position": 11
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1181790113764737137",
+        "channelId": "1181782659349893151",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181998095106580560",
+      "type": "Default",
+      "timestamp": "2023-12-06T11:38:26.336-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Definitely talking about the “abstraction” level programming.  I can def see how we’d need multiple architectures and thus multiple machine code but obvi can already compile from c to all (okay most) of these.",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1181998325784912015",
+      "type": "Default",
+      "timestamp": "2023-12-06T11:39:21.334-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Basically could a world exist where only rust existed",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1182001693202849912",
+      "type": "Default",
+      "timestamp": "2023-12-06T11:52:44.189-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are we allowed to make abstractions of rust or is it just plain rust only rust",
+      "author": {
+        "id": "259508261521326091",
+        "name": "ilikedogz",
+        "discriminator": "0000",
+        "nickname": "ILikeDogz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/259508261521326091/880a0a75b49b9ba5b74e2f2243993cf7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1182083121303269386",
+      "type": "Default",
+      "timestamp": "2023-12-06T17:16:18.161-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most def",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1182083168438861824",
+      "type": "Default",
+      "timestamp": "2023-12-06T17:16:29.399-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But like it has to get simpler",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1182083589140131920",
+      "type": "Default",
+      "timestamp": "2023-12-06T17:18:09.702-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Idk it might be a stupid idea but I thought if like someone was to make a single open source Library of Alexandria for code, would it be better for the future of humanity if they enforced that it be written only in a single language",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1182086363231817749",
+      "type": "Default",
+      "timestamp": "2023-12-06T17:29:11.097-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well at that point I think it'd be better to write it in some form of mathematical notation",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1182086400334647396",
+      "type": "Default",
+      "timestamp": "2023-12-06T17:29:19.943-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "remove any abstraction from the equation",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1182089366139580617",
+      "type": "Default",
+      "timestamp": "2023-12-06T17:41:07.046-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or we can write everything in brainfuck",
+      "author": {
+        "id": "577889604770856960",
+        "name": "rawr_beezly",
+        "discriminator": "0000",
+        "nickname": "Nickhil Niranjan",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577889604770856960/3ad0f14ac92d71cc748ea1a33411bf3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1182100932104826930",
+      "type": "Default",
+      "timestamp": "2023-12-06T18:27:04.587-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah but not maintainable",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 28
+}

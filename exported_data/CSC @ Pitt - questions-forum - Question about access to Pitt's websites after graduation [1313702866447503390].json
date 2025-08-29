@@ -1,0 +1,235 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1313702866447503390",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Question about access to Pitt's websites after graduation",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:02:00.640842-04:00",
+  "messages": [
+    {
+      "id": "1313702866447503390",
+      "type": "Default",
+      "timestamp": "2024-12-03T22:06:10.78-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For those of you who are alumi, after graduation, will we still be able to access our myPitt and Gradescope accounts? I am asking this question because I will be graduating this month, and I plan to download some of my Gradescope/Canvas submissions after graduation so I can save a copy on my computer. Therefore, I am asking here to see if I will still have ample time after graduation to take care of this, or if I need to worry about this like now.",
+      "author": {
+        "id": "879428325766991892",
+        "name": "renhancxu",
+        "discriminator": "0000",
+        "nickname": "Renhan Xu",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879428325766991892/825928207e5e40d1b9966b5e4688e388.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1313706001765236758",
+      "type": "Default",
+      "timestamp": "2024-12-03T22:18:38.298-05:00",
+      "timestampEdited": "2024-12-03T22:19:28.666-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I believe you lose Canvas access after graduation, or at least partially",
+      "author": {
+        "id": "222977096681652224",
+        "name": "shinwookim",
+        "discriminator": "0000",
+        "nickname": "shinwookim",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222977096681652224/44767850a5d77c57e53ab57dd55ffb36.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "879428325766991892",
+              "name": "renhancxu",
+              "discriminator": "0000",
+              "nickname": "Renhan Xu",
+              "color": "#206694",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/879428325766991892/825928207e5e40d1b9966b5e4688e388.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1313706143121670235",
+      "type": "Default",
+      "timestamp": "2024-12-03T22:19:12-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No clue about gradescope",
+      "author": {
+        "id": "222977096681652224",
+        "name": "shinwookim",
+        "discriminator": "0000",
+        "nickname": "shinwookim",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222977096681652224/44767850a5d77c57e53ab57dd55ffb36.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1313706172506706012",
+      "type": "Default",
+      "timestamp": "2024-12-03T22:19:19.006-05:00",
+      "timestampEdited": "2024-12-03T22:20:38.673-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This may be useful: https://www.technology.pitt.edu/blog/graduation24",
+      "author": {
+        "id": "222977096681652224",
+        "name": "shinwookim",
+        "discriminator": "0000",
+        "nickname": "shinwookim",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222977096681652224/44767850a5d77c57e53ab57dd55ffb36.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Ultimate IT Graduation Checklist for Pitt",
+          "url": "https://www.technology.pitt.edu/blog/graduation24",
+          "timestamp": null,
+          "description": "Hey there, soon-to-be Pitt graduates. Congratulations on reaching this pivotal milestone in your academic journey! As you prepare to bid farewell to the University of Pittsburgh, it’s time to wrap up some tech items before you go. So, before you toss that cap into the air, here's your essential IT checklist to help you seamlessly transition from...",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "879428325766991892",
+              "name": "renhancxu",
+              "discriminator": "0000",
+              "nickname": "Renhan Xu",
+              "color": "#206694",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/879428325766991892/825928207e5e40d1b9966b5e4688e388.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

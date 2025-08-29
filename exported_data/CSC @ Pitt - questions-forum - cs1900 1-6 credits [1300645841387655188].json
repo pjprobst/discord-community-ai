@@ -1,0 +1,136 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1300645841387655188",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "cs1900 1-6 credits",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:05:47.021653-04:00",
+  "messages": [
+    {
+      "id": "1300645841387655188",
+      "type": "Default",
+      "timestamp": "2024-10-28T22:22:13.418-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have the ability to choose a number of credits 1-6. Is there some kind of hours to credits chart?",
+      "author": {
+        "id": "559875329959657623",
+        "name": "russellkirky.",
+        "discriminator": "0000",
+        "nickname": "Russell Kirkpatrick",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/559875329959657623/dbd4807f8f4439467ccdbfeaeeb9eb10.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1300663207563624540",
+      "type": "Default",
+      "timestamp": "2024-10-28T23:31:13.837-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As far as I know you need to do the 3 credit option for capstone credit",
+      "author": {
+        "id": "404338349445218317",
+        "name": "benj91021",
+        "discriminator": "0000",
+        "nickname": "Ben J",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/404338349445218317/0af45a5f4cb5589d42412e1a644a378e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1300663664868724831",
+      "type": "Default",
+      "timestamp": "2024-10-28T23:33:02.867-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gotcah",
+      "author": {
+        "id": "559875329959657623",
+        "name": "russellkirky.",
+        "discriminator": "0000",
+        "nickname": "Russell Kirkpatrick",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/559875329959657623/dbd4807f8f4439467ccdbfeaeeb9eb10.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

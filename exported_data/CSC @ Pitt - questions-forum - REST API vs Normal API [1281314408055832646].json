@@ -1,0 +1,163 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1281314408055832646",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "REST API vs Normal API",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:10:55.411893-04:00",
+  "messages": [
+    {
+      "id": "1281314408055832646",
+      "type": "Default",
+      "timestamp": "2024-09-05T14:06:00.551-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is sort of embarrassing since all I did this summer was write web apis but anyway...\n\nI write an API for a user. The request is made with some sort of ajax library and a url is sent to some controller. The controller responds to the request and queries a database and sends the results back as JSON. What does or does not make this a RESTful API? I don't really understand how an API cannot be a REST API.",
+      "author": {
+        "id": "404338349445218317",
+        "name": "benj91021",
+        "discriminator": "0000",
+        "nickname": "Ben J",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/404338349445218317/0af45a5f4cb5589d42412e1a644a378e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281332786912956568",
+      "type": "Default",
+      "timestamp": "2024-09-05T15:19:02.412-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.redhat.com/en/topics/api/what-is-a-rest-api\n\nfrom what I read from this, one of the more important things that makes an api restful is that the server is stateless. \n\nAn example of state on the server would be associating a socket connection with a user id (in an internal data structure) and then messages from that socket will be assumed to be coming from the user id.\n\nThe restful way to do this would be that the user sends their user id along with every request so that the server doesn't need to store anything.",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "What is a REST API?",
+          "url": "https://www.redhat.com/en/topics/api/what-is-a-rest-api",
+          "timestamp": null,
+          "description": "A REST API (also known as RESTful API) is an application programming interface that conforms to the constraints of REST architecture. REST stands for representational state transfer.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wMfuzlXNmC15CX6FGxLLQh_0tSZCKWVuk_jkXjyQR9w/https/www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281333628093071370",
+      "type": "Default",
+      "timestamp": "2024-09-05T15:22:22.965-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "some terms you can look up for like why this is a good idea is \"dependency inversion\" and \"pure functions\"",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281334281372831959",
+      "type": "Default",
+      "timestamp": "2024-09-05T15:24:58.719-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "answering what makes an api restful is kinda like answering what makes a wine a champagne. There's a set of rules on some website. If your api follows the rules then it's a restful api",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1281335931919667331",
+      "type": "Default",
+      "timestamp": "2024-09-05T15:31:32.24-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I see that makes sense. Thanks",
+      "author": {
+        "id": "404338349445218317",
+        "name": "benj91021",
+        "discriminator": "0000",
+        "nickname": "Ben J",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/404338349445218317/0af45a5f4cb5589d42412e1a644a378e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 5
+}

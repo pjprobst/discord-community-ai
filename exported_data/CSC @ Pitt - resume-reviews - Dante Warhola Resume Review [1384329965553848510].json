@@ -1,0 +1,502 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1384329965553848510",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Dante Warhola Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:36:25.877504-04:00",
+  "messages": [
+    {
+      "id": "1384329965553848510",
+      "type": "Default",
+      "timestamp": "2025-06-16T20:33:03.395-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Kinda stuck right now on how to fit both my new resume experience and my work experience along with everything else on one page. Any help will be greatly appreciated",
+      "author": {
+        "id": "414140643502194708",
+        "name": "soullslamz",
+        "discriminator": "0000",
+        "nickname": "Dante Warhola",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414140643502194708/9f0cbb59f3354dcc87da34d6fc2199bc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1384329965645988013",
+          "url": "https://cdn.discordapp.com/attachments/1384329965553848510/1384329965645988013/Dante_Warhola_resume_6_16_25.pdf?ex=68861c7f&is=6884caff&hm=3702cf670753c216c6da4e7cec16bc46a43c7fe92b8cc3cd9162384951a2b69a&",
+          "fileName": "Dante_Warhola_resume_6_16_25.pdf",
+          "fileSizeBytes": 180202
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384391037476274257",
+      "type": "Default",
+      "timestamp": "2025-06-17T00:35:44.076-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there is a lot of whitespace between some lines, removing that could probably give enough space",
+      "author": {
+        "id": "1238206051547873372",
+        "name": "ianhaverstock",
+        "discriminator": "0000",
+        "nickname": "Ian Haverstock",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1238206051547873372/a82c39a2fdf45fd54953920d59ed7a61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384391792199208970",
+      "type": "Default",
+      "timestamp": "2025-06-17T00:38:44.016-04:00",
+      "timestampEdited": "2025-06-17T00:43:12.942-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also country club atendee as experience seems odd to me as its not particularly relevant and putting being a member of a country club in the job category is puzzling imo (or is it actually a job?, if so the name i think is confusing, since usually it's referred to as attendant while members are atendees)",
+      "author": {
+        "id": "1238206051547873372",
+        "name": "ianhaverstock",
+        "discriminator": "0000",
+        "nickname": "Ian Haverstock",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1238206051547873372/a82c39a2fdf45fd54953920d59ed7a61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384501522880270418",
+      "type": "Default",
+      "timestamp": "2025-06-17T07:54:45.849-04:00",
+      "timestampEdited": "2025-06-17T07:55:07.904-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ian Haverstock \nHey yeah I see now that the title can be a little ambiguous, I work at the country club and our boss calls us “bag boys” and I feel that that’s a little unprofessional to put on a resume so I had to make something up lmao. Also for the whitespace, I had it like that for readability purposes cause I thought if everything was squished together it would look bad.",
+      "author": {
+        "id": "414140643502194708",
+        "name": "soullslamz",
+        "discriminator": "0000",
+        "nickname": "Dante Warhola",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414140643502194708/9f0cbb59f3354dcc87da34d6fc2199bc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1238206051547873372",
+          "name": "ianhaverstock",
+          "discriminator": "0000",
+          "nickname": "Ian Haverstock",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1238206051547873372/a82c39a2fdf45fd54953920d59ed7a61.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384662514239016971",
+      "type": "Reply",
+      "timestamp": "2025-06-17T18:34:29.18-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you could write crew member like some restaurants do but that could also be confusing. or smth like host",
+      "author": {
+        "id": "277930485307539460",
+        "name": "dvdzs",
+        "discriminator": "0000",
+        "nickname": "David Shi",
+        "color": "#A84300",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "1243341588869152848",
+            "name": "Wiki Dev",
+            "color": "#AD1457",
+            "position": 30
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277930485307539460/4eadc6579f636d654b8fab6bd5c0cdf6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "414140643502194708",
+          "name": "soullslamz",
+          "discriminator": "0000",
+          "nickname": "Dante Warhola",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "878053832570056725",
+              "name": "Cyber Security",
+              "color": "#979C9F",
+              "position": 27
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/414140643502194708/9f0cbb59f3354dcc87da34d6fc2199bc.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1384501522880270418",
+        "channelId": "1384329965553848510",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384663688870494321",
+      "type": "Default",
+      "timestamp": "2025-06-17T18:39:09.234-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i'd agree that there is too much white space. i would honestly go less than half of what u currently have. title headers are also really large. i dont think u need \"cs / cyber\" at the top either since cs is evident by ur major and cyber is evident if u apply to a cyber position. remove \"personal project\" since it's alr under projects i think its very safe to assume its personal since its not under work experience. i would also merge ur \"work experience\" and \"leadership and activities\" since u only have 1 thing under the latter which can also count as experience. making ur name smaller is also an option. i think that u should keep all work experience u have because a lot of people our age haven't had enough experience to need to cut stuff from our resume imo",
+      "author": {
+        "id": "277930485307539460",
+        "name": "dvdzs",
+        "discriminator": "0000",
+        "nickname": "David Shi",
+        "color": "#A84300",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "1243341588869152848",
+            "name": "Wiki Dev",
+            "color": "#AD1457",
+            "position": 30
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277930485307539460/4eadc6579f636d654b8fab6bd5c0cdf6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384663932488384603",
+      "type": "Default",
+      "timestamp": "2025-06-17T18:40:07.317-04:00",
+      "timestampEdited": "2025-06-17T18:41:58.346-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also \"Pi Kappa Phi Fraternity, Computer Science Club, Powerlifting Club, No Empty Seats Club \" is all under pitt so it should ideally be in the same subheader as ur other pitt stuff under \"university of pittsburgh\". also i would  consider if having Pi Kappa Phi Fraternity under pitt is redundant and space-consuming since u alr have it in more detail below",
+      "author": {
+        "id": "277930485307539460",
+        "name": "dvdzs",
+        "discriminator": "0000",
+        "nickname": "David Shi",
+        "color": "#A84300",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "1243341588869152848",
+            "name": "Wiki Dev",
+            "color": "#AD1457",
+            "position": 30
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277930485307539460/4eadc6579f636d654b8fab6bd5c0cdf6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384664126088941588",
+      "type": "Default",
+      "timestamp": "2025-06-17T18:40:53.475-04:00",
+      "timestampEdited": "2025-06-17T18:41:01.111-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "overall it's clean but u have a few format inconsistencies such as the ones below but nice job!",
+      "author": {
+        "id": "277930485307539460",
+        "name": "dvdzs",
+        "discriminator": "0000",
+        "nickname": "David Shi",
+        "color": "#A84300",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "1243341372686204999",
+            "name": "CSC Website Dev",
+            "color": "#206694",
+            "position": 31
+          },
+          {
+            "id": "1243341588869152848",
+            "name": "Wiki Dev",
+            "color": "#AD1457",
+            "position": 30
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277930485307539460/4eadc6579f636d654b8fab6bd5c0cdf6.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1384664125682221067",
+          "url": "https://cdn.discordapp.com/attachments/1384329965553848510/1384664125682221067/image.png?ex=68860235&is=6884b0b5&hm=8541af49ba423acc6ee102a0d0bd93311a45760a4043823a5d560da67f490e52&",
+          "fileName": "image.png",
+          "fileSizeBytes": 4236
+        },
+        {
+          "id": "1384664125895999539",
+          "url": "https://cdn.discordapp.com/attachments/1384329965553848510/1384664125895999539/image.png?ex=68860235&is=6884b0b5&hm=b0b97cc4a8bc7290f98ec36eb0dbc127842bce242794ebb63c6547af5bbe76c0&",
+          "fileName": "image.png",
+          "fileSizeBytes": 8553
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 8
+}

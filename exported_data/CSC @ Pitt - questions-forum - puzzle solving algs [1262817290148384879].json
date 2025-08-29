@@ -1,0 +1,647 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1262817290148384879",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "puzzle solving algs",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:12:58.232362-04:00",
+  "messages": [
+    {
+      "id": "1262817290148384879",
+      "type": "Default",
+      "timestamp": "2024-07-16T13:05:03.982-04:00",
+      "timestampEdited": "2024-07-16T16:49:45.956-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it has been far too long between shitposts already, and I will stand for this atrocity no longer.\nif anyone has seen mark rober's new video, he builds a puzzle solving robot, but the alg used in it matches the contour of the pieces. I'm obviously not a mech engineer since I still have crippling depression but now i cant stop thinking about puzzle solving algorithms and it's becoming an issue.\n<this post may have been sponsored by a robot to solve captchas>\nalthough there are pictorial approaches, it seems like the main approach has been to basically treat it as a search problem, where the shape of one puzzle piece must fit with another, up to an including all four sides. (nice survey [here](https://link.springer.com/article/10.1007/s00371-022-02598-9)) This is cool and is probably a provably most efficient way to do it since there is a limited number of pieces. but at the end of the day it is a computer program to do what us humans (present company possibly excluded) do for fun.\nthen ofc theres the slew of ppl who made an ai solver out of it, but idk throwing labeled data at a ml pipeline is just so boring and 2012.\nthus, i want to think of new ways. unfortunately im bad at math and do not know anything at all in the world. does anyone know about this stuff?\ncould you solve a puzzle as a reverse packing problem - aka minimize the space around each piece?\ncould you solve a puzzle evolutionarily, attempting to fit each piece together, measuring the strength of the \"next generation\" as the unfilled space between the pieces as well as the color similarity between the edge pixels?\ncould puzzle pieces have sex?\ncould you solve a puzzle by social media, i.e. a weighted graph selection problem?\ndo we think twitter (formerly x) was actually created by the aliens to get us to solve their captchas for them\nis the answer to all life a puzzle?",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1262822234863697952",
+      "type": "Default",
+      "timestamp": "2024-07-16T13:24:42.894-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes!",
+      "author": {
+        "id": "1010907538658709565",
+        "name": "pi11o",
+        "discriminator": "0000",
+        "nickname": "cesar guerra-solano",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1010907538658709565/ee6e04f847c3686428711e7e6da3b914.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "☝️",
+            "code": "point_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/261d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "330495912973697035",
+              "name": "sund1ata",
+              "discriminator": "0000",
+              "nickname": "vivek",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/330495912973697035/7538abd298c9806316fcfc351e51a55e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1262904690266472600",
+      "type": "Default",
+      "timestamp": "2024-07-16T18:52:21.794-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Idk if this helps but tetris has been proven to be NP-Complete which means hole filling can be difficult.\nhttps://erikdemaine.org/papers/Tetris_COCOON2003/paper.pdf\n\nWhile an evolutionary system where you treat combined puzzle pieces as creatures and make them mate to create the perfect creature, aka the solved puzzle, sounds interesting, I am more interested in puzzle piece love triangles (and other polygons).\n\nThe theory is that each puzzle piece has 2-4 soul mates and they need to find them in a large population. We solve this problem like we do in the real world. Using social media. We use a multi modal llm and input the puzzle piece image and output a chatbot. The n chatbots created are given accounts in a social media/dating platform like insta and the chatbots learn relationship dynamics to figure out who their soul mates are (in finite time ofc). Once every puzzle piece has found their soul mates, the puzzle is solved.",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "689507500097011824",
+              "name": "sodisimus",
+              "discriminator": "0000",
+              "nickname": "Sodi Kroehler",
+              "color": "#E67E22",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263111916490985482",
+      "type": "Default",
+      "timestamp": "2024-07-17T08:35:48.376-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "absolutely brilliant no notes",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263137459181588512",
+      "type": "Reply",
+      "timestamp": "2024-07-17T10:17:18.228-04:00",
+      "timestampEdited": "2024-07-17T10:17:34.622-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "would this then assume that puzzle piece shape equates to a personality for the chat bot that matches/attracts that of its puzzle partners",
+      "author": {
+        "id": "1010907538658709565",
+        "name": "pi11o",
+        "discriminator": "0000",
+        "nickname": "cesar guerra-solano",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1156003013966708776",
+            "name": "Comp Bio",
+            "color": "#2ECC71",
+            "position": 17
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1010907538658709565/ee6e04f847c3686428711e7e6da3b914.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "418387006419107842",
+          "name": "ojasmishra",
+          "discriminator": "0000",
+          "nickname": "Ojas Mishra",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1262904690266472600",
+        "channelId": "1262817290148384879",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263139771740323860",
+      "type": "Default",
+      "timestamp": "2024-07-17T10:26:29.585-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "puzzle piece shape and pixels of the image, yes. If this feels infeasible, then you're just not believing enough (aka not throwing enough gpus)",
+      "author": {
+        "id": "418387006419107842",
+        "name": "ojasmishra",
+        "discriminator": "0000",
+        "nickname": "Ojas Mishra",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263303520782909460",
+      "type": "Default",
+      "timestamp": "2024-07-17T21:17:10.399-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://arxiv.org/pdf/1603.09246\nAn unsupervised pretraining task idea was to create jigsaw puzzles of images and solve the puzzle. It does square puzzle pieces. You could make irregular shapes maybe and do the same training. This would probably not scale well to very large puzzle. I think they do like 9 puzzle pieces on 256x256 images",
+      "author": {
+        "id": "373591100696297482",
+        "name": "detk",
+        "discriminator": "0000",
+        "nickname": "Declan Kutscher",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/373591100696297482/4989a6f33a0de937b99d4e4fa6bd676e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1263492025857216645",
+      "type": "Reply",
+      "timestamp": "2024-07-18T09:46:13.511-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also the astrology from when the piece was created, a few generic responses to some prompts, and the height, width, and weight of the piece",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "418387006419107842",
+          "name": "ojasmishra",
+          "discriminator": "0000",
+          "nickname": "Ojas Mishra",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/418387006419107842/d32b333bf49323e740c152f093e1fc97.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1263139771740323860",
+        "channelId": "1262817290148384879",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 8
+}

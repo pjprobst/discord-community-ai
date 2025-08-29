@@ -1,0 +1,1116 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1283202476559831120",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Noah Knishkowy re-review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:45:02.892328-04:00",
+  "messages": [
+    {
+      "id": "1283202476559831120",
+      "type": "Default",
+      "timestamp": "2024-09-10T19:08:31.161-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reposting this after I incorporated some of @Shreyash Ranjan's wonderful feedback. Two main questions I have for anyone reading:\n1) what do y'all think of the order and section headers? I tried to put all the CS-relevant stuff first and everything else last, but having skills in the middle and splitting up work experience is throwing me off a bit.\n2) what are people's thoughts on listing a future position? i am probably starting in the next 2 weeks and I have a decent sense of what I am going to do, but I obviously haven't accomplished anything yet nor do i have any work to point toward. the reason I'm wondering is because I think it's far more impressive than anything else on here so it could be a game changer as soon as it's on there.",
+      "author": {
+        "id": "708371255610310666",
+        "name": "noahknish",
+        "discriminator": "0000",
+        "nickname": "noah knishkowy",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1283202476908216451",
+          "url": "https://cdn.discordapp.com/attachments/1283202476559831120/1283202476908216451/noahknishkowyresume0924.pdf?ex=688608af&is=6884b72f&hm=0ee103df933b403c2f02fa38d3ffd5279a55f2c237982c166506d77830abac45&",
+          "fileName": "noahknishkowyresume0924.pdf",
+          "fileSizeBytes": 105418
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "446759651120513024",
+              "name": "shreyash.ranjan",
+              "discriminator": "0000",
+              "nickname": "Shreyash Ranjan",
+              "color": "#FFCC00",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "743509541144100904",
+              "name": "ncbarta",
+              "discriminator": "0000",
+              "nickname": "Barta",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "446759651120513024",
+          "name": "shreyash.ranjan",
+          "discriminator": "0000",
+          "nickname": "Shreyash Ranjan",
+          "color": "#FFCC00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "729025347122888714",
+              "name": "Officers",
+              "color": "#FFCC00",
+              "position": 42
+            },
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "1327078817772339271",
+              "name": "Mock Interviewer",
+              "color": "#C232FF",
+              "position": 34
+            },
+            {
+              "id": "824302386637045780",
+              "name": "Machine Learning",
+              "color": "#3A9EFF",
+              "position": 29
+            },
+            {
+              "id": "878053832570056725",
+              "name": "Cyber Security",
+              "color": "#979C9F",
+              "position": 27
+            },
+            {
+              "id": "932105908807409664",
+              "name": "Robotics",
+              "color": "#955824",
+              "position": 26
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "945705580826329170",
+              "name": "UX/HCI",
+              "color": "#736737",
+              "position": 20
+            },
+            {
+              "id": "945705776486420502",
+              "name": "Data Science",
+              "color": "#206694",
+              "position": 19
+            },
+            {
+              "id": "1055633555109203968",
+              "name": "Competitive Programming",
+              "color": "#C27C0E",
+              "position": 18
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283205299947307029",
+      "type": "Default",
+      "timestamp": "2024-09-10T19:19:44.309-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don’t put your personal website as a project",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283205976786206824",
+      "type": "Default",
+      "timestamp": "2024-09-10T19:22:25.68-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i've got nothing else to talk about \uD83D\uDE22  would it genuinely be better to leave that space blank/fill the rest with fluff?",
+      "author": {
+        "id": "708371255610310666",
+        "name": "noahknish",
+        "discriminator": "0000",
+        "nickname": "noah knishkowy",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE22",
+          "code": "cry",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f622.svg"
+        }
+      ]
+    },
+    {
+      "id": "1283206375475773440",
+      "type": "Reply",
+      "timestamp": "2024-09-10T19:24:00.735-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can put school projects on there, you’ve taken dsa and comp arch, initially when I started applying I put on projects from those on my resume",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "708371255610310666",
+          "name": "noahknish",
+          "discriminator": "0000",
+          "nickname": "noah knishkowy",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1283205976786206824",
+        "channelId": "1283202476559831120",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283206530182811688",
+      "type": "Default",
+      "timestamp": "2024-09-10T19:24:37.62-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just don’t publish on GitHub publicly or anything, if you get asked about during interviews you can send them the code or something",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283207210163503227",
+      "type": "Default",
+      "timestamp": "2024-09-10T19:27:19.74-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am in both of those classes rn, so I don't have any projects from them yet unfortunately. soon \uD83D\uDE4F",
+      "author": {
+        "id": "708371255610310666",
+        "name": "noahknish",
+        "discriminator": "0000",
+        "nickname": "noah knishkowy",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4F",
+          "code": "pray",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+        }
+      ]
+    },
+    {
+      "id": "1283207540632715276",
+      "type": "Reply",
+      "timestamp": "2024-09-10T19:28:38.53-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hm, tbh the cellular automata stuff is pretty cool, if you can remove the personal info from it, and just label it as a cellular automata app that’d be better",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "708371255610310666",
+          "name": "noahknish",
+          "discriminator": "0000",
+          "nickname": "noah knishkowy",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1283207210163503227",
+        "channelId": "1283202476559831120",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283207671008329730",
+      "type": "Default",
+      "timestamp": "2024-09-10T19:29:09.614-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You just don’t want to put your personal site as one of your projects that’s kinda of a big nono",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283208329388101715",
+      "type": "Default",
+      "timestamp": "2024-09-10T19:31:46.584-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also do you have any projects from 401?",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283281714663260224",
+      "type": "Default",
+      "timestamp": "2024-09-11T00:23:22.997-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no real projects from 401",
+      "author": {
+        "id": "708371255610310666",
+        "name": "noahknish",
+        "discriminator": "0000",
+        "nickname": "noah knishkowy",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283281875904888875",
+      "type": "Default",
+      "timestamp": "2024-09-11T00:24:01.44-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also i'm really hoping to get some thoughts on the order of the resume sections if you or anyone has thoughts on that.",
+      "author": {
+        "id": "708371255610310666",
+        "name": "noahknish",
+        "discriminator": "0000",
+        "nickname": "noah knishkowy",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283283138163904512",
+      "type": "Reply",
+      "timestamp": "2024-09-11T00:29:02.386-04:00",
+      "timestampEdited": "2024-09-11T00:29:27.041-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would recommend just having one experience section, being a UTA is not 'technical', but you can focus on it as its the closest to relevancy by the # of bullet points (use 3 bullet points for the UTA role and 1 max for the others), and order it like this: education->projects->experience->skills->publications",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "708371255610310666",
+          "name": "noahknish",
+          "discriminator": "0000",
+          "nickname": "noah knishkowy",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1283281875904888875",
+        "channelId": "1283202476559831120",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283283468565876737",
+      "type": "Reply",
+      "timestamp": "2024-09-11T00:30:21.16-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "right now projects are the only way to show your technical ability to recruiters so I'd highly recommend you focus on improving that section",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "708371255610310666",
+          "name": "noahknish",
+          "discriminator": "0000",
+          "nickname": "noah knishkowy",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1283281714663260224",
+        "channelId": "1283202476559831120",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283284001695727736",
+      "type": "Default",
+      "timestamp": "2024-09-11T00:32:28.268-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also what’s the future position that you’re talking like what’s the Title n responsibilities?",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283284747434459178",
+      "type": "Default",
+      "timestamp": "2024-09-11T00:35:26.066-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Future position is a year-long research assistant role which will involve programming in C#/using unity to create a VR world, and using python/flask alongside chatgpt and dall-e APIs to automatically generate interactive storylines",
+      "author": {
+        "id": "708371255610310666",
+        "name": "noahknish",
+        "discriminator": "0000",
+        "nickname": "noah knishkowy",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283284935305592937",
+      "type": "Default",
+      "timestamp": "2024-09-11T00:36:10.858-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just accepted yesterday so i don't have exact timeline, but it sounds like i'm gonna be given the choice to work on the C#/unity, python/api stuff, or both",
+      "author": {
+        "id": "708371255610310666",
+        "name": "noahknish",
+        "discriminator": "0000",
+        "nickname": "noah knishkowy",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283285103966945343",
+      "type": "Reply",
+      "timestamp": "2024-09-11T00:36:51.07-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can just put it down but don’t have any bullet points for it",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "708371255610310666",
+          "name": "noahknish",
+          "discriminator": "0000",
+          "nickname": "noah knishkowy",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1283284935305592937",
+        "channelId": "1283202476559831120",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283285273878335498",
+      "type": "Default",
+      "timestamp": "2024-09-11T00:37:31.58-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or if you want to add bullet points you can use future tense like ‘incoming’ or something",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283285335287140363",
+      "type": "Default",
+      "timestamp": "2024-09-11T00:37:46.221-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think you’ll be fine either way for that tbh",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "708371255610310666",
+              "name": "noahknish",
+              "discriminator": "0000",
+              "nickname": "noah knishkowy",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1283286586238439455",
+      "type": "Reply",
+      "timestamp": "2024-09-11T00:42:44.471-04:00",
+      "timestampEdited": "2024-09-11T00:43:01.164-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Btw don’t try to over sell this if you do add it, be honest about say, I’m an incoming research assistant that’ll be working on project x that was made in frameworks yz, recruiters see through that shit",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "708371255610310666",
+          "name": "noahknish",
+          "discriminator": "0000",
+          "nickname": "noah knishkowy",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "868499498622668810",
+              "name": "Math In CS",
+              "color": "#11806A",
+              "position": 22
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1283284747434459178",
+        "channelId": "1283202476559831120",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 20
+}

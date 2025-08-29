@@ -1,0 +1,74 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1286158453840019517",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Sebastian Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:41:49.291708-04:00",
+  "messages": [
+    {
+      "id": "1286158453840019517",
+      "type": "Default",
+      "timestamp": "2024-09-18T22:54:31.064-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello, im currently a junior that just switched over to CS. id appreciate some feedback on my resume (only gotten one interview so far). in addition to any feedback i also had two questions:\n\n- I am currently still a uta, but in my resume I marked it as if it ended last semester, mostly because i wanted to keep internship experience at the top. should i change it to say Janurary 2024-present, and if so should i keep it below or above my internship experience?\n- probably doesn't matter as much but should i used to have \"Programming Languages\" and \"Frameworks\" at the top of my resume (above education but below my links), and i just moved it to my skills section all the way in the bottom. Should I move them back up?",
+      "author": {
+        "id": "390677748290682882",
+        "name": "coeed",
+        "discriminator": "0000",
+        "nickname": "Sebastian Castro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1286158453915521075",
+          "url": "https://cdn.discordapp.com/attachments/1286158453840019517/1286158453915521075/Sebastian_Castro_Resume_11.pdf?ex=68863da7&is=6884ec27&hm=d1614db6bc9e8d0823766bf4eb85dc2b8c4ca6fa8ff7b0801e0f2cfa703e512b&",
+          "fileName": "Sebastian_Castro_Resume_11.pdf",
+          "fileSizeBytes": 126319
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

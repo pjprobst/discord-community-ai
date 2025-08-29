@@ -1,0 +1,257 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1301329619676430419",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Good Upper-Level CS/INFSCI Courses",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:05:00.906064-04:00",
+  "messages": [
+    {
+      "id": "1301329619676430419",
+      "type": "Default",
+      "timestamp": "2024-10-30T19:39:18.866-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm currently double majoring in CS and DS, and I'm looking to take electives that would be beneficial for me in my current position. I'm also planning to minor in INFSCI so INFSCI courses would be good too. Also, I prefer courses that can be difficult and challenging, as long as it teaches a lot of things.",
+      "author": {
+        "id": "401009647047147520",
+        "name": "nasi_murni",
+        "discriminator": "0000",
+        "nickname": "John Doe",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401009647047147520/8febda6cd2c3e483945e60e181a60ff4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301332344925458595",
+      "type": "Default",
+      "timestamp": "2024-10-30T19:50:08.616-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Even though these electives are on the easier side of the spectrum, I would recommend CS 1632: Software Quality Assurance and CS 1656: Introduction to Data Science. I took CS 1632 and am taking CS 1656 at the moment and I enjoy both classes.",
+      "author": {
+        "id": "879428325766991892",
+        "name": "renhancxu",
+        "discriminator": "0000",
+        "nickname": "Renhan Xu",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879428325766991892/825928207e5e40d1b9966b5e4688e388.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301333044359069698",
+      "type": "Reply",
+      "timestamp": "2024-10-30T19:52:55.374-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "apart from those two? i'm already planning to take those two classes",
+      "author": {
+        "id": "401009647047147520",
+        "name": "nasi_murni",
+        "discriminator": "0000",
+        "nickname": "John Doe",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401009647047147520/8febda6cd2c3e483945e60e181a60ff4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "879428325766991892",
+          "name": "renhancxu",
+          "discriminator": "0000",
+          "nickname": "Renhan Xu",
+          "color": "#206694",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "862878124076040242",
+              "name": "Alumni",
+              "color": "#206694",
+              "position": 37
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/879428325766991892/825928207e5e40d1b9966b5e4688e388.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1301332344925458595",
+        "channelId": "1301329619676430419",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301334759112314880",
+      "type": "Default",
+      "timestamp": "2024-10-30T19:59:44.203-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CS 1675 sounds good for what you're asking for, it's more math and theory heavy than application imo\nIt's a lot of work but not terribly difficult",
+      "author": {
+        "id": "315598930115035136",
+        "name": "halcyon_727",
+        "discriminator": "0000",
+        "nickname": "Halcyon",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/315598930115035136/e789142e20b5421f4f6e020823b9acbd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301341446426595440",
+      "type": "Reply",
+      "timestamp": "2024-10-30T20:26:18.583-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sorry i should specify that i'm also going to take STAT 1361 which is the stats version of machine learning, so there should be an overlap between the two courses",
+      "author": {
+        "id": "401009647047147520",
+        "name": "nasi_murni",
+        "discriminator": "0000",
+        "nickname": "John Doe",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401009647047147520/8febda6cd2c3e483945e60e181a60ff4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "315598930115035136",
+          "name": "halcyon_727",
+          "discriminator": "0000",
+          "nickname": "Halcyon",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/315598930115035136/e789142e20b5421f4f6e020823b9acbd.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1301334759112314880",
+        "channelId": "1301329619676430419",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 5
+}

@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1183995181163360277",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Thoughts on the UPMC IT Summer Intern role",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:20:48.299589-04:00",
+  "messages": [
+    {
+      "id": "1183995181163360277",
+      "type": "Default",
+      "timestamp": "2023-12-11T23:54:08.756-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, I'm hoping to get a position at UPMC for their IT summer internship under a SWE team. Just curious on what it was like if anyone was apart of their SWE team.",
+      "author": {
+        "id": "327865717158576131",
+        "name": "brandonmoretti",
+        "discriminator": "0000",
+        "nickname": "Brandon Moretti",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327865717158576131/8bf08b6085d141d698e6e2d06e3e2a69.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,1713 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1255663167099506698",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Master's Theory and Algs Classes",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:13:19.006869-04:00",
+  "messages": [
+    {
+      "id": "1255663167099506698",
+      "type": "Default",
+      "timestamp": "2024-06-26T19:17:08.13-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone that has done on of the masters theory and algs courses (CS2150, 2110, 2012 and 2011)- do you have any recs on which one to take or who to take it with",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255665046638297159",
+      "type": "Default",
+      "timestamp": "2024-06-26T19:24:36.247-04:00",
+      "timestampEdited": "2024-06-26T19:25:55.297-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2011: never heard of it\n\n2012: this is just the cross-listed grad section of 1510, algorithm design. you learn about greedy algorithms, dynamic programming, and parallel algorithms, and the course focuses on developing algorithms for various types of problems and expects you to *prove* that your algorithms are both correct and optimal.\n\n2110: this is just the cross-listed grad section of 1511, theory of computation. you can think of it as a more advanced version of 1502: computability, complexity classes, turing machines, reducibility, etc.\n\n2150: this is \"grad algorithms\", which you can treat as the sequel to 2012.\n\nas for recs, it depends on your goals and interests. if you ever plan on taking 2150 tho, i'd recommend taking 2012 first since 2150 will cover more advanced algorithm topics.\n\nas for whom to take it with, they're all taught by the same prof, kirk pruhs, so this question is irrelevant.",
+      "author": {
+        "id": "394256877447413761",
+        "name": "lonk_from_pennsylvania",
+        "discriminator": "0000",
+        "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1243341257992962118",
+            "name": "PittAPI Dev",
+            "color": "#A84300",
+            "position": 32
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "799460107200888874",
+            "name": "Swift Dev",
+            "color": "#E91E63",
+            "position": 24
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "689507500097011824",
+              "name": "sodisimus",
+              "discriminator": "0000",
+              "nickname": "Sodi Kroehler",
+              "color": "#E67E22",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255678895592570891",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:19:38.095-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i have taken 1510, 2110,  and 2150",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255679196940861543",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:20:49.942-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like tianyi said i have also never heard of 2011, but from some quick googling looks like it mightve been an old version of 1510 cross listed? but probably irrelevant",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255679258194612264",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:21:04.546-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as for dr. pruhs, its an accquired taste for sure",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255679360162201661",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:21:28.857-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im fucking terrible at everything he is passionate about and teaches, but he has consistently been one of my favorite professors at pitt",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255679410741448754",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:21:40.916-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but i also know some people hate him irregardless so",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255679522594885724",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:22:07.584-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i dont really have any class specific notes to add on top of what tianyi said except for some recent stuff about CS2150",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255679659237183529",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:22:40.162-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so i took it this spring. the spring before this spring was the last time it was offered, and according to pruhs it was the worst course he has ever taught in his life",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255679747506049024",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:23:01.207-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so he made some changes to it this spring that may or may not stick around until next year",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255679928133746762",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:23:44.272-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "first and foremost, his policy for almost all courses has always been if you show up, actively participate, turn in homeworks and make an honest effort, you'll get a B and pass. then if you show some additional knowledge above that, youll get an A",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255680058849493112",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:24:15.437-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but he said that people started to abuse this and show a complete and terrible lack of any algs knowledge, especially for what he considers a phd level course",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255680203036819497",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:24:49.814-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so instead, he gave two exams, a B exam, which was meant to test the absolute memorization basics - literally just repeat analyses he did in class",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255680308850851932",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:25:15.042-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and then if you scored well on that, there was to be an A exam a week later that you could be invited to and gave you a shot at getting an A",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255680358800949259",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:25:26.951-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he then made all the weekly problem sets optional",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681059543060501",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:28:14.021-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "here is how that turned out",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681065721270373",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:28:15.494-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1255681065515880518",
+          "url": "https://cdn.discordapp.com/attachments/1255663167099506698/1255681065515880518/image.png?ex=68861b5f&is=6884c9df&hm=817261e5560f6e74abda4c1cc3e4aadb8e6d7468426742d1e64eb14e9d8d2dc8&",
+          "fileName": "image.png",
+          "fileSizeBytes": 47032
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681212245344358",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:28:50.428-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1255681212421378059",
+          "url": "https://cdn.discordapp.com/attachments/1255663167099506698/1255681212421378059/image.png?ex=68861b82&is=6884ca02&hm=0b37886d9cfd73af79590e53434cbf03d2de9a8f0405b1d2e56a3d541b4d82a0&",
+          "fileName": "image.png",
+          "fileSizeBytes": 134845
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681353437941842",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:29:24.091-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1255681353207517294",
+          "url": "https://cdn.discordapp.com/attachments/1255663167099506698/1255681353207517294/image.png?ex=68861ba4&is=6884ca24&hm=7681e241652170d4915e4617c08519ba3b6e66029b2858afed457fb890fd6e19&",
+          "fileName": "image.png",
+          "fileSizeBytes": 42135
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681362263015486",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:29:26.195-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so.",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681385843134504",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:29:31.817-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not great.",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681491506036796",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:29:57.009-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i would maybe steer clear of that until its offered again and pruhs has a chance to rethink how he wants to run the class",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681573504684132",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:30:16.559-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "unless you consider yourself a pretty good algs and theory student, in which case you may be fine",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681709089886281",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:30:48.885-04:00",
+      "timestampEdited": "2024-06-26T20:34:01.282-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i got a B-, which would be a failing grade if i was a phd student, but since i am an MS student, it was just barely passing for me as an elective credit (i also completed and received at least 2/3 credit for all hw sets with my group, so i had to have failed the fuck out of that exam)",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681812152320011",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:31:13.457-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the only student i know of who got an A was stephen arndt, because he is actually beyond cracked at this field",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681844024705105",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:31:21.056-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and afaik not a single phd student passed",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255681934802161749",
+      "type": "Default",
+      "timestamp": "2024-06-26T20:31:42.699-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so take that as you will, and feel free to ping me with any additional questions or concerns",
+      "author": {
+        "id": "158303134077288448",
+        "name": ".cea",
+        "discriminator": "0000",
+        "nickname": "chris hinson",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "891706189874876437",
+            "name": "Rust Dev",
+            "color": "#2ECC71",
+            "position": 21
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754616868278413",
+            "name": "they/them",
+            "color": null,
+            "position": 11
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1255924019962708069",
+      "type": "Default",
+      "timestamp": "2024-06-27T12:33:40.299-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yinzers are literally the greatest ppl ever and im naming my firstborn rubber duckie after you both",
+      "author": {
+        "id": "689507500097011824",
+        "name": "sodisimus",
+        "discriminator": "0000",
+        "nickname": "Sodi Kroehler",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/689507500097011824/d5b0c234e2ca0ca94f64627c929419d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD86",
+            "code": "duck",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f986.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "158303134077288448",
+              "name": ".cea",
+              "discriminator": "0000",
+              "nickname": "chris hinson",
+              "color": "#E67E22",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/158303134077288448/581a364fe175ef132c4727483bf37380.png?size=512"
+            },
+            {
+              "id": "394256877447413761",
+              "name": "lonk_from_pennsylvania",
+              "discriminator": "0000",
+              "nickname": "\uD83C\uDD71 o n k (tianyi zheng)",
+              "color": "#BB870F",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/394256877447413761/8514c18d9b250d29c9f104f195499b1f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 28
+}

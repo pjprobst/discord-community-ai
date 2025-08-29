@@ -1,0 +1,181 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1305696998061641829",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "STAT 1361",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:02:46.643404-04:00",
+  "messages": [
+    {
+      "id": "1305696998061641829",
+      "type": "Default",
+      "timestamp": "2024-11-11T19:53:43.015-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was going through the threads and couldn't find much but has anyone taken STAT 1361? It sounds very interesting for ML! How is it?",
+      "author": {
+        "id": "521644248874090516",
+        "name": "kavinsuresh88",
+        "discriminator": "0000",
+        "nickname": "Kavin Sureshkumar",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/521644248874090516/1d0928895e1f1aaaf95f7b0d4c134125.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1306016542391013466",
+      "type": "Default",
+      "timestamp": "2024-11-12T17:03:28.32-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Although it was perhaps one of the most difficult/involved classes I have taken for my DS major, I cannot say I regretted the experience. Dr. Mentch (if the class is still taught by him) makes sure that you never forget many of the core concepts behind the theoretical side of machine learning, which sets you up well for research or grad studies in ML (this is coming from someone who is currently doing undergrad research in ML). As a result of this expectation, the grading was quite strict - expect to put in a great deal of work on every aspect of the class (homeworks, quizzes, final project, etc. with homeworks being particularly long especially if you are not familiar with R).\n\nQuite possibly the most difficult, yet most rewarding, A that I have ever earned in a class - it trivialized classes such as CS 1675 that I ended up taking later. Definitely do not take it on a semester above 15 credits like I did though.",
+      "author": {
+        "id": "341389385289302017",
+        "name": "itbedakang",
+        "discriminator": "0000",
+        "nickname": "Ethan Wells",
+        "color": "#3A9EFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "868499498622668810",
+            "name": "Math In CS",
+            "color": "#11806A",
+            "position": 22
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/341389385289302017/a0f833be2d5c3336ef5ac9e5952672b9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1013573443016462522",
+              "name": "darkreaprr",
+              "discriminator": "0000",
+              "nickname": "Andrew Chen",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1013573443016462522/d157b80c2f1c51b5f53ed40159d917b0.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1306343142936543273",
+      "type": "Default",
+      "timestamp": "2024-11-13T14:41:15.958-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Perfect answer!!! Thank you!!!",
+      "author": {
+        "id": "521644248874090516",
+        "name": "kavinsuresh88",
+        "discriminator": "0000",
+        "nickname": "Kavin Sureshkumar",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/521644248874090516/1d0928895e1f1aaaf95f7b0d4c134125.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "341389385289302017",
+              "name": "itbedakang",
+              "discriminator": "0000",
+              "nickname": "Ethan Wells",
+              "color": "#3A9EFF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/341389385289302017/a0f833be2d5c3336ef5ac9e5952672b9.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/shreyashranjan/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/shreyashranjan/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.13.2</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/shreyashranjan/.nuget/packages/" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(Language)' == 'C#' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Compile Include="$(NuGetPackageRoot)deorcify/1.1.0/contentFiles/cs/any/Deorcify/Initializer.Utils.cs" Condition="Exists('$(NuGetPackageRoot)deorcify/1.1.0/contentFiles/cs/any/Deorcify/Initializer.Utils.cs')">
+      <NuGetPackageId>Deorcify</NuGetPackageId>
+      <NuGetPackageVersion>1.1.0</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Deorcify/Initializer.Utils.cs</Link>
+    </Compile>
+    <Compile Include="$(NuGetPackageRoot)deorcify/1.1.0/contentFiles/cs/any/Deorcify/Initializer.cs" Condition="Exists('$(NuGetPackageRoot)deorcify/1.1.0/contentFiles/cs/any/Deorcify/Initializer.cs')">
+      <NuGetPackageId>Deorcify</NuGetPackageId>
+      <NuGetPackageVersion>1.1.0</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Deorcify/Initializer.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.net.illink.tasks/9.0.4/build/Microsoft.NET.ILLink.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.illink.tasks/9.0.4/build/Microsoft.NET.ILLink.Tasks.props')" />
+    <Import Project="$(NuGetPackageRoot)csharpier.msbuild/1.0.3/build/CSharpier.MsBuild.props" Condition="Exists('$(NuGetPackageRoot)csharpier.msbuild/1.0.3/build/CSharpier.MsBuild.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">/Users/shreyashranjan/.nuget/packages/microsoft.net.illink.tasks/9.0.4</PkgMicrosoft_NET_ILLink_Tasks>
+    <PkgCSharpier_MsBuild Condition=" '$(PkgCSharpier_MsBuild)' == '' ">/Users/shreyashranjan/.nuget/packages/csharpier.msbuild/1.0.3</PkgCSharpier_MsBuild>
+  </PropertyGroup>
+</Project>

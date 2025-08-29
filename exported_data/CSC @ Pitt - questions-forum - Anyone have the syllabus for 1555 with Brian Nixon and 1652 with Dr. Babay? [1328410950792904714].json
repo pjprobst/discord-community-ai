@@ -1,0 +1,285 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1328410950792904714",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Anyone have the syllabus for 1555 with Brian Nixon and 1652 with Dr. Babay?",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:58:54.45371-04:00",
+  "messages": [
+    {
+      "id": "1328410950792904714",
+      "type": "Default",
+      "timestamp": "2025-01-13T12:10:51.351-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looking to swap one of my electives and just wanted to see what the syllabus for these two are like",
+      "author": {
+        "id": "437976650001678337",
+        "name": "kwad1075",
+        "discriminator": "0000",
+        "nickname": "Aaryan Gaikwad",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437976650001678337/4fef0229282b3d57a009d98acac8cf20.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328414042934743181",
+      "type": "Default",
+      "timestamp": "2025-01-13T12:23:08.575-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It looks weird cus I just saved the canvas page as a PDF",
+      "author": {
+        "id": "262788771404185608",
+        "name": "player1154",
+        "discriminator": "0000",
+        "nickname": "Caden Milne",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/262788771404185608/c23cf97e1c4725b9938a3c84f3072a70.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1328414042590674956",
+          "url": "https://cdn.discordapp.com/attachments/1328410950792904714/1328414042590674956/Syllabus_for_2254_CS_1652_SEC1040_DATA_COMMNCTN__COMPTR_NTWRKS.pdf?ex=6886607c&is=68850efc&hm=d654f580299a7ffa20deec2ad8a1ddeb3e53328eeb1459b5c9d51d12e41e91ac&",
+          "fileName": "Syllabus_for_2254_CS_1652_SEC1040_DATA_COMMNCTN__COMPTR_NTWRKS.pdf",
+          "fileSizeBytes": 355018
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328416893740253274",
+      "type": "Reply",
+      "timestamp": "2025-01-13T12:34:28.26-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I appreciate it!",
+      "author": {
+        "id": "437976650001678337",
+        "name": "kwad1075",
+        "discriminator": "0000",
+        "nickname": "Aaryan Gaikwad",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "794416243339034624",
+            "name": "Algo Trading",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437976650001678337/4fef0229282b3d57a009d98acac8cf20.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "262788771404185608",
+              "name": "player1154",
+              "discriminator": "0000",
+              "nickname": "Caden Milne",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/262788771404185608/c23cf97e1c4725b9938a3c84f3072a70.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "262788771404185608",
+          "name": "player1154",
+          "discriminator": "0000",
+          "nickname": "Caden Milne",
+          "color": "#E74C3C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1236142376465207347",
+              "name": "Undergraduate",
+              "color": "#E74C3C",
+              "position": 35
+            },
+            {
+              "id": "803450886663307265",
+              "name": "Web Dev",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "1055633555109203968",
+              "name": "Competitive Programming",
+              "color": "#C27C0E",
+              "position": 18
+            },
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1236754479592898630",
+              "name": "he/him",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/262788771404185608/c23cf97e1c4725b9938a3c84f3072a70.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1328414042934743181",
+        "channelId": "1328410950792904714",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328418628617375856",
+      "type": "Default",
+      "timestamp": "2025-01-13T12:41:21.887-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is the syllabus with Brian from last semester",
+      "author": {
+        "id": "315598930115035136",
+        "name": "halcyon_727",
+        "discriminator": "0000",
+        "nickname": "Halcyon",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/315598930115035136/e789142e20b5421f4f6e020823b9acbd.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1328418628080767037",
+          "url": "https://cdn.discordapp.com/attachments/1328410950792904714/1328418628080767037/CS1555_Syllabus.pdf?ex=688664c1&is=68851341&hm=bcff202c090fd2ecc868fb006db9507d2785592ea1386df7f59d4e72badfff23&",
+          "fileName": "CS1555_Syllabus.pdf",
+          "fileSizeBytes": 31778
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "437976650001678337",
+              "name": "kwad1075",
+              "discriminator": "0000",
+              "nickname": "Aaryan Gaikwad",
+              "color": "#1F8B4C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/437976650001678337/4fef0229282b3d57a009d98acac8cf20.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

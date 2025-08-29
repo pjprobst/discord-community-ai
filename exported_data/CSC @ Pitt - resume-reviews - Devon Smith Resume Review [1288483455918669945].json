@@ -1,0 +1,98 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1288483455918669945",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Devon Smith Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:40:50.161259-04:00",
+  "messages": [
+    {
+      "id": "1288483455918669945",
+      "type": "Default",
+      "timestamp": "2024-09-25T08:53:14.756-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi! My name is Devon Smith, currently a junior. I just updated my resume for this year and was hoping to get some feedback before I start applying to summer internships. Be picky plz! i’m also looking to apply to data analytics/ data analysis internships specifically.\n\n(Silent repost bc I accidentally sent docx format last time lolz)",
+      "author": {
+        "id": "395293164841205763",
+        "name": "fairydva",
+        "discriminator": "0000",
+        "nickname": "Devon Smith",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395293164841205763/0874c52746e0c886391a91a36504787c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1288483456267059290",
+          "url": "https://cdn.discordapp.com/attachments/1288483455918669945/1288483456267059290/devon_smith_resume_2024_1.pdf?ex=6886213a&is=6884cfba&hm=be580cda8419ad9ec5a6f26517abe3318ff5f94d14098cd1bd25e7d15791252c&",
+          "fileName": "devon_smith_resume_2024_1.pdf",
+          "fileSizeBytes": 121879
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,143 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1222932686000099328",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Opinions on 1503?",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:16:03.655539-04:00",
+  "messages": [
+    {
+      "id": "1222932686000099328",
+      "type": "Default",
+      "timestamp": "2024-03-28T11:37:53.333-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm planning out my classes for next semester and I was wondering what people thought of 1503. I'll be taking 1501 next semester which I've heard is a heavy workload class so I'm wondering if taking 1503 with it is a good idea.",
+      "author": {
+        "id": "264439403248746497",
+        "name": "_assad",
+        "discriminator": "0000",
+        "nickname": "Assad Bari",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264439403248746497/3770a8a282df7ea9a4dd3af1776a8555.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1222933133498777672",
+      "type": "Default",
+      "timestamp": "2024-03-28T11:39:40.025-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Currently taking it, as long as you know stats and conditional probabilities it isn’t too bad of a workload",
+      "author": {
+        "id": "1119851767547576472",
+        "name": "ilaydvir",
+        "discriminator": "0000",
+        "nickname": "Ilay",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1119851767547576472/65cbd671c95cf8db049a83fe55bbe5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1222933201471672380",
+      "type": "Default",
+      "timestamp": "2024-03-28T11:39:56.231-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I sent the syllabus in the general chat",
+      "author": {
+        "id": "1119851767547576472",
+        "name": "ilaydvir",
+        "discriminator": "0000",
+        "nickname": "Ilay",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1119851767547576472/65cbd671c95cf8db049a83fe55bbe5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

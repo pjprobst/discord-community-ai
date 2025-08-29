@@ -1,0 +1,239 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Gui/DiscordChatExporter.Gui.csproj": {}
+  },
+  "projects": {
+    "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Core/DiscordChatExporter.Core.csproj": {
+      "version": "999.9.9-dev",
+      "restore": {
+        "projectUniqueName": "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Core/DiscordChatExporter.Core.csproj",
+        "projectName": "DiscordChatExporter.Core",
+        "projectPath": "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Core/DiscordChatExporter.Core.csproj",
+        "packagesPath": "/Users/shreyashranjan/.nuget/packages/",
+        "outputPath": "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/NuGet.Config",
+          "/Users/shreyashranjan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AsyncKeyedLock": {
+              "target": "Package",
+              "version": "[7.1.6, )"
+            },
+            "CSharpier.MsBuild": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Gress": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "JsonExtensions": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "RazorBlade": {
+              "target": "Package",
+              "version": "[0.10.0, )"
+            },
+            "Superpower": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "WebMarkupMin.Core": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Gui/DiscordChatExporter.Gui.csproj": {
+      "version": "999.9.9-dev",
+      "restore": {
+        "projectUniqueName": "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Gui/DiscordChatExporter.Gui.csproj",
+        "projectName": "DiscordChatExporter",
+        "projectPath": "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Gui/DiscordChatExporter.Gui.csproj",
+        "packagesPath": "/Users/shreyashranjan/.nuget/packages/",
+        "outputPath": "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Gui/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/NuGet.Config",
+          "/Users/shreyashranjan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Core/DiscordChatExporter.Core.csproj": {
+                "projectPath": "/Users/shreyashranjan/Startup/Old ideas/DiscordChatExporter/DiscordChatExporter.Core/DiscordChatExporter.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AsyncImageLoader.Avalonia": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.3.2, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.3.2, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.3.2, )"
+            },
+            "CSharpier.MsBuild": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Cogwheel": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Deorcify": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "DialogHost.Avalonia": {
+              "target": "Package",
+              "version": "[0.9.3, )"
+            },
+            "Gress": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Material.Avalonia": {
+              "target": "Package",
+              "version": "[3.9.2, )"
+            },
+            "Material.Icons.Avalonia": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )",
+              "autoReferenced": true
+            },
+            "Onova": {
+              "target": "Package",
+              "version": "[2.6.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

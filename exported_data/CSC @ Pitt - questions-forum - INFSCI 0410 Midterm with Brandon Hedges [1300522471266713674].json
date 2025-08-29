@@ -1,0 +1,133 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1300522471266713674",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "INFSCI 0410 Midterm with Brandon Hedges",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:05:48.320737-04:00",
+  "messages": [
+    {
+      "id": "1300522471266713674",
+      "type": "Default",
+      "timestamp": "2024-10-28T14:11:59.689-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey I just wanted to see if anyone has taken an exam with Brandon Hedges before? If you have, any advice for the midterm?\n\nHe hasn't really gone over what the midterm will be like. He was honestly very vague and didn't give any practice/study material. He said that to give us a practice exam would \"Give us something very close to the actual exam.\"\n\nAny advice or tips would be appreciated, thank you!",
+      "author": {
+        "id": "1041550151342362654",
+        "name": "lukecusato",
+        "discriminator": "0000",
+        "nickname": "luke cusato",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1041550151342362654/323098067ef7309b5d6d51df162f9fa2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1300536625490563182",
+      "type": "Default",
+      "timestamp": "2024-10-28T15:08:14.319-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I took 0410 with Brandon last semester, which was his first time teaching this class. Our midterm was take home, and was generally some true false questions, fill in the blank questions, multiple choice questions and short answer. It was pretty straightforward, think like definitions of terms gone over in class for the multiple choice/ true false questions. The open ended were less definitiony and more application based. he asked for examples of things that fit certain design considerations or gave you a design scenario that had to fit a certain design lens.",
+      "author": {
+        "id": "961421083578363954",
+        "name": "acavcav",
+        "discriminator": "0000",
+        "nickname": "Anna Cavanaugh",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961421083578363954/313e9fcabb3d62b69ef24cbcece7443e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1041550151342362654",
+              "name": "lukecusato",
+              "discriminator": "0000",
+              "nickname": "luke cusato",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1041550151342362654/323098067ef7309b5d6d51df162f9fa2.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

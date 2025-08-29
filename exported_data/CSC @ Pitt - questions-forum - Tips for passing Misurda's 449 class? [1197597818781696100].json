@@ -1,0 +1,730 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1197597818781696100",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "Tips for passing Misurda's 449 class?",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T15:14:04.587141-04:00",
+  "messages": [
+    {
+      "id": "1197597818781696100",
+      "type": "Default",
+      "timestamp": "2024-01-18T12:46:10.289-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So it seems like I'm not gonna be getting off the waitlist for Jarrett's section anytime soon and I'll probably have to stick with Misurda this semester. I heard his projects were tough as hell and so far it's been kind of hard to follow him in lectures so is there anything I should keep in mind as I head into 449?",
+      "author": {
+        "id": "135406423281631241",
+        "name": "gaussraider",
+        "discriminator": "0000",
+        "nickname": "Gauss Raider",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/135406423281631241/093684f2c03497a90f614779b4bbbe56.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1197601617961304135",
+      "type": "Reply",
+      "timestamp": "2024-01-18T13:01:16.084-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had Misurda for 1550, not 449 but im sure most things apply. Make sure to ALWAYS go to lecture and take notes. His slides don’t cover most of the info he touches in class. Start the projects early, and honestly just grind them out. Also, the biggest thing is to not be afraid to ask for help. Misurda is scary, but I went to his office hours multiple k times when I was confused about projects and concepts, and even tho he was kinda mean, he really helped me understand stuff better. Despite not being very good at systems stuff or C, I was able to barely get an A- in his class because of these strategies",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "135406423281631241",
+          "name": "gaussraider",
+          "discriminator": "0000",
+          "nickname": "Gauss Raider",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/135406423281631241/093684f2c03497a90f614779b4bbbe56.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1197597818781696100",
+        "channelId": "1197597818781696100",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1197601625687203941",
+      "type": "Default",
+      "timestamp": "2024-01-18T13:01:17.926-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good luck!!",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1197601668875960402",
+      "type": "Default",
+      "timestamp": "2024-01-18T13:01:28.223-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You will learn a lot in his class for sure, he’s a great professor",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1197604204223680662",
+      "type": "Default",
+      "timestamp": "2024-01-18T13:11:32.697-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thank you, yeah most of my worries are about office hours and taking notes since (admittedly) i crumble under any kind of social pressure. i'll probably have to get used to it over the semester\n\nwhen you were taking notes what method worked the best for you? i noticed that he tends to go on in a more traditional lecturing style and i dont really know what to focus and take notes on",
+      "author": {
+        "id": "135406423281631241",
+        "name": "gaussraider",
+        "discriminator": "0000",
+        "nickname": "Gauss Raider",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/135406423281631241/093684f2c03497a90f614779b4bbbe56.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1197607898633748491",
+      "type": "Default",
+      "timestamp": "2024-01-18T13:26:13.513-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reading the textbook will be especially beneficial, since he's the one who wrote it. Also, 449 is a programming heavy class, so take advantage of the UTA/TA office hours and begin projects as soon as you can.",
+      "author": {
+        "id": "222977096681652224",
+        "name": "shinwookim",
+        "discriminator": "0000",
+        "nickname": "shinwookim",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222977096681652224/44767850a5d77c57e53ab57dd55ffb36.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1197613835847225436",
+      "type": "Reply",
+      "timestamp": "2024-01-18T13:49:49.055-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I personally took notes on my iPad / pencil + paper. I found that since there were a lot of concepts, it was important to write instead of type them. I made sure to take notes on a bit of what his slides had, but also really writing down what he is saying verbally, as those points are also really important",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "135406423281631241",
+          "name": "gaussraider",
+          "discriminator": "0000",
+          "nickname": "Gauss Raider",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/135406423281631241/093684f2c03497a90f614779b4bbbe56.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1197604204223680662",
+        "channelId": "1197597818781696100",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1197613946778177689",
+      "type": "Default",
+      "timestamp": "2024-01-18T13:50:15.503-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I also made quizlets for the exams and those helped me do well",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1197640554029256775",
+      "type": "Default",
+      "timestamp": "2024-01-18T15:35:59.166-05:00",
+      "timestampEdited": "2024-01-18T15:36:13.246-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "def ask questions to misurda and the tas asap once assignments release since the instructions for his projects are usually not very clear",
+      "author": {
+        "id": "133004006124552192",
+        "name": "leowonderful",
+        "discriminator": "0000",
+        "nickname": "Leo Zhang",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142452214202438",
+            "name": "Graduate Student",
+            "color": "#E67E22",
+            "position": 36
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/133004006124552192/27bf8df311b31e4f05bba85404e522fd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "‼️",
+            "code": "bangbang",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/203c.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "786210773940043776",
+              "name": "ruchiiii",
+              "discriminator": "0000",
+              "nickname": "ruchi",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/786210773940043776/38924a9089e83d0f2ba03055c5ae74f4.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1245802060088348874",
+      "type": "Default",
+      "timestamp": "2024-05-30T14:12:37.008-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi Im taking 449 right now and I am in the same boat",
+      "author": {
+        "id": "277252088851988480",
+        "name": "dggilson",
+        "discriminator": "0000",
+        "nickname": "Devin Gilson",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277252088851988480/d3350e99162f2633eae1b1ad0a0b2ca3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1245802198009512077",
+      "type": "Default",
+      "timestamp": "2024-05-30T14:13:09.891-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so if anyone has any advice for this class with misurda please lmk",
+      "author": {
+        "id": "277252088851988480",
+        "name": "dggilson",
+        "discriminator": "0000",
+        "nickname": "Devin Gilson",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277252088851988480/d3350e99162f2633eae1b1ad0a0b2ca3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1245802212832186459",
+      "type": "Default",
+      "timestamp": "2024-05-30T14:13:13.425-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "struggling heavy",
+      "author": {
+        "id": "277252088851988480",
+        "name": "dggilson",
+        "discriminator": "0000",
+        "nickname": "Devin Gilson",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277252088851988480/d3350e99162f2633eae1b1ad0a0b2ca3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1245805198421528716",
+      "type": "Reply",
+      "timestamp": "2024-05-30T14:25:05.245-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "did u read all the stuff above?",
+      "author": {
+        "id": "683116152670519343",
+        "name": "nijp",
+        "discriminator": "0000",
+        "nickname": "Nij Patel",
+        "color": "#BB870F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "980504304802750484",
+            "name": "Former Officers",
+            "color": "#BB870F",
+            "position": 38
+          },
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "277252088851988480",
+          "name": "dggilson",
+          "discriminator": "0000",
+          "nickname": "Devin Gilson",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1238328037808930817",
+              "name": "Verified",
+              "color": null,
+              "position": 14
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/277252088851988480/d3350e99162f2633eae1b1ad0a0b2ca3.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1245802212832186459",
+        "channelId": "1197597818781696100",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1246163356511895755",
+      "type": "Default",
+      "timestamp": "2024-05-31T14:08:16.788-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes I did",
+      "author": {
+        "id": "277252088851988480",
+        "name": "dggilson",
+        "discriminator": "0000",
+        "nickname": "Devin Gilson",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/277252088851988480/d3350e99162f2633eae1b1ad0a0b2ca3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1250124299063267348",
+      "type": "Default",
+      "timestamp": "2024-06-11T12:27:39.083-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Heavy emphasis on programming assignments. When I graded 449, many students lost points because they didn't fully understand what was being asked of them; so, definitely make use of (U)TAs and ask alot of clarifying questions",
+      "author": {
+        "id": "222977096681652224",
+        "name": "shinwookim",
+        "discriminator": "0000",
+        "nickname": "shinwookim",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222977096681652224/44767850a5d77c57e53ab57dd55ffb36.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1250124874869899365",
+      "type": "Default",
+      "timestamp": "2024-06-11T12:29:56.366-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jon does curve exams towards the end (although maybe not enough), but personally think it's alot easier to earn points on assignments to make up for points you may lose on exam",
+      "author": {
+        "id": "222977096681652224",
+        "name": "shinwookim",
+        "discriminator": "0000",
+        "nickname": "shinwookim",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222977096681652224/44767850a5d77c57e53ab57dd55ffb36.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 16
+}

@@ -1,0 +1,307 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1278942839694295061",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Wabona Dandi Resume Review",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:47:51.241374-04:00",
+  "messages": [
+    {
+      "id": "1278942839694295061",
+      "type": "Default",
+      "timestamp": "2024-08-30T01:02:14.592-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey y'all! I'm a senior, and interested in applying for swe and ds roles. Feel free to leave some productive feedback. Thanks in advance.",
+      "author": {
+        "id": "344850982263324674",
+        "name": "wabona619",
+        "discriminator": "0000",
+        "nickname": "Wabona Dandi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344850982263324674/a147fe98ee7d9bb7d80da239b7d128f7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1278942839774122036",
+          "url": "https://cdn.discordapp.com/attachments/1278942839694295061/1278942839774122036/Wabona_Resume.pdf?ex=68865b96&is=68850a16&hm=3c4335a74bdc78f9b968b5706e136268869ddc5b782e9abbc29e5bace940d617&",
+          "fileName": "Wabona_Resume.pdf",
+          "fileSizeBytes": 37385
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "743509541144100904",
+              "name": "ncbarta",
+              "discriminator": "0000",
+              "nickname": "Barta",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279068699436781699",
+      "type": "Default",
+      "timestamp": "2024-08-30T09:22:21.893-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "* The phone number is still the template version\n* Include link text for github and linkedin. The text can be a partial link: linkedin.com/in/wabonadandi\n* Include your GPA in the education section if it is >= 3.3\n* Move skills section to the bottom of the page\n* Consider separating skills with commas instead of lines\n* Use past tense for your current work experience (it's better to have them all be consistent)\n* The advice is generally to have the jobs in chronological order, but I actually prefer leading with the most relevant  work experience (your PNC internships). Consider moving the TA and IT Consultant positions to the end of the experience section, or even creating a second section (industry experience vs work experience or something like that). That's just my preference though.\n* \"Vastly improve students’ ability\" I don't like this, vastly improve is very subjective in this case.\n* \"Wrote the ”getIncidents” command\" Just briefly explain what it does rather than give the name in quotes -> \"wrote a script that queries incidents from the database and sends live updates in teams chat\"\n* For both the internships, state the tech stack you worked with. You only mention .NET. If you used C#, JS, or specific front end frameworks, mention them by name\n* Projects don't have job titles. Instead of saying \"Front End Developer\" under the projects, give the tech stack (BeatCode - JavaScript)\n* Link to project's live demo or code repository (if you're okay with a company looking at them)\n\nLooks good overall! It's a strong resume and the formatting is good.",
+      "author": {
+        "id": "470266584699764776",
+        "name": "burningpocket",
+        "discriminator": "0000",
+        "nickname": "Eric Anderson",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "862878124076040242",
+            "name": "Alumni",
+            "color": "#206694",
+            "position": 37
+          },
+          {
+            "id": "784871450087522345",
+            "name": "Game Dev",
+            "color": "#F2B6B0",
+            "position": 28
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470266584699764776/b34504775c1f22aeff32a6874b8882be.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279125738250965034",
+      "type": "Default",
+      "timestamp": "2024-08-30T13:09:01.006-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks Eric this is so helpful \uD83D\uDC4F\uD83C\uDFFD",
+      "author": {
+        "id": "344850982263324674",
+        "name": "wabona619",
+        "discriminator": "0000",
+        "nickname": "Wabona Dandi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1240755362722746510",
+            "name": "LeetCode Bootcamp",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344850982263324674/a147fe98ee7d9bb7d80da239b7d128f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC4F",
+          "code": "clap",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44f.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83C\uDFFD",
+          "code": "\uD83C\uDFFD",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3fd.svg"
+        }
+      ]
+    },
+    {
+      "id": "1279200331796054070",
+      "type": "Default",
+      "timestamp": "2024-08-30T18:05:25.493-04:00",
+      "timestampEdited": "2024-08-30T18:06:15.908-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I agree with most of what Eric said, imo:\n1. Make sure your margins equal on all sides (including top and bottom, rn you only have left and right), general rule of thumb is 0.5in on all sides\n2. Instead of 'Programming Languages' I think you can just say 'Languages'\n3. \"NOTABLE PROȷECTS\" => \"PROJECTS\"\n4. \"LEADERSHIP AND PROFESSIONAL DEVELOPMENT\" => \"LEADERSHIP\"\n5. Adding onto what Eric said about mentioning tech stack for internships, you can do even better i think and incorporate them in your bullet points, for example (hypothetical idk the system you worked on) \"Automated functionality of a settlement tool that assisted employees with settling debt with customer\" => \"Automated a settlement tool functionality for a Django RESTful API in Python that assisted employees with settling debt with customer\", then that way you can remove the last bullet point entirely (\" Leveraged Python, GraphQL, Django\")\n6. (recommended) if you implement the heading style Eric talked about make it one line, it saves space",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "344850982263324674",
+              "name": "wabona619",
+              "discriminator": "0000",
+              "nickname": "Wabona Dandi",
+              "color": "#E74C3C",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/344850982263324674/a147fe98ee7d9bb7d80da239b7d128f7.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1279200871070171217",
+      "type": "Default",
+      "timestamp": "2024-08-30T18:07:34.066-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would say 5 doesnt just apply to internships, it applies to all your bullet points, look up the STAR, CAR, and XYZ format",
+      "author": {
+        "id": "376261113429360640",
+        "name": "gobydastan",
+        "discriminator": "0000",
+        "nickname": "Dastan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376261113429360640/1ab1e81ac323a014245019259089bb41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 5
+}

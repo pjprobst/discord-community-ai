@@ -1,0 +1,823 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1284929155745447986",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Guidelines + Format",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:36:23.142839-04:00",
+  "messages": [
+    {
+      "id": "1284929155745447986",
+      "type": "Default",
+      "timestamp": "2024-09-15T13:29:43.559-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- Resume Template: https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs\n- CV Template: https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm\n- Google Resume Advice: https://www.notion.so/Google-X-Y-Z-Resume-Formula-16ed553489b24c078c5c1d2bfd60ca7a\n- r/EngineeringResumes Template:\nhttps://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates/\nHere are some action verbs that are good to use on your resume:",
+      "author": {
+        "id": "446759651120513024",
+        "name": "shreyash.ranjan",
+        "discriminator": "0000",
+        "nickname": "Shreyash Ranjan",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1284929156169203763",
+          "url": "https://cdn.discordapp.com/attachments/1284929155745447986/1284929156169203763/unknown.png?ex=68866207&is=68851087&hm=cb19bc76562093d16ffae54542267a1185586d5cc55f7c06533d100ca6f07651&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 119084
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Jake's Resume",
+          "url": "https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs",
+          "timestamp": null,
+          "description": "An online LaTeX editor that’s easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cGhFfZX2P6BXIAbEm5IZ_bxstnBdBZ3ZGqey9D873B0/https/cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png",
+            "width": 256,
+            "height": 256
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Awesome CV",
+          "url": "https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm",
+          "timestamp": null,
+          "description": "An online LaTeX editor that’s easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cGhFfZX2P6BXIAbEm5IZ_bxstnBdBZ3ZGqey9D873B0/https/cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png",
+            "width": 256,
+            "height": 256
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Google X-Y-Z Resume Formula | Notion",
+          "url": "https://www.notion.so/Google-X-Y-Z-Resume-Formula-16ed553489b24c078c5c1d2bfd60ca7a",
+          "timestamp": null,
+          "description": "More than two million people apply to work for Google each year, which is more than 20 times the number of\u00A0employees at the company at any given time.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8Nd1RqSF7bfa4p0HhjIRgvV0VKuaTrp0pKbCXY70lQ8/https/majestic-epoch-fb4.notion.site/images/meta/notion-wordmark.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "r/EngineeringResumes",
+          "url": "https://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates/",
+          "timestamp": null,
+          "description": "A place to review and discuss engineering resumes. Please read the wiki before posting!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XINRLzeXTGDF5UYEd9BeGiR8E-RdJGWbTIChoK9CRto/https/styles.redditmedia.com/t5_37mk2/styles/communityIcon_2a04cxka01qb1.png",
+            "width": 256,
+            "height": 256
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 8,
+          "users": [
+            {
+              "id": "299672434041421825",
+              "name": "xestra",
+              "discriminator": "0000",
+              "nickname": "Xestra",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/299672434041421825/0927be6e3deb1c356e7c9756f78cb1f1.png?size=512"
+            },
+            {
+              "id": "492425504750567425",
+              "name": "rohaanwasim",
+              "discriminator": "0000",
+              "nickname": "Rohaan Wasim",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/492425504750567425/fde22cc79780613fe3ac150abb1cee88.png?size=512"
+            },
+            {
+              "id": "577889604770856960",
+              "name": "rawr_beezly",
+              "discriminator": "0000",
+              "nickname": "Rawr_Beezly",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/577889604770856960/3ad0f14ac92d71cc748ea1a33411bf3f.png?size=512"
+            },
+            {
+              "id": "619614304853032980",
+              "name": "daley__",
+              "discriminator": "0000",
+              "nickname": "Daley",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/619614304853032980/6884f38faf700f6cb7166673d93ee739.png?size=512"
+            },
+            {
+              "id": "683116152670519343",
+              "name": "nijp",
+              "discriminator": "0000",
+              "nickname": "Nij",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/683116152670519343/57f1dba0205dac05ca2555fe2fa09cfe.png?size=512"
+            },
+            {
+              "id": "743509541144100904",
+              "name": "ncbarta",
+              "discriminator": "0000",
+              "nickname": "Barta",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/743509541144100904/b674dc95a7350675bde929fe97f3573e.png?size=512"
+            },
+            {
+              "id": "791118926733508679",
+              "name": "utkarsh2106",
+              "discriminator": "0000",
+              "nickname": "Apoptosis",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/791118926733508679/5fc9e2f85f436f3636176213074338ce.png?size=512"
+            },
+            {
+              "id": "1062413560824729642",
+              "name": "akrishan.",
+              "discriminator": "0000",
+              "nickname": "Akash",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "275421221833670668",
+              "name": "masterg3962",
+              "discriminator": "0000",
+              "nickname": "「MasterG」",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/275421221833670668/e558b598d7ce42499bdc4be7ebdcd570.png?size=512"
+            },
+            {
+              "id": "619614304853032980",
+              "name": "daley__",
+              "discriminator": "0000",
+              "nickname": "Daley",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/619614304853032980/6884f38faf700f6cb7166673d93ee739.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1286136592716660746",
+      "type": "Default",
+      "timestamp": "2024-09-18T21:27:38.966-04:00",
+      "timestampEdited": "2024-09-18T21:27:47.773-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Some common improvements:**\nif you use Jake's resume template (generally applies)\n- Unindent all your bullet points so you get more space to write\n- List all the technologies and languages that you used for each product, dates might be useful too!\n\n*What not to do:*\n- Don't put an introduction paragraph or something, \"i'm interested in such and such, my motivations are such and such, I'm a X person etc\"\n- Leave no whitespace!! There should never be whitespace. Develop another project if you have to. Write another line about an experience etc.\n- Don't put C/C++, they are pretty different, split them up\n\n*Personal Takes:*\n- Don't put what IDEs you use, I don't see why employers would care",
+      "author": {
+        "id": "446759651120513024",
+        "name": "shreyash.ranjan",
+        "discriminator": "0000",
+        "nickname": "Shreyash Ranjan",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1315134392405852260",
+      "type": "Default",
+      "timestamp": "2024-12-07T20:54:33.165-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "446759651120513024",
+        "name": "shreyash.ranjan",
+        "discriminator": "0000",
+        "nickname": "Shreyash Ranjan",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1315123524389703771",
+        "channelId": "929017941809303553",
+        "guildId": "729022532874797146"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348429476379492352",
+      "type": "Default",
+      "timestamp": "2025-03-09T18:57:19.777-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing",
+      "author": {
+        "id": "446759651120513024",
+        "name": "shreyash.ranjan",
+        "discriminator": "0000",
+        "nickname": "Shreyash Ranjan",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MichaelScottResume",
+          "url": "https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing",
+          "timestamp": null,
+          "description": "MICHAEL G. SCOTT 123-435-7890 | mgscott@gmail.com | linkedin.com/in/mgscott~/ | simplify.jobs  EDUCATION (Click here to make a copy and here for more templates)  Scranton College\tScranton, PA B.S. Communications\tSeptember 2018 – Present GPA: 3.84 Relevant Courses: Public Speaking, Introduction t...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/iY9n9zbfMN_UULI3ou2IsD7ID3coax37EJRW8pOd1og/https/lh7-us.googleusercontent.com/docs/AHkbwyLCPG7w1JIn0SitviWEenNzJGfFB-fazUm9Vrd47Ca9BImICTfSgoD8xfT64tycCh-sKR9pQPz992Dr4ECCUsWEJTit2YVJ4Nn0UpqZ4hXfGd8RIxhz%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1394866682991874089",
+      "type": "Default",
+      "timestamp": "2025-07-15T22:22:12.595-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**__Going forward, please send both a PDF and an image.__**\n\nImages help us review things quickly - especially on mobile - and let us see the formatting at a glance. Feel free to include PDFs as well, since they help us verify that links work properly.",
+      "author": {
+        "id": "446759651120513024",
+        "name": "shreyash.ranjan",
+        "discriminator": "0000",
+        "nickname": "Shreyash Ranjan",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396960178548768819",
+      "type": "Default",
+      "timestamp": "2025-07-21T17:01:00.831-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If Jake’s template isn’t your style, you don’t like LaTeX, or you’d rather skip Google Docs, here’s a .docx version of my resume that has landed me plenty of offers. I’ve attached an image so you can preview the layout. Just download the file and add your own content.",
+      "author": {
+        "id": "446759651120513024",
+        "name": "shreyash.ranjan",
+        "discriminator": "0000",
+        "nickname": "Shreyash Ranjan",
+        "color": "#FFCC00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "729025347122888714",
+            "name": "Officers",
+            "color": "#FFCC00",
+            "position": 42
+          },
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "824302386637045780",
+            "name": "Machine Learning",
+            "color": "#3A9EFF",
+            "position": 29
+          },
+          {
+            "id": "878053832570056725",
+            "name": "Cyber Security",
+            "color": "#979C9F",
+            "position": 27
+          },
+          {
+            "id": "932105908807409664",
+            "name": "Robotics",
+            "color": "#955824",
+            "position": 26
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705776486420502",
+            "name": "Data Science",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1055633555109203968",
+            "name": "Competitive Programming",
+            "color": "#C27C0E",
+            "position": 18
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446759651120513024/ff49b1980032f6ac944f6a7b177b6a3f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396960178036936877",
+          "url": "https://cdn.discordapp.com/attachments/1284929155745447986/1396960178036936877/image.png?ex=6885eacc&is=6884994c&hm=1b6e5cf9c58cd1b9f45b0e6cdd770e8f857d606a4e1e51591c1a3734a3f1bf02&",
+          "fileName": "image.png",
+          "fileSizeBytes": 1279038
+        },
+        {
+          "id": "1396960178330669146",
+          "url": "https://cdn.discordapp.com/attachments/1284929155745447986/1396960178330669146/Firstname_Lastname_Resume_CSC.doc?ex=6885eacc&is=6884994c&hm=1b1ccaefbdf2b15008c38cf2ee4d1e160ba728eadaf393675ef1ca967b8cba99&",
+          "fileName": "Firstname_Lastname_Resume_CSC.doc",
+          "fileSizeBytes": 92672
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

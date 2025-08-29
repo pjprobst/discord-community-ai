@@ -1,0 +1,67 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1342901165297373286",
+    "type": "GuildPublicThread",
+    "categoryId": "1071474259349753986",
+    "category": "questions-forum",
+    "name": "INFSCI 1500 with Dr. Alawami",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:57:31.238208-04:00",
+  "messages": [
+    {
+      "id": "1342901165297373286",
+      "type": "Default",
+      "timestamp": "2025-02-22T11:49:47.704-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Has anyone taken INFSCI 1500 with Dr. Alawya Alawami? If so, what should I expect for the midterm? \n\nHer midterm study guide was helpful, but the lecture slides don't always translate well to labs and assignments, so I'm kinda unsure about the midterm. Any advice or tips would be great, thanks!!",
+      "author": {
+        "id": "1041550151342362654",
+        "name": "lukecusato",
+        "discriminator": "0000",
+        "nickname": "luke cusato",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1327078817772339271",
+            "name": "Mock Interviewer",
+            "color": "#C232FF",
+            "position": 34
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1041550151342362654/323098067ef7309b5d6d51df162f9fa2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

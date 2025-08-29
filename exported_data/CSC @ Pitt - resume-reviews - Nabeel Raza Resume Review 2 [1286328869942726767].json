@@ -1,0 +1,130 @@
+{
+  "guild": {
+    "id": "729022532874797146",
+    "name": "CSC @ Pitt",
+    "iconUrl": "https://cdn.discordapp.com/icons/729022532874797146/f7be7a7e83dd2dc6d900284a49df6a17.png?size=512"
+  },
+  "channel": {
+    "id": "1286328869942726767",
+    "type": "GuildPublicThread",
+    "categoryId": "1132378791868637327",
+    "category": "resume-reviews",
+    "name": "Nabeel Raza Resume Review 2",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-26T14:41:31.516642-04:00",
+  "messages": [
+    {
+      "id": "1286328869942726767",
+      "type": "Default",
+      "timestamp": "2024-09-19T10:11:41.429-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey everyone, here is my resume. Please be harsh I need feedback!!!",
+      "author": {
+        "id": "630157780254457876",
+        "name": "zpatient",
+        "discriminator": "0000",
+        "nickname": "ZPatient",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630157780254457876/90d9cb011d1fa78be7b935d579d5ac6f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1286328870072487957",
+          "url": "https://cdn.discordapp.com/attachments/1286328869942726767/1286328870072487957/Official_Resume_NabeelR_9.pdf?ex=6886339d&is=6884e21d&hm=8250c12525953f4c969b6dda14727c219c6e07fc3e7c4a4a313a75997c9a1505&",
+          "fileName": "Official_Resume_NabeelR_9.pdf",
+          "fileSizeBytes": 109276
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1287079925337034843",
+      "type": "Default",
+      "timestamp": "2024-09-21T11:56:06.989-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Personally I would swap the position and company names in professional experience but that's more personal pref than anything. Is the _Social Media Marketing Agency_ position remote? You might want to add that so there isn't any confusion",
+      "author": {
+        "id": "212243317679849472",
+        "name": "liambsulliva",
+        "discriminator": "0000",
+        "nickname": "Liam Sullivan",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1236142376465207347",
+            "name": "Undergraduate",
+            "color": "#E74C3C",
+            "position": 35
+          },
+          {
+            "id": "803450886663307265",
+            "name": "Web Dev",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "945705580826329170",
+            "name": "UX/HCI",
+            "color": "#736737",
+            "position": 20
+          },
+          {
+            "id": "945705875669151805",
+            "name": "Digital Humanities",
+            "color": "#9B59B6",
+            "position": 16
+          },
+          {
+            "id": "1238328037808930817",
+            "name": "Verified",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1236754479592898630",
+            "name": "he/him",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/212243317679849472/d1efcb6b8f89163a0aa4d43087d0840c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}
