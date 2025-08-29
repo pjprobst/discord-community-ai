@@ -1,81 +1,188 @@
-# DiscordChatExporter
+# Discord Q&A and Resume Review System
 
-[![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://tyrrrz.me/ukraine)
-[![Build](https://img.shields.io/github/actions/workflow/status/Tyrrrz/DiscordChatExporter/main.yml?branch=master)](https://github.com/Tyrrrz/DiscordChatExporter/actions)
-[![Coverage](https://img.shields.io/codecov/c/github/Tyrrrz/DiscordChatExporter/master)](https://codecov.io/gh/Tyrrrz/DiscordChatExporter)
-[![Release](https://img.shields.io/github/release/Tyrrrz/DiscordChatExporter.svg)](https://github.com/Tyrrrz/DiscordChatExporter/releases)
-[![Downloads](https://img.shields.io/github/downloads/Tyrrrz/DiscordChatExporter/total.svg)](https://github.com/Tyrrrz/DiscordChatExporter/releases)
-[![Pulls](https://img.shields.io/docker/pulls/tyrrrz/discordchatexporter)](https://hub.docker.com/r/tyrrrz/discordchatexporter)
-[![Discord](https://img.shields.io/discord/869237470565392384?label=discord)](https://discord.gg/2SUWKFnHSm)
-[![Fuck Russia](https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000)](https://twitter.com/tyrrrz/status/1495972128977571848)
+An intelligent system that leverages Discord community knowledge to provide personalized Q&A responses and resume feedback using machine learning and semantic search.
 
-<table>
-    <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
-    </tr>
-</table>
+## 🎯 Vision
 
-<p align="center">
-    <img src="favicon.png" alt="Icon" />
-</p>
+Transform Discord communities into intelligent knowledge bases by:
+- **Smart Q&A**: Automatically answer new questions using historical Discord conversations
+- **Intelligent Resume Reviews**: Provide personalized, human-like resume feedback based on community expertise
 
-**DiscordChatExporter** is an application that can be used to export message history from any [Discord](https://discord.com) channel to a file.
-It works with direct messages, group messages, and server channels, and supports Discord's dialect of markdown as well as most other rich media features.
+Unlike generic resume review sites, this system learns from real human feedback patterns to deliver contextual, community-driven advice.
 
-> ❔ If you have questions or issues, **please refer to the [docs](.docs)**.
+## 🏗️ Architecture
 
-> 💬 If you want to chat, **join my [Discord server](https://discord.gg/2SUWKFnHSm)**.
+### Core Components
 
-## Terms of use<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/why-so-political.md)</sup>
+1. **Data Extraction** (`DiscordChatExporter`)
+   - Exports Discord channel conversations to structured JSON
+   - Currently focused on `questions-forum` channels from CSC @ Pitt server
 
-By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
+2. **Data Processing** (`process_exports.py`)
+   - Parses exported JSON files
+   - Extracts question-answer pairs and resume feedback threads
+   - Generates clean datasets for ML training
 
-- You **condemn Russia and its military aggression against Ukraine**
-- You **recognize that Russia is an occupant that unlawfully invaded a sovereign state**
-- You **support Ukraine's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
-- You **reject false narratives perpetuated by Russian state propaganda**
+3. **Semantic Search Engine** (`discord_bot.py`)
+   - Uses SentenceTransformers for question similarity matching
+   - Implements cosine similarity scoring with configurable thresholds
+   - Currently using `all-MiniLM-L6-v2` model for fast inference
 
-To learn more about the war and how you can help, [click here](https://tyrrrz.me/ukraine). Glory to Ukraine! 🇺🇦
+4. **Discord Bot Interface**
+   - `!ask <question>` - Query the knowledge base
+   - `!review_resume` - Resume analysis (in development)
 
-## Download
+### Data Flow
+```
+Discord Channels → JSON Export → Processing → Knowledge Base → Semantic Search → Bot Responses
+```
 
-- **Graphical user interface** (desktop app):
-  - 🟢 **[Stable release](https://github.com/Tyrrrz/DiscordChatExporter/releases/latest)**: look for `DiscordChatExporter.*.zip`
-  - 🟠 [CI build](https://github.com/Tyrrrz/DiscordChatExporter/actions/workflows/main.yml): look for `DiscordChatExporter.*.zip`
-- **Command-line interface** (terminal app):
-  - 🟢 **[Stable release](https://github.com/Tyrrrz/DiscordChatExporter/releases/latest)**: look for `DiscordChatExporter.Cli.*.zip`
-  - 🟠 [CI build](https://github.com/Tyrrrz/DiscordChatExporter/actions/workflows/main.yml): look for `DiscordChatExporter.Cli.*.zip`
-  - 🐋 [Docker](https://hub.docker.com/r/tyrrrz/discordchatexporter): `docker pull tyrrrz/discordchatexporter`
-  - 📦 [AUR](https://aur.archlinux.org/packages/discord-chat-exporter-cli): `discord-chat-exporter-cli`
-  - 📦 [Nix](https://search.nixos.org/packages?query=discordchatexporter-cli): `discordchatexporter-cli`
+## 🚀 Quick Start
 
-> **Important**:
-> To launch the GUI version of the app on MacOS, you need to first remove the downloaded file from quarantine.
-> You can do that by running the following command in the terminal: `xattr -rd com.apple.quarantine DiscordChatExporter.app`.
+### Prerequisites
+- Python 3.8+
+- Discord Bot Token
+- Access to Discord channels for data extraction
 
-> **Note**:
-> If you're unsure which build is right for your system, consult with [this page](https://useragent.cc) to determine your OS and CPU architecture.
+### Installation
+```bash
+# Clone the repository
+git clone <repository-url>
+cd DiscordChatExporter
 
-> **Note**:
-> AUR and Nix packages linked above are maintained by the community.
-> If you have any issues with them, please contact the corresponding maintainers.
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-## Features
+# Install dependencies
+pip install -r requirements.txt
+```
 
-- Cross-platform graphical and command-line interfaces
-- Authentication via either a user or a bot token
-- Multiple output formats: HTML (dark/light), TXT, CSV, JSON
-- Support for markdown, attachments, embeds, emoji, and other rich media features
-- File partitioning, date ranges, message filtering, and other export options
-- Self-contained exports that can be viewed offline
+### Setup
+1. **Export Discord Data**
+   - Use DiscordChatExporter CLI to export channel conversations
+   - Place JSON files in `exported_data/` directory
 
-## Screenshots
+2. **Process Data**
+   ```bash
+   python process_exports.py
+   ```
 
-![channel list](.assets/list.png)
-![rendered output](.assets/output.png)
+3. **Configure Bot**
+   - Update `DISCORD_BOT_TOKEN` in `discord_bot.py`
+   - Adjust `SIMILARITY_THRESHOLD` (default: 0.65)
 
-## See also
+4. **Run Bot**
+   ```bash
+   python discord_bot.py
+   ```
 
-- [**Chat Analytics**](https://github.com/mlomb/chat-analytics) — solution for analyzing chat patterns of Discord users, using exports produced by **DiscordChatExporter**.
-- [**DiscordChatExporter-frontend**](https://github.com/slatinsky/DiscordChatExporter-frontend) — convenient viewer for exports produced by **DiscordChatExporter**.
+## 📊 Current Status
+
+### ✅ Implemented
+- Discord data export and parsing
+- Question-answer pair extraction
+- Semantic similarity search
+- Basic Discord bot commands
+- SentenceTransformer integration
+
+### 🚧 In Development
+- Resume review functionality
+- PDF/image resume parsing
+- Advanced feedback generation
+- Multi-modal input processing
+
+### 🎯 Planned Features
+- Fine-tuned LLM integration for response generation
+- Resume template matching and scoring
+- Community feedback learning
+- Web interface
+- Analytics dashboard
+
+## 📁 Project Structure
+
+```
+DiscordChatExporter/
+├── discord_bot.py              # Main bot with Q&A functionality
+├── process_exports.py          # Data processing pipeline
+├── requirements.txt            # Python dependencies
+├── exported_data/             # Raw Discord JSON exports
+│   └── *.json                 # Individual channel exports
+├── q_and_a.json              # Processed Q&A knowledge base
+├── resume_advice.json        # Processed resume feedback data
+└── venv/                     # Python virtual environment
+```
+
+## 🔧 Configuration
+
+### Key Parameters
+- `SIMILARITY_THRESHOLD`: Minimum cosine similarity for question matching (0.65)
+- `QA_DATA_FILE`: Path to processed Q&A knowledge base
+- `MODEL`: SentenceTransformer model for embeddings
+
+### Supported Channels
+- `questions-forum`: Academic and technical Q&A
+- `resume-reviews`: Resume feedback and career advice (planned)
+
+## 🤖 Usage Examples
+
+### Query the Knowledge Base
+```
+!ask What's the best CS 1550 project for my resume?
+```
+**Response:** *Matches against historical discussions and provides community-backed recommendations*
+
+### Resume Review (Planned)
+```
+!review_resume [attachment: resume.pdf]
+```
+**Expected Response:** *Detailed feedback on format, content, and improvements based on community patterns*
+
+## 🔮 Technical Details
+
+### Machine Learning Pipeline
+1. **Text Preprocessing**: Clean and normalize Discord message content
+2. **Embedding Generation**: Convert questions to vector representations
+3. **Similarity Search**: Find closest matching historical questions
+4. **Response Aggregation**: Combine relevant answers with confidence scoring
+
+### Performance Considerations
+- Model: `all-MiniLM-L6-v2` (384 dimensions, ~80MB)
+- Inference time: ~50ms per query
+- Memory usage: Scales with knowledge base size
+
+## 🤝 Contributing
+
+This project is in early development. Key areas for contribution:
+- Resume parsing and analysis algorithms
+- UI/UX improvements
+- Data quality enhancement
+- Performance optimization
+
+## 📝 Notes
+
+- Bot token is currently hardcoded (move to environment variables)
+- Limited to CSC @ Pitt Discord server data
+- Resume functionality is placeholder implementation
+- Consider privacy implications when handling user data
+
+## 🎯 Next Steps
+
+1. **Resume Analysis Engine**
+   - PDF text extraction
+   - Common mistake detection
+   - Personalized feedback generation
+
+2. **Advanced NLP**
+   - Fine-tune models on domain-specific data
+   - Implement retrieval-augmented generation (RAG)
+   - Add conversation memory
+
+3. **User Experience**
+   - Web dashboard
+   - Batch processing capabilities
+   - Analytics and insights
+
+---
+
+*Built with DiscordChatExporter for data extraction and powered by SentenceTransformers for semantic search.*
