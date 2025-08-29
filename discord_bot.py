@@ -3,10 +3,16 @@ from discord.ext import commands
 from sentence_transformers import SentenceTransformer, util
 import json
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # --- Configuration ---
-# Replace with your bot's token
-DISCORD_BOT_TOKEN = "MTM5ODc1MTcxODU3Mjk0OTU4NQ.G7R_Vf.PjNjAjtwvVpBkSL6fkt37p7j8AKsrcvt4KHJHM"
+# Get Discord bot token from environment variable
+DISCORD_BOT_TOKEN = os.getenv('DISCORD_BOT_TOKEN')
+if not DISCORD_BOT_TOKEN:
+    raise ValueError("DISCORD_BOT_TOKEN environment variable is not set. Please create a .env file with your bot token.")
 # Path to your processed Q&A data
 QA_DATA_FILE = "q_and_a.json"
 # Semantic similarity threshold (adjust as needed)

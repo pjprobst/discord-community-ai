@@ -68,9 +68,19 @@ pip install -r requirements.txt
    python process_exports.py
    ```
 
-3. **Configure Bot**
-   - Update `DISCORD_BOT_TOKEN` in `discord_bot.py`
-   - Adjust `SIMILARITY_THRESHOLD` (default: 0.65)
+3. **Configure Environment Variables**
+   ```bash
+   # Copy the example environment file
+   cp .env.example .env
+   
+   # Edit .env and add your Discord bot token
+   # Get your token from: https://discord.com/developers/applications
+   ```
+   
+   Update `.env` file:
+   ```
+   DISCORD_BOT_TOKEN=your_actual_bot_token_here
+   ```
 
 4. **Run Bot**
    ```bash
@@ -161,7 +171,7 @@ This project is in early development. Key areas for contribution:
 
 ## 📝 Notes
 
-- Bot token is currently hardcoded (move to environment variables)
+- Bot token is securely stored in environment variables (never commit `.env` files!)
 - Limited to CSC @ Pitt Discord server data
 - Resume functionality is placeholder implementation
 - Consider privacy implications when handling user data
