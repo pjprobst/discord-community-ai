@@ -8,6 +8,7 @@ import glob
 import os
 import re
 four_years_ago = time.time() - 5*365*24*60*60
+duplicates = 0
 auth = requests.auth.HTTPBasicAuth(CLIENT_ID, SECRET_KEY)
 data = {
     'grant_type' : 'password',
@@ -20,7 +21,7 @@ TOKEN = res.json()['access_token']
 headers['Authorization'] = f'bearer {TOKEN}'
 all_posts = []
 after = None
-filename = "rpitt_query_cs.jsonl"
+filename = "rpitt_query_2.jsonl"
 existing_ids = set()
 if os.path.exists(filename):
     with open(filename, "r", encoding="utf-8") as f:
@@ -37,13 +38,30 @@ def get_comments(subreddit, post_id, limit=500):
     data = res.json()
     comments = data[1]['data']['children']
     return comments
-with open("rpitt_querey_cs.jsonl", "w", encoding="utf-8") as out_file:
+with open("rpitt_query_2.jsonl", "a", encoding="utf-8") as out_file:
     while True:
-        params = {'q': '"data science"',
+        # computer science
+        # data science
+        # information science
+        # infsci
+        # Digital Narrative and Interactive Design
+        # DNID
+        # SCI
+        # cs
+        # comp sci
+        # computational biology
+        # Computational Social Science
+        # java
+        # CMPINF
+        # Physics and Quantum Computing
+        # Software Engineering
+        # School of Computing and Information
+        params = {'q': '"School of Computing and Information"',
                   "restrict_sr": True,
                   'limit': 100,
                   'sort': 'new',
                   'after': after}
+        print(params['q'])
         res = requests.get('https://oauth.reddit.com/r/pitt/search/', headers=headers, params=params)
         data = res.json()['data']
         for post in data['children']:
@@ -58,6 +76,7 @@ with open("rpitt_querey_cs.jsonl", "w", encoding="utf-8") as out_file:
     for post in all_posts:
          post_id = post['data']['id']
          if post_id in existing_ids:
+            duplicates += 1
             continue
          post_data= {
             "id": post['data']['id'],
@@ -74,6 +93,7 @@ with open("rpitt_querey_cs.jsonl", "w", encoding="utf-8") as out_file:
             out_file.write(json.dumps(post_data, ensure_ascii=False) + "\n")
          existing_ids.add(post_id)
 print("done!")
+print(duplicates, "duplicates found!")
 
 
     
